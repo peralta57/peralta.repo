@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+name =  dmode
+ dir = ndmode
+
+
+<dir>
+<name>[B][COLOR red]In CINEMA[/COLOR][/B]</name>
+<link>http://zenica.watchkodi.com/Movies/Latest%20Cinema.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://www.digitalproductionme.com/pictures/Novo%20Cinemas%20Dragon%20Mart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]2016 MOVIES[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/2016HD.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/cb/b9/c5/cbb9c59acc2c7019627579554caa84c6.jpg</fanart>
+</dir>
+<dir>
+<name>[B][COLOR red]MOVIES IN 1080P[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/720p%20Movies.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-ARsV33bSZ7E/Uvx6A3Xji0I/AAAAAAAAAzY/WUtkbEOtNak/s1600/Sites-For-Watch-Free-Movies-Online-Techzilla+Firefox.jpeg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]MORE 1080P MOVIES[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/1080pMovies2.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://i.imgur.com/KsZ5qoq.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]HD MOVIES COLLECTION[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/HDcollection.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://i.imgur.com/KsZ5qoq.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]KIDS[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/Kids.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/S98ovEHuEbU/maxresdefault.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]DISNEY COLLECTION[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/Disney.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/yjkjqsQQR6Uk7e2Z_XNVN5W_Yd7RQdxZSeiVvnukOe6nJ-25IdNYlA7q6QlUwGz2WA=h900</fanart>
+</dir>
+<dir>
+<name>[B][COLOR red]OSCAR WINNING MOVIES[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/oscars.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://cdn1-www.comingsoon.net/assets/uploads/1970/01/file_586747_afi-best-movies-2013-1292013-152133.jpg</fanart>
+</dir>
+<dir>
+<name>[B][COLOR red]TVSHOWS[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/Shows.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-QjW-iP7c3mc/UVOYkJgkzvI/AAAAAAAAAVg/8STAI8IIzvI/s1600/logotyo.png</fanart>
+</dir>
+<dir>
+<name>[B][COLOR red]/COLOR][/B]</name>
+<link></link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[B][COLOR red]80'S MOVIES[/COLOR][/B]</name>
+<link>http://zenica.watchkodi.com/Movies/Decades/1980s.xml</link>
+<thumbnail>http://cdn.playbuzz.com/cdn/def3652c-c857-4a1d-86ac-f914d78a55e0/9e6ac607-a78c-45e8-87f5-3af65c64d8d7.jpg</thumbnail>
+<fanart>http://leakynews.s3.amazonaws.com/pub/wp-content/uploads/2013/09/Movies1-736x510.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red][/COLOR][/B]</name>
+<link></link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[B][COLOR red]BOXSETS[/COLOR][/B]</name>
+<link>http://zenica.watchkodi.com/Directories/Movies%20Directories/Boxsets%20Directory.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://images4.static-bluray.com/htgallery/99404.jpg</fanart>
+</dir>
+<dir>
+<name>[B][COLOR red]HORROR MOVIES[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/ScaryMovies.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fdanart>https://natashaharmeryear1.files.wordpress.com/2013/08/horror-movie-actors-collage.jpg</fanart>
+</dir>
+
+
+
+

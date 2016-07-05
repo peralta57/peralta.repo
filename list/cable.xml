@@ -1,0 +1,1933 @@
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] BOXNATION </title>
+                        <fanart>http://i.dailymail.co.uk/i/pix/2011/10/17/article-2050148-0E6A7F2100000578-782_468x368.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c8/BoxNation2014Logo.png</thumbnail>
+                        <link>http://play.uktvnow.net:1935/live/boxnation.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMTYgMTowNjoyOCBBTSZoYXNoX3ZhbHVlPVI2Slhic01Ya3JMNGdibmNXNnhVdnc9PSZ2YWxpZG1pbnV0ZXM9MjA=&amp;mode=1002</link>
+                        </item>
+
+
+<item>
+<title>[COLOR=white]([B]Telemundo HD[/B] )[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_telemundo44 live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/telemundo44$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page>http://vaughnlive.tv/telemundo44</page>
+</regex>
+<fanart>http://orenteppermd.com/wp-content/uploads/2014/01/T47-Telemundo-Nueva-York-logo-blue1-300x184.jpg</fanart>
+ <thumbnail>https://lh5.ggpht.com/TEfYd1Bj_fniCwK0Tkufw6q8iVtsai66CooYGcE5JMIoZjfXo7Yj3Rjw66azuvyjCg=w300</thumbnail>
+<info>[B] Telemundo es una cadena de televisión estadounidense que transmite en idioma español. Es la segunda cadena de contenidos en español más grande del mundo y la segunda televisora en español más grande de Norteamérica.[/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=white]([B]Unimas HD[/B] )[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/test1000/chunklist.m3u8?sd=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniMás.svg/150px-Logo_UniMás.svg.png</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+<info>[B]UniMás es una cadena de televisión nacional de EE.UU. en español, propiedad de Univisión  [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=white]([B]Unimas[/B] )[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_unimas23 live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/unimas23$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page>http://vaughnlive.tv/unimas22</page>
+</regex>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniMás.svg/150px-Logo_UniMás.svg.png</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+<info>[B]UniMás es una cadena de televisión nacional de EE.UU. en español, propiedad de Univisión  [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=white]([B]Univision [/B] )[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/test10001/chunklist.m3u8?sd=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+<info>[B]Univisión es la cadena de televisión en español más grande de los Estados Unidos. El canal está dedicado principalmente a la población hispanohablante de Estados Unidos. Su principal competidor es Telemundo. [/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=white]([B]Univision HD [/B] )[/COLOR]</title>
+<link>https://video05-atl.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/en/9/9a/Univision_2013_logo.png</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+<info>[B]Univisión es la cadena de televisión en español más grande de los Estados Unidos. El canal está dedicado principalmente a la población hispanohablante de Estados Unidos. Su principal competidor es Telemundo. [/B]</info>
+</item>
+
+
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]DISNEY JR </title>
+                        <fanart>http://i1-news.softpedia-static.com/images/news2/Disney-Junior-Apps-discounted-in-the-AppStore-456154-2.jpg</fanart>
+                        <thumbnail>http://www.cablecable.net/files/7013/9569/2711/disneyjunior.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1460</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Cbeebies</title>
+                        <fanart>http://4.bp.blogspot.com/-_1INUBBSyCc/T0IMDR2mYUI/AAAAAAAACnw/gZut98i3lKc/s1600/cbeebies+shows+all.jpg</fanart>
+                        <thumbnail>http://i0.wp.com/www.multiplayertv.org/wp-content/uploads/2015/02/CBeebies-logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1455</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Nick Jr</title>
+                        <fanart>http://blogmarketing.typepad.com/.a/6a010534998f56970b01b8d0a76e46970c-pi</fanart>
+                        <thumbnail>http://image.wikifoundry.com/image/3/LkCCeSmmy1lh8ltnKV3AaA8108/GW255H194</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1463</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DISNEY CHANNEL</title>
+                        <fanart>http://303magazine.com/wp-content/uploads/2016/02/main-picture-1.jpg</fanart>
+                        <thumbnail>http://www.adweek.com/files/imagecache/node-inline-wide/outdoing-dischannel-logo-2014.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1467</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] NickToons</title>
+                        <fanart>http://www.geek.com/wp-content/uploads/2016/01/nicktoons.jpg</fanart>
+                        <thumbnail>http://vignette2.wikia.nocookie.net/nickfanon/images/b/bd/Nicktoons_Channel_logo_2014.png/revision/latest?cb=20131128073711</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1472</link>
+                        </item>
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Cartoon Network</title>
+                        <fanart>http://cdn.playbuzz.com/cdn/8f50949b-4b96-40e4-a06f-d32b6cee0e4a/98c5652d-0db8-4ca0-aee0-337ca687b469.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Cartoon_Network_2004_logo.svg/2000px-Cartoon_Network_2004_logo.svg.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1483</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DISNEY XD</title>
+                        <fanart>http://40.media.tumblr.com/1d66a2df878abcd915e3aa76b4183d40/tumblr_n1bml4VfRT1tnqxhwo1_500.png</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/2000px-Logo_Disney_XD.svg.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1487</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Boomerang</title>
+                        <fanart>http://www.sectordefinition.com/wp-content/uploads/2013/06/Boomerang-Tv.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/f1/OnAir_Logo_Boomerang_HD_2015.png</thumbnail>
+                        <link>hhttp://tvultimate.mx/stream/tvultimatevip.php?id=1491</link>
+                        </item>
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]Tooncast </title>
+                        <fanart>http://4.bp.blogspot.com/-KAjsQXtfIpA/Va1MJCKZ8jI/AAAAAAAABCA/eA1QTrMvf58/s1600/tooncast.png</fanart>
+                        <thumbnail>http://jayrodesign.com/wp-content/uploads/2011/08/TOONCAST_shoot-4.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1499</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]DISCOVERY KIDS </title>
+                        <fanart>http://cache-assets.flogao.com.br/photos/full/137789710.jpg</fanart>
+                        <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/4/4b/Discovery_kids_hd_logo.png/revision/latest?cb=20140318145557</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1452</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] TIIN </title>
+                        <fanart>http://televisa-networks.com/wp-content/uploads/2013/11/logo_tiin.png</fanart>
+                        <thumbnail>http://televisa-networks.com/wp-content/uploads/2013/11/ttiin.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1495</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DISCOVERY KID </title>
+                        <fanart>http://tvultimate.mx/logos/Latino-DISCOVERY- KIDS.png</fanart>
+                        <thumbnail>http://tvultimate.mx/logos/Latino-DISCOVERY- KIDS.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1452</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX LIFE</title>
+                        <fanart>http://tv.foxlife.es/bundles/aciliacarassius/themes/default/images/logo_facebook/foxlife.png</fanart>
+                        <thumbnail>http://www.indiantelevision.com/sites/drupal7.indiantelevision.co.in/files/images/tv-images/2014/06/25/fox.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1427</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]TBS </title>
+                        <fanart>http://www.cutcabletoday.com/wp-content/uploads/2015/08/TBS-logo.png</fanart>
+                        <thumbnail>http://www.cutcabletoday.com/wp-content/uploads/2015/08/TBS-logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1435</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DISCOVERY HD Teather</title>
+                        <fanart>http://www.todotvnews.com/gallery/Discovery_Mummiesfinal_396.jpg</fanart>
+                        <thumbnail>https://cf.press.discovery.com/ugc/networks/gateway/logo-hd____.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1503</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]HISTORY CHANNEL</title>
+                        <fanart>https://www.voiceoftv.com/static/images/news/history.jpg</fanart>
+                        <thumbnail>http://static1.squarespace.com/static/5486159de4b074841b303621/56abcd493b0be32c890432e7/56abcd498a65e26dbc2761ad/1454099990334/History_channel_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1507</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] NATGEO</title>
+                        <fanart>http://voices.nationalgeographic.com/files/2011/03/natgeowild1-thumb-608x3421.jpg</fanart>
+                        <thumbnail>http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1532</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]TLC </title>
+                        <fanart>http://img09.deviantart.net/ee37/i/2013/303/7/d/tlc_by_impala99-d6sfgc0.png</fanart>
+                        <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/a/a0/The_Learning_Channel_HD.png/revision/latest?cb=20110408023649</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1552</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DISCOVERY CHANEL</title>
+                        <fanart>http://dnepr.info/wp-content/uploads/2015/06/Discovery-Channel-HD-21-01-630x355.png</fanart>
+                        <thumbnail>http://dnepr.info/wp-content/uploads/2015/06/Discovery-Channel-HD-21-01-630x355.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1520</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]ANIMAL PLANET </title>
+                        <fanart>http://listverse.wpengine.netdna-cdn.com/wp-content/uploads/2013/07/animal3-e1372909351544.jpg</fanart>
+                        <thumbnail>http://www.chrisquinn.com/portfolio/scad/courses/bcst705/final/images/animal_planet_01.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1524</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]HOME AND HEALTH</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_&_Health_Asia.svg/1280px-Discovery_Home_&_Health_Asia.svg.png</fanart>
+                        <thumbnail>http://www.lamac.org/res/channels/logos/_0040_discovery_hh.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1528</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] NATGEO</title>
+                        <fanart>http://4.bp.blogspot.com/_mBmoS0RssN0/TAe6VIEKoZI/AAAAAAAABVg/XV__iUObvDk/s1600/logo+nat+geo.jpg</fanart>
+                        <thumbnail>http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1532</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] LIFETIME</title>
+                        <fanart>http://www.thefutoncritic.com/images/shows/lifetime_logo.jpg</fanart>
+                        <thumbnail>http://www.underconsideration.com/brandnew/archives/lifetime_logo_detail.gif</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1536</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Discovery Science</title>
+                        <fanart>http://www.musikvergnuegen.com/images/uploads/discovery-science_robot_reel_1308011115.jpg</fanart>
+                        <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/63/Discovery_Science_LA_2011.png/revision/latest?cb=20111129005128</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1540</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Discovery Civilization</title>
+                        <fanart>http://b.vimeocdn.com/ts/291/102/291102617_640.jpg</fanart>
+                        <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20091112185125</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1544</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Discovery Turbo</title>
+                        <fanart>http://aovivonatv.com/fotos/9657b4a9340de357da3973bf296a9f38.jpg</fanart>
+                        <thumbnail>http://www.tvonlinehdgratis.com/wp-content/uploads/2015/07/Discovery-Turbo-online.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1548</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]CINE LATINO </title>
+                        <fanart>http://unobranding.com/uno/wp-content/uploads/2015/03/MN-Cine-Latino-Logo-1.jpg</fanart>
+                        <thumbnail>http://1.bp.blogspot.com/-2triVu-pOis/UlMzvE6BTHI/AAAAAAAADAA/XJ0F-E8-G34/s1600/ver+cinelatino+en+vivo.png</thumbnail>
+                        <link>http://tvultimate.mx/tvultimatevip.php?id=3465</link>
+                        </item>
+
+
+
+                       
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] CINECANAL</title>
+                        <fanart>http://zonadetv.com/Imagenes2/Cinecanal_logo_casi_oficial.jpg</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/685400423180677121/-YhENOMo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1583</link>
+                        </item>
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]TNT </title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png</fanart>
+                        <thumbnail>http://i.cdn.turner.com/v5cache/TNT/images/logos/tnt_logo_200x200.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1587</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]TNT HD</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png</fanart>
+                        <thumbnail>http://i.cdn.turner.com/v5cache/TNT/images/logos/tnt_logo_200x200.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1620</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] GOLDEN</title>
+                        <fanart>http://en.kingofsat.net/jpg/goldentv.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1591</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] GOLDEN EDGE</title>
+                        <fanart>http://televisatvdepaga.com/wp-content/uploads/2013/11/edge.jpg</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/goldenedge.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1624</link>
+                        </item>
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]THE FILM ZONE </title>
+                        <fanart>https://i.ytimg.com/vi/DT1Xv6CMsxk/maxresdefault.jpg</fanart>
+                        <thumbnail>http://i47.tinypic.com/2m6o8ww.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1595</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DE PELICULA</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/De_Película.svg/100px-De_Película.svg.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1599</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]DE PELICULA CLASICO </title>
+                        <fanart>http://img2.wikia.nocookie.net/__cb20141115205529/lumix/images/8/8e/De_Película.png</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/De_Película_Clásico.svg/100px-De_Película_Clásico.svg.png</thumbnail>
+                        <link>http://104.131.39.88:1583/dpeliculaclasica/playlist.m3u8</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]AMC </title>
+                        <fanart>http://www.underconsideration.com/brandnew/archives/space_channel_logo.gif</fanart>
+                        <thumbnail>http://wpmedia.o.canada.com/2013/03/space.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1603</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] SPACE</title>
+                        <fanart>http://4.bp.blogspot.com/-NtowXmXp0nc/UTVFPnWh8ZI/AAAAAAAAY5I/NGQEBKR1Df0/s1600/Space+logo.png</fanart>
+                        <thumbnail>http://4.bp.blogspot.com/-NtowXmXp0nc/UTVFPnWh8ZI/AAAAAAAAY5I/NGQEBKR1Df0/s1600/Space+logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1632</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] CINEMAX</title>
+                        <fanart>http://www.bektel.com/image/cache/cinemax_new.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/458746430312566785/MqIVy_w_.jpeg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1616</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]STUDIO UNIVERSAL </title>
+                        <fanart>http://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg</fanart>
+                        <thumbnail>http://www.lamac.org/res/channels/logos/_0025_studio_universal.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1636</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] I.SAT</title>
+                        <fanart>http://promoweb.com.mx/imagenes_nuevas/articulos/iIsat2.jpg</fanart>
+                        <thumbnail>https://i.vimeocdn.com/portrait/1414835_300x300.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1640</link>
+                        </item>
+						<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]FOX 1 HD</title>
+                        <fanart>https://heavyeditorial.files.wordpress.com/2011/08/fox-logo.png</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/fox1hd.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1559</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]FOX 1 SD</title>
+                        <fanart>https://heavyeditorial.files.wordpress.com/2011/08/fox-logo.png</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/fox1hd.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1640</link>
+                        </item>
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX ACTION HD </title>
+                        <fanart>http://payload21.cargocollective.com/1/6/198121/2739542/2012-01-09_logo_5_2000.png</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/foxaction.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1564</link>
+                        </item>
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX ACTION SD </title>
+                        <fanart>http://payload21.cargocollective.com/1/6/198121/2739542/2012-01-09_logo_5_2000.png</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/foxaction.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1563</link>
+                        </item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX MOVIES SD </title>
+                        <fanart>http://www.foxmovies.com/images/share_logo.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e3/Fox_Movies_Premium_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1567 </link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX MOVIES </title>
+                        <fanart>http://www.foxmovies.com/images/share_logo.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e3/Fox_Movies_Premium_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1568</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]FOX CINEMA  </title>
+                        <fanart>https://i.ytimg.com/vi/-O4SmAVY-Q4/maxresdefault.jpg</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/foxcinemaqaSR.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1572 </link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX CLASSIC </title>
+                        <fanart>https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-c/channel-foxclassics.png</fanart>
+                        <thumbnail>http://www.ai-media.tv/wp-content/uploads/2014/06/Fox-Classics.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1576</link>
+                        </item>
+
+
+
+<item>
+<title>[COLOR=white]([B]Mundo FOX[/B] )[/COLOR]</title>
+<sportsdevil>http://canalespremium.info/cp/mundofox.html</sportsdevil>
+<referer>http://canalespremium.info</referer>
+<thumbnail>http://www.viptvproductions.com/newsite/wp-content/uploads/2014/03/mundo-fox-logo2-300x233.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]MundoFox es una cadena de televisión en español con emisoras en Estados Unidos y Puerto Rico. [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=white]([B]Mundo Max[/B] )[/COLOR]</title>
+<link>https://video05-atl.streamup.com/app/ana69s-channel_aac/playlist.m3u8</link>
+<thumbnail>http://www.mundomax.com/sites/default/files/mundomax.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B]MundoMAX, es una cadena de televisión en español con emisoras en Estados Unidos y Puerto Rico. La cadena es una empresa operada por la cadena colombiana RCN Televisión de la Organización Carlos Ardila Lülle [/B]</info>
+</item>
+
+<item>
+<title>[COLOR=white]([B]Estrella TV[/B] )[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/test1002/chunklist.m3u8?sd=10</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20120327232346/logopedia/images/thumb/b/b9/Estrella_tv.png/500px-Estrella_tv.png</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+<info>[B]Estrella TV es una red televisiva en idioma español que es propiedad de Liberman Broadcasting. La red fue lanzada formalmente el 14 de septiembre de 2009 [/B]</info>
+</item>
+
+
+<item>
+<title>[COLOR=white]([B]Miami TV[/B] )[/COLOR]</title>
+<link>http://k4.usastreams.com:1935/miamitv/miamitv/playlist.m3u8</link>
+<thumbnail>http://www.ourweblist.com/wp-content/uploads/2014/01/miami_tv_us-660x320.png</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+<info>[B]Television in South Florida and the Keys, including Miami and Key West. Reception may vary by location and some stations may only be viewable with cable[/B]</info>
+</item>
+
+          <item>
+			<title>[COLOR=white]([B]TNT[/B] )[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/tntlatino2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<thumbnail>http://vignette4.wikia.nocookie.net/titans-tv/images/0/03/TNT_Logo.png/revision/latest?cb=20150126201519</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item
+
+
+<item>
+<title>[COLOR=white]([B]DISCOVERY[/B] )[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/dlatino2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<thumbnail>https://lh3.ggpht.com/u6vJ0KXtVCjzrzfLHqyumP1ueGoqcvDIp7S4zxGXNF4xTiqkg8qsEB9H160nJJDVEZjq=w300</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+<info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+</item>
+
+
+<item>
+			<title>[COLOR=white]([B]NAT GEO WILD[/B] )[/COLOR] </title>
+<sportsdevil>http://canalespremium.tk/cp.php?num=254</sportsdevil>
+<referer>http://canalespremium.tk</referer>
+			<thumbnail>http://fr.academic.ru/pictures/frwiki/78/NATIONAL_GEO_WILD.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+           <info>BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE</info>
+			</item>
+
+
+<item>
+			<title>[COLOR=white]([B]NATIONAL GEOGRAPHIC[/B] )[/COLOR] </title>
+<sportsdevil>http://canalespremium.tk/cp.php?num=395</sportsdevil>
+<referer>http://canalespremium.tk</referer>
+			<thumbnail>http://www.imfranetx.com/wp-content/uploads/2015/07/national-online.jpg</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+           <info>BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE</info>
+			</item>
+
+<item>
+			<title>[COLOR=white]([B]HISTORY CHANNEL[/B] )[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_mfv_05 live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_mfv_05$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page>http://vaughnlive.tv/mfv_05</page>
+</regex>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20100624030706/indianajones/images/e/e3/History_channel_logo.png</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+<info>BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE</info>
+			</item>
+                      
+                        <item>
+<title>[COLOR=white]([B]HISTORY 2[/B] )[/COLOR]</title>
+<sportsdevil>http://canalespremium.tk/cp.php?num=297</sportsdevil>
+<referer>http://canalespremium.tk</referer>  
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG</thumbnail>
+<fanart>http://khongthe.com/wallpapers/abstract/hd-fire-49586.jpg</fanart>
+<info>History (originalmente The History Channel desde 1995 a 2008) es un canal de televisión por cable y satélite que presenta programas de producción propia</info>
+</item>
+	
+	
+	
+		      <item>
+			<title>[COLOR=white]([B]DW LATINO[/B] )[/COLOR]</title>
+			<link>rtmp://$doregex[get-m3u8]/$doregex[get-file]</link>
+			<regex>
+			<name>get-m3u8</name>
+			<expres>meta base="rtmp:\/\/(.*?)"</expres>
+			<page>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/flv/tv.smil</page>
+			<referer>http://www.dw.de/multimedia/tv-en-vivo/s-100837</referer>
+			</regex>
+			<regex>
+			<name>get-file</name>
+			<expres>"high".*src="(.*?)"</expres>
+			<page>http://www.metafilegenerator.de/DWelle/tv-latinoamerica/flv/tv.smil</page>
+			<referer>http://www.dw.de/multimedia/tv-en-vivo/s-100837</referer>
+			<thumbnail>http://www.dw.com/cssi/dwlogo-print.gif</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+            <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</regex>
+			</item>
+	
+	
+<item>
+			<title>[COLOR=white]([B]WARNER[/B] )[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/warner2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.mipsplayer.com</referer>
+</regex>
+			<thumbnail>http://img1.wikia.nocookie.net/__cb20120924094100/arrow/images/8/8a/Warner_Channel_logo.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+ <item>
+			<title>[COLOR=white]([B]GOLDEN EDGE[/B] )[/COLOR] </title>	
+<link>http://201.161.59.7/goldenedge.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8</link>
+				<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_Golden_TV.svg/847px-Logo_Golden_TV.svg.png|</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+                        
+	      <item>
+			<title>[COLOR=white]([B]FX[/B] )[/COLOR] [COLOR=orange]Opción 2[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/fx2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/LogoFX.svg/200px-LogoFX.svg.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+<item> 
+<title>[COLOR=white]([B]FOX 1 [/B] )[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/fox1envivo/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_1_oeste.png</thumbnail>
+<fanart>http://khongthe.com/wallpapers/abstract/hd-fire-49586.jpg</fanart>
+<info>FOX 1: Emite principalmente cine de Hollywood. Se encarga de los estrenos de películas que luego van rotando a las señales</info>
+</item>
+
+<item>
+<title>[COLOR=white]([B]FOX ACTION ESTE[/B] )[/COLOR]</title>
+<link>http://199.180.114.174:8000/foxa.m3u8</link>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20141101145506/logopedia/images/4/4a/Fox_(4).png</thumbnail>
+<fanart>http://khongthe.com/wallpapers/abstract/hd-fire-49586.jpg</fanart>
+<info>Fox Action es un canal de televisión por suscripción premium, del paquete Fox+, disponible en las operadoras de cable y satélite de Latinoamérica.</info>
+</item>
+
+<item>
+<title>[COLOR=white]([B]FOX CLASSICS[/B] )[/COLOR]</title>
+<link>http://o12team.tk:8080/iptvlatam/foxclassics/index.m3u8</link>
+<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_classics_au.png</thumbnail>
+<fanart>http://khongthe.com/wallpapers/abstract/hd-fire-49586.jpg</fanart>
+<info>Fox Classics es un canal de televisión por suscripción premium, del paquete Fox+, disponible en las operadoras de cable y satélite de Latinoamérica.</info>
+</item>
+
+<item>
+<title>[COLOR=white]([B]HBO[/B] )[/COLOR] </title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/hboenvivo/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<thumbnail>http://i1.cdnds.net/10/04/ustv_hbo_logo_0.jpg</thumbnail>
+			<fanart>http://www.ksat.com/content/dam/pns/ksat/uploads/2014/7/31/hbo-logo.jpg</fanart>
+             <info>[B]HBO es uno de los canales de televisión por cable y satélite más populares de Estados Unidos y Latinoamérica[/B]</info>
+			</item>
+
+<item>
+<title>[COLOR=white]([B]HBO 2[/B] )[/COLOR]</title>
+<link>http://199.180.114.174:8000/hbo2.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-rGVUPVTF65I/ThH_459PMgI/AAAAAAAAAHQ/LAG8kKU4lko/s320/lrg_HBO_2.gif</thumbnail>
+<fanart>http://khongthe.com/wallpapers/abstract/hd-fire-49586.jpg</fanart>
+<info>[B]HBO 2 es un canal de televisión por cable o satélite de HBO que se transmite las 24 horas del día.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=white]([B]PARAMOUNT CHANNEL LATINOAMERICA[/B] )[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+		<sportsdevil>http://www.television-envivo.com/paramount-channel-en-vivo.html</sportsdevil>
+<referer>http://www.television-envivo.com</referer>
+			<thumbnail>http://foromedios.com/uploads/gallery/category_2/sml_gallery_5617_2_255.png</thumbnail>
+			<fanart>http://www.lavozlibre.com/userfiles/2a_decada/image/FOTOS 2012/03 MARZO 2012/02 MARZO 2012/paramount.jpg</fanart>
+            <info>[B]Paramount Channel Latinoamérica es un canal de televisión de pago básico,Sus principales rivales son las cadenas Fox, Cinecanal, TNT, Studio Universal, HBO, Cinemax, Golden y AMC.[/B]</info>
+			</item>
+	
+
+			<item>
+                        <title>[COLOR=white]([B]FOX [/B] )[/COLOR] [COLOR=green]Sportsdevil[/COLOR] [COLOR=orange]Esperar 5 segundos[/COLOR]</title>
+			<sportsdevil>http://www.television-envivo.com/canal-fox-en-vivo.html</sportsdevil>
+                         <referer>http://www.television-envivo.com</referer>   
+<thumbnail>https://d3n8a8pro7vhmx.cloudfront.net/nalip/pages/445/attachments/original/1402066176/Fox_logo.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+item>
+			<title>[COLOR=white]([B]FOX LIFE[/B] )[/COLOR]</title>
+                         <link>http://201.161.59.7/foxlife.isml/manifest(format=m3u8-aapl).m3u8</link>
+			<thumbnail>http://vignette1.wikia.nocookie.net/tvcable/images/f/fa/Fox_Life_13.png/revision/latest?cb=20131029201500&path-prefix=es</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>	
+
+
+item>
+			<title>[COLOR=white]([B]LIFETIME[/B] )[/COLOR]</title>
+                         <link>http://201.161.59.7/lifetime.isml/manifest(format=m3u8-aapl).m3u8</link>
+			<thumbnail>http://tv.foxlife.es/bundles/aciliacarassius/themes/default/images/logo_facebook/foxlife.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>	
+http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8
+
+		  <item>
+			<title>[COLOR=white]([B]FOX 1 HD[/B] )[/COLOR]</title>
+			<link>http://213.136.73.41/8748/415.m3u8</link>
+			<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_1_oeste.png</thumbnail>
+                        <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+				  item>
+			<title>[COLOR=white]([B]FOX ACTION HD[/B] )[/COLOR]</title>
+			<link>http://$doregex[ip]$doregex[m3u8]</link>
+                         <regex>
+                         <name>ip</name>
+                         <expres>redirect=(.*)</expres>
+                         <page>http://www.mipsplayer.com:1935/loadbalancer</page>
+                         </regex>
+                         <regex>
+                         <name>m3u8</name>
+                         <expres>ea \+ "(.*?)"</expres>
+                         <page>http://www.mipsplayer.com/membedplayer/rovaldimix99/1/600/385
+</page>
+                         <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                         <referer>http://www.mipsplayer.com</referer>
+                         </regex>
+			<thumbnail>http://img1.wikia.nocookie.net/__cb20141101145506/logopedia/images/4/4a/Fox_(4).png</thumbnail>
+                        <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+
+  <item>
+			<title>[COLOR=white]([B]E entertainment[/B] )[/COLOR]</title>
+                         <link>http://201.161.59.6/e.isml/manifest(format=m3u8-aapl).m3u8</link>
+			<thumbnail>http://diamond-jim.com/wp-content/uploads/2013/05/e-entertainment-logo-212x300.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>				
+			
+<item>
+			<title>[COLOR=white]([B]AXN[/B] )[/COLOR] </title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=10</link>
+			<regex>
+				<name>rtmp</name>
+				<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://tv.televall.com.mx/axn.php?
+
+</referer>
+			</regex>
+			<regex>
+				<name>path</name>
+				<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<referer>http://tv.televall.com.mx/axn.php?
+</referer>
+			</regex>
+			<regex>
+				<name>do-ping</name>
+				<expres></expres>
+				<page>$doregex[pagewait]$doregex[get-ping]</page>
+				<referer>http://shidurlive.com</referer>
+				<ignorecache/>
+			</regex>
+			<regex>
+				<name>pagewait</name>
+				<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+				<page></page>
+				<referer>http://shidurlive.com</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<regex>
+				<name>get-ping</name>
+				<expres>"pingsts" src="(.*?)"</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://tv.televall.com.mx/axn.php?
+
+</referer>
+			</regex>
+			<regex>
+				<name>get-page</name>
+				<expres>src="(.*?)"</expres>
+				<page>http://shidurlive.com/embed/axn</page>
+				<referer>http://tv.televall.com.mx/axn.php?</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>http://www.lipstiq.com/wp-content/uploads/2015/10/112.jpg</thumbnail>
+			<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]AXN, (abreviadamente como Action Xtreme Network) es un canal internacional de televisión digital propiedad de Sony Pictures Entertainment,[/B]</info>
+			</item>
+<item>
+			<title>[COLOR=white]([B]SONY (SD)[/B] ) [/COLOR] </title>
+			<link>http://201.161.59.6/sony.isml/manifest(format=m3u8-aapl).m3u8</link>
+			<thumbnail>http://coordinacion.mx/wp-content/uploads/2014/07/Sony-TV-Logo.png</thumbnail>
+			<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+<item>
+			<title>[COLOR=white]([B]SONY (SD)[/B] )[/COLOR] [COLOR orange] Opción 2 [/COLOR]  </title>
+			<link>$doregex[rtmp] playpath=$doregex[path] swfUrl=http://cdn.shidurlive.com/player.swf swfVfy=1 pageUrl=http://www.shidurlive.com$doregex[do-ping] live=1 timeout=10</link>
+			<regex>
+				<name>rtmp</name>
+				<expres>ova.php.*\n.*\n.*'streamer', '(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://tv.televall.com.mx/sony.php?</referer>
+			</regex>
+			<regex>
+				<name>path</name>
+				<expres>ova.php.*\n.*unescape..(.*?)'</expres>
+				<page>$doregex[get-page]</page>
+				<referer>http://tv.televall.com.mx/sony.php?</referer>
+			</regex>
+			<regex>
+				<name>do-ping</name>
+				<expres></expres>
+				<page>$doregex[pagewait]$doregex[get-ping]</page>
+				<referer>http://shidurlive.com</referer>
+				<ignorecache/>
+			</regex>
+			<regex>
+				<name>pagewait</name>
+				<expres>$pyFunction: '' if xbmc.sleep(15000) else ''</expres>
+				<page></page>
+				<referer>http://shidurlive.com</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<regex>
+				<name>get-ping</name>
+				<expres>"pingsts" src="(.*?)"</expres>
+				<page>$doregex[get-page]</page>
+				<cookieJar></cookieJar>
+				<referer>http://tv.televall.com.mx/sony.php?</referer>
+			</regex>
+			<regex>
+				<name>get-page</name>
+				<expres>src="(.*?)"</expres>
+				<page>http://shidurlive.com/embed/sony</page>
+				<referer>http://tv.televall.com.mx/sony.php?</referer>
+				<cookieJar></cookieJar>
+			</regex>
+			<thumbnail>http://coordinacion.mx/wp-content/uploads/2014/07/Sony-TV-Logo.png</thumbnail>
+			<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+ <item>
+			<title>[COLOR=white]([B]CINEMAX[/B] )[/COLOR]</title>
+                         <link>http://201.161.59.7/cinemax.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8
+</link>
+			<thumbnail>http://www.imctv.com/wp-content/uploads/2014/03/cinemax21.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+ item>
+			<title>[COLOR=white]([B]CINEMAX[/B] )[/COLOR]</title>
+                         <link>http://$doregex[ip]$doregex[m3u8]</link>
+                         <regex>
+                         <name>ip</name>
+                         <expres>redirect=(.*)</expres>
+                         <page>http://www.mipsplayer.com:1935/loadbalancer</page>
+                         </regex>
+                         <regex>
+                         <name>m3u8</name>
+                         <expres>ea \+ "(.*?)"</expres>
+                         <page>http://www.mipsplayer.com/membedplayer/cinemax2031/1/600/385</page>
+                         <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+                         <referer>http://www.mipsplayer.com</referer>
+                         </regex>
+			<thumbnail>http://www.imctv.com/wp-content/uploads/2014/03/cinemax21.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+
+			title>[COLOR=white]([B]CINECANAL[/B] )[/COLOR]</title>
+<link>rtmp://$doregex[ip]/live playpath=space2021?id=15843$doregex[pk] conn=S:OK swfUrl=http://www.janjuaplayer.com/resources/scripts/eplayer.swf pageUrl=http://www.janjuaplayer.com/embedplayer/dsdfsdff/1/500/380 swfVfy=true buffer=5000 live=true</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)<expres>
+<page>http://www.janjua.tv:1935/loadbalancer</page>
+</regex>
+<regex>
+<name>pk</name>
+<expres>ea=(.*)'</expres>
+<page>http://www.janjuaplayer.com/embedplayer/space2021/1/500/380</page>
+<referer>http://www.janjuaplayer.com/</referer>
+</regex>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer>http://www.mipsplayer.com</referer>
+</regex>
+<thumbnail>http://foxinternationalchannels.com/wp-content/uploads/2013/10/398-x-226-cinecanal-200x113.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+			   <item>
+			<title>[COLOR=white]([B]SPACE[/B] )[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/space2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+			<thumbnail>http://static.wixstatic.com/media/231abf_e1c6479e1108402bb66507cdfa45cdea.png_srz_788_372_85_22_0.50_1.20_0.00_png_srz</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+ <item>
+			<title>[COLOR=white]([B]PARAMOUNT[/B] )[/COLOR]</title>
+			<link>http://201.161.59.7/paramount.isml/QualityLevels(1628000)/manifest(format=m3u8-aapl).m3u8</link>
+			<thumbnail>http://img4.wikia.nocookie.net/__cb20110112000258/logopedia/images/1/13/Cartoon_Network_Black_logo.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>	
+
+
+   <item>
+			<title>[COLOR=white]([B]CARTOON NETWORK[/B] )[/COLOR] [COLOR orange] Opción 2[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/cartoon2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+			<thumbnail>http://vignette3.wikia.nocookie.net/cartoonnetwork/images/e/ec/CN_Logo_(Detailed_Gray_Shadow).png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+			
+						
+   <item>
+			<title>[COLOR=white]([B]DISNEY CHANNEL[/B] )[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/disney2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/az/8/88/Disney_Channel_logo.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+
+   <item>
+			<title>[COLOR=white]([B]DISNEY XD[/B] )[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/xd2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+			<thumbnail>http://upload.wikimedia.org/wikipedia/az/8/88/Disney_Channel_logo.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+		
+<item>
+<title>[COLOR=white]([B]DISCOVERY KIDS[/B] )[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/kids2019/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+<thumbnail>http://www.discoverykidsjuguetes.com/img/logoDK.png</thumbnail>
+<fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+</item>	
+	
+	
+	
+	
+  <item>
+			<title>[COLOR=white]([B]NICK[/B] )[/COLOR]</title>
+<link>http://$doregex[ip]$doregex[m3u8]</link>
+<regex>
+<name>ip</name>
+<expres>redirect=(.*)</expres>
+<page>http://www.pubucaster.com:1935/loadbalancer</page></regex>
+<regex><name>m3u8</name>
+<expres>ea \+ "(.*?)"</expres>
+<page>http://www.embeducaster.com/membedplayer/nickelodeon2016/1/660/450</page>
+<referer>http://www.embeducaster.com</referer>
+</regex>
+			<thumbnail>http://img3.wikia.nocookie.net/__cb20120731163111/avatar/es/images/thumb/a/af/Nick_HD.png/500px-Nick_HD.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>			
+
+
+			
+			  <item>
+			<title>[COLOR=white]([B]NICK[/B] )[/COLOR]</title>
+<sportsdevil>http://www.television-envivo.com/nickelodeon-en-vivo.html</sportsdevil>
+<referer>http://www.television-envivo.com</referer>
+			<thumbnail>http://img3.wikia.nocookie.net/__cb20120731163111/avatar/es/images/thumb/a/af/Nick_HD.png/500px-Nick_HD.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+<item>
+			<title>[COLOR=white]([B]BOOMERANG[/B] )[/COLOR]</title>
+			<link>http://live.mvdigital.net:1935/live11/livestream1.sdp/playlist.m3u8</link>
+                        <regex>
+                        <name>rtmpip</name>
+                        <expres>redirect=(.*)</expres>
+                        <page>http://www.mipsplayer.com:1935/loadbalancer?230414 </page>
+                        <referer>http://www.mipsplayer.com/content/scripts/fplayer.swf</referer>
+                        </regex>
+			<thumbnail>http://img4.wikia.nocookie.net/__cb20140928172523/logopedia/images/3/3d/Boomerang_new_logo.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+<item>
+			<title>[COLOR=white]([B]DE PELICULA[/B] )[/COLOR]</title>
+			<link>http://201.161.59.7/depelicula.isml/QualityLevels(1703000)/manifest(format=m3u8-aapl).m3u8</link>
+			<thumbnail>http://img2.wikia.nocookie.net/__cb20120304080405/logopedia/images/1/13/DePeliculaClasico2011.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+	      <item>
+			<title>[COLOR=white]([B]CINE LATINO[/B] )[/COLOR]</title>
+			<link>http://201.161.59.4/cinelatino.isml/manifest(format=m3u8-aapl).m3u8</link>
+			<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Cinelatino_logo.png/600px-Cinelatino_logo.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+	      <item>
+			<title>[COLOR=white]([B]DISTRITO COMEDIA[/B] )[/COLOR]</title>
+			<link>http://201.161.59.6/clasicotv.isml/manifest(format=m3u8-aapl).m3u8</link>
+			<thumbnail>https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+ <item>
+			<title>[COLOR=white]([B]WOBI[/B] )[/COLOR] </title>	
+<link>http://201.161.59.4/wobi.isml/manifest(format=m3u8-aapl).m3u8</link>
+				<thumbnail>http://www.marketingdirecto.com/wp-content/uploads/2012/03/wobi.jpg</thumbnail>
+            <fanart>http://www.worldtvpc.com/blog/wp-content/uploads/2015/01/Streaming-Movies-and-Videos-Via-The-Internet.jpg</fanart>
+             <info>[B]BASSFOX ALTERNATIVA PARA DISFRUTAR LOS CANALES MIENTRAS ESTEN ONLINE[/B]</info>
+			</item>
+
+
+item>
+<title>Sportsdevil - ArenaVision 1 Acestream</title>
+<sportsdevil>http://www.arenavision.in/arenavision1</sportsdevil>
+<referer>http://www.arenavision.in/</referer>
+</item>
+
+
+item>
+<title></title>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info>[B]SE TRATARA DE TENERLOS ONLINE LAS 24 HS AVISANOS SI ESTAN OFF[/B]</info>
+<link>http://stream.tutvgratis.tv:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWpta2RtOGNlbm9qaHhzcSZsYW49Mg==&f=.m3u8?-1</link>
+</item>
+	
+http://stream.tutvgratis.tv:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTQmbGFuPTImcm93cz00MCZzZXNzaW9uPWpta2RtOGNlbm9qaHhzcSZsYW49Mg==&f=.m3u8?-1
+
+http://200.38.126.38:8081/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTImcHJvZmlsZT0xMjAmbGFuPTImcm93cz0yMCZzZXNzaW9uPWpta2RtOGNlbm9qaHhzcSZsYW49MgMg==&f=.m3u8?-1		
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX</title>
+                        <fanart>https://nerdgeistdotcom.files.wordpress.com/2015/05/media-fox-ident-1.jpg</fanart>
+                        <thumbnail>http://worldsoccertalk.com/wp-content/uploads/2010/02/Fox-logo.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1327</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]SONY </title>
+                        <fanart>http://www.gr8mag.com/images/posts/20131011095600_Sony-new-logo-Web.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1331</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] WARNER TV</title>
+                        <fanart>http://1.bp.blogspot.com/-2osJYASMV8/VYGFCpuQ_JI/AAAAAAAAAPA/DA9HzoBMhZ4/s1600/warner_bros.png</fanart>
+                        <thumbnail>http://www.apkland.tv/wp-content/uploads/2016/01/wb_tv_large.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1335</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]UNIVERSAL </title>
+                        <fanart>https://i.ytimg.com/vi/X2fOoeP4bkE/maxresdefault.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/c/c6/Universal_Channel.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1339</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]FX </title>
+                        <fanart>https://i.ytimg.com/vi/yv1esbt09bw/maxresdefault.jpg</fanart>
+                        <thumbnail>http://www.worldtvpc.com/blog/wp-content/uploads/2012/12/fx_logo1.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1343</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]A&E </title>
+                        <fanart>http://www.48hourslogo.com/48hourslogo_data/20130825/2013082509405423862.jpg</fanart>
+                        <thumbnail>https://pmcdeadline2.files.wordpress.com/2013/12/ae-logo__131224183443-275x206.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1347</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] AXN</title>
+                        <fanart>http://tvnews4u.in/wp-content/uploads/2015/09/AXN-New-Logo.jpg</fanart>
+                        <thumbnail>https://www.google.com/search?hl=en&site=imghp&tbm=isch&source=hp&biw=1366&bih=635</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1351</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] TRUE TV</title>
+                        <fanart>http://www.monkeyhead.com/wp-content/uploads/2012/04/TruTV-IDs-Main-Box.jpg</fanart>
+                        <thumbnail>http://fansided.com/files/2015/03/tru.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1355</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] COMEDY CENTRAL</title>
+                  <fanart>http://s3images.coroflot.com/user_files/individual_files/original_246783_RulyhRYcvWO5mPYNmxYneDCb8.jpg</fanart>
+                     <thumbnail>http://comedycentral.mtvnimages.com/press_images/comedycentral_logos/comedy_central_cracked_bk.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1359</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]UNICABLE </title>
+                        <fanart>https://i.ytimg.com/vi/OdmtYA2c-W4/maxresdefault.jpg</fanart>
+                        <thumbnail>http://televisa-networks.com/wp-content/uploads/bfi_thumb/unicable1-mdz00wfn536le8mq5kuy4fhcck58db9ftegj6un5ty.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1363</link>
+                        </item>
+
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] BBC</title>
+                        <fanart>http://www.mtv.com/news/wp-content/uploads/geek/2011/07/bbc_worldwide_logo.jpg</fanart>
+                        <thumbnail>http://news.bbc.co.uk/media/images/44006000/jpg/_44006845_bbc_logo_bbc416.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1387</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] E!</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.vector-logo.net/logo_preview/ai/e/E_TV_LOGO.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1391</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] SYFY</title>
+                        <fanart>http://filmmusicreporter.com/wp-content/uploads/2015/03/olympus.jpg</fanart>
+                        <thumbnail>http://www.panoramaaudiovisual.com/wp-content/uploads/2010/09/syfy.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1399</link>
+                        </item>
+
+
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] ID</title>
+                        <fanart>http://images.bwwstatic.com/tvnetworklogos/11FDCD06-BC4E-0E95-59EBA130CF414DAC.jpg</fanart>
+                        <thumbnail>https://tvbtn.files.wordpress.com/2015/05/investigation-discovery-logo-june-2012.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1407</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] TNT SERIES</title>
+                        <fanart></fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/654282868668153857/f1iBZvbs.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1411</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] EL GOURMET</title>
+                        <fanart>https://s-media-cache-ak0.pinimg.com/736x/c9/2f/f3/c92ff350776cddd7b2a5f441a96fa269.jpg</fanart>
+                        <thumbnail>http://2.bp.blogspot.com/-OtjoaPgVP4g/VSRSM8L1eoI/AAAAAAAAA-0/W9-g4qTRmxs/s1600/LogoGourmetok.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1416</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]Glitz </title>
+                        <fanart></fanart>
+                        <thumbnail>http://41.media.tumblr.com/9136324140047b8150548bf0ffcdb2e2/tumblr_msfqgiv1QU1sh8bhuo1_1280.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1424</link>
+                        </item>
+ <item>
+     <title>[B][COLOR red]                                                  TELESISTEMA 11  [/COLOR][/B]<title> 
+       
+        <link>http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1084487987_b214000.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2013/10/logo11.jpg</thumbnail>
+        </item>
+
+<item>
+     <title>[B][COLOR red]                                                  CDN 37 [/COLOR][/B]<title> 
+        <link>http://108.168.206.90:1935/cdn/cdn/chunklist_w2084883903.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2014/05/ncdn.jpg</thumbnail>
+        </item>
+
+
+
+<item>
+        <title>[B][COLOR red]                                                  ANTENA LATINA 7[/COLOR][/B]<title> 
+        <link>http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://diasporadominicana.com/wp-content/uploads/2013/06/Logo-ANTENA-.jpg</thumbnail>
+        </item>
+
+
+ <item>
+    <title>[B][COLOR red]                                                  TELEANTILLAS 2 [/COLOR][/B]<title>   
+        <link>http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Teleantillas-Canal-2.jpg</thumbnail>
+        </item>
+
+
+
+ <item>
+    <title>[B][COLOR red]                                                  CORAL 39  [/COLOR][/B]<title> 
+        <link>http://strs2.cvm1.com:8081/live/2102.stream/chunks.m3u8?nimblesessionid=795653149</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://4.bp.blogspot.com/_a24SFhvDvZc/S2TYyLZdYpI/AAAAAAAAAsI/vBe7vutZXjc/s200/LOGO+CORAL+TV.jpg</thumbnail>
+        </item>
+
+
+<item>
+     <title>[B][COLOR red]                                                  COLOR VISION 9 [/COLOR][/B]<title>    
+        <link>http://ss8.domint.net:2048/cvis_str/video/chunklist_w1410453871.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Color-Vision.jpg</thumbnail>
+        </item>
+
+
+<item>
+       <title>[B][COLOR red]                                                  TELECENTRO 13  [/COLOR][/B]<title> 
+        <link>rtmp://ss7.domint.net:2050/tcc_str/ playpath=tc13 swfUrl=http://ss7.domint.net/jw6/6.10/jwplayer.flash.swf live=1 pageUrl=http://192.254.234.245/~orosario/telecentro/tv/</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://1.bp.blogspot.com/-Zpc94VFRT5w/UWlsngCW7aI/AAAAAAAACwY/njrJL6-Mk8U/s1600/telecentro.jpg</thumbnail>
+        </item>
+        
+        
+        
+<item>
+       <title>[B][COLOR red]                                                  TELEMICRO 5 [/COLOR][/B]<title>  
+        <link>rtmp://stream.grupotelemicro.com:9095/live16/telemicro0505_1_96</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+       <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2013/02/telemic.jpg</thumbnail>
+        </item>
+        
+        <item>
+        <title>[B][COLOR red]                                                  DIGITAL 15 [/COLOR][/B]<title>
+        <link>rtmp://stream.grupotelemicro.com:9095/live16/telemicro1515_1_96</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+       <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Digital-151.jpg</thumbnail>
+        </item>
+
+
+
+
+<item>
+       <title>[B][COLOR red]                                                  SUPERCANAL 33 [/COLOR][/B]<title> 
+        <link>http://xmegustascx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2014/11/super_canal_do.png</thumbnail>
+        </item>
+
+
+
+
+
+<item>
+       <title>[B][COLOR red]                                                  CANAL 25 [/COLOR][/B]<title>
+        <link>http://qs1.distream.net:2126/c25_str/canal25/chunklist_w1276860948.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Canal-25.jpg</thumbnail>
+        </item>
+
+<item>
+         <title>[B][COLOR red]                                                  CANAL 4 [/COLOR][/B]<title>
+        <link>http://216.24.196.40:1935/live/canal4/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://dominicanchannel.net/wp-content/uploads/2013/07/certv.jpg</thumbnail>
+        </item>
+
+<item>
+        <title>[B][COLOR red]                                                  CDN 2 [/COLOR][/B]<title>
+        <link>http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w679608006.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>https://pbs.twimg.com/profile_images/378800000619827008/b9cc037613ceebec4d9b209eff48fbcf.jpeg</thumbnail>
+        </item>
+<item>
+       <title>[B][COLOR red]                                                  TV PLATA 3 [/COLOR][/B]<title> 
+        <link>rtmp://s1.streamcp.com:1935/8070/tvplata3</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2013/07/logotvplata.jpg</thumbnail>
+        </item>
+
+<item>
+       <title>[B][COLOR red]                                                  COSTA NORTE NETWORK [/COLOR][/B]<title>
+        <link>http://xcnntv003x.api.channel.livestream.com/3.0/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://emisoradominicana.net/television/wp-content/uploads/2015/06/CNN-TV3-300x169.jpg</thumbnail>
+        </item>
+
+
+<item>
+         <title>[B][COLOR red]                                                  TELECANAL 16 [/COLOR][/B]<title>   
+        <link>http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.freeetv.com/images/reydddd/telecanal16.jpg</thumbnail>
+        </item>
+<item>
+        <title>[B][COLOR red]                                                  TV YUNA [/COLOR][/B]<title>
+        <link>http://ss9.domint.net:1986/yv_str/yuna/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Yuna-Vision.jpg</thumbnail>
+        </item>
+
+<item>
+        <title>[B][COLOR red]                                                  MANGO TV  [/COLOR][/B]<title>   
+        <link>http://mek2.mekstream.com/mango/smil:mango.smil/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://televisionrd.com/wp-content/uploads/2014/04/MANGO-TV.jpg</thumbnail>
+        </item>
+<item>
+       <title>[B][COLOR red]                                                  VEGA TV [/COLOR][/B]<title>    
+        <link>http://ss9.domint.net:2084/vtv_str/canal8/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/06/VegaTV-Logo-120x120.jpg</thumbnail>
+        </item>
+<item>
+        <title>[B][COLOR red]                                                  TELEUNIVERSO 29 [/COLOR][/B]<title>
+        <link>http://ss6.domint.net:2008/tu_str/universo/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesrd.com/wp-content/uploads/2014/07/unnamed.png</thumbnail>
+        </item>
+<item>
+        <title>[B][COLOR red]                                                  AM&#544;47 [/COLOR][/B]<title> 
+        <link>http://asx.domiplay.net:1935/rtplive/ame47.sdp/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.nataliagourmet.com/images/ame47tv.jpg</thumbnail>
+        </item>
+
+<item>
+        <title>[B][COLOR red]                                                  TRA 45 [/COLOR][/B]<title> 
+        <link>http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://tv-online.in/wp-content/uploads/2013/01/TRA-45-Digital-live.gif</thumbnail>
+        </item>
+<item>
+       <title>[B][COLOR red]                                                  SUPER  55 [/COLOR][/B]<title>   
+        <link>http://ss9.domint.net:2022/stv_str/tv55/chunklist_w149768753.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/LogoSTV55-Canales-Dominicanos-Online.jpg</thumbnail>
+        </item>
+
+<item>
+      <title>[B][COLOR red]                                                  TNI 51[/COLOR][/B]<title>   
+        <link>http://ss9.domint.net:2130/tni_str/canal51/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Tni-51.jpg</thumbnail>
+        </item>
+        
+        
+     
+<item>
+        <title>[B][COLOR red]                                                  TELEIMPACTO 52[/COLOR][/B]<title>
+
+        <link>http://xteleimpactodrx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://2.bp.blogspot.com/-EfdGMrPoyxE/Utk6gtGgIWI/AAAAAAAABH0/LSROsu7YuLM/s1600/Teleimpacto.jpg</thumbnail>
+        </item>
+        
+        
+
+<item>
+      <title>[B][COLOR red]                                                  TELEFUTURO 23[/COLOR][/B]<title>
+        <link>http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominic
+<item>
+<title>[COLOR=cyan][B] CANALES DE PUERTO RICO << peraltastream >>[/B][COLOR=yellow])[/COLOR]</title>
+<thumbnail>http://4.bp.blogspot.com/-JBgc6vDCsgo/TnO21FecIDI/AAAAAAAAC94/sOz4s7Ies3k/s1600/Canales+de+televisi%25C3%25B3n+en+PR..png</thumbnail>
+<fanart>http://4.bp.blogspot.com/-JBgc6vDCsgo/TnO21FecIDI/AAAAAAAAC94/sOz4s7Ies3k/s1600/Canales+de+televisi%25C3%25B3n+en+PR..png</fanart>
+<info>[B]Canales de Bolivia las 24 hrs en vivo (Si un canal deja de funcionar comunicalo a su autor para una pronta solución)[/B]</info>
+<link>http://ignoreme</link>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]TELEMUNDO PUERTO RICO[/B][COLOR=yellow])[/COLOR]</title>
+<link>rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://p.iblups.com/ptv/jwplayer/jwplayer.flash.swf live=1 pageUrl=https://iblups.com/e_WapaPRace-530-330</link>
+<thumbnail>http://www.mediamoves.com/wp-content/uploads/2015/02/Telemundo_Puerto_Rico-e1423520564725.jpg</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]Telemundo Puerto Rico (WKAQ Telemundo, canal 2, Analógico, 28 digital) es una televisora nacional localizada en San Juan, Puerto Rico[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]TELEMUNDO PACIFICO [/B][COLOR=yellow])[/COLOR]</title>
+<link>https://video05-atl.streamup.com/app/telemundo-pacifics-stream_aac/playlist.m3u8</link>
+<thumbnail>http://www.mediamoves.com/wp-content/uploads/2015/02/Telemundo_Puerto_Rico-e1423520564725.jpg</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]Telemundo Pacifico (WKAQ Telemundo, canal 2, Analógico, 28 digital) es una televisora nacional localizada en San Juan, Puerto Rico[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]TELEMUNDO PACIFICO (opción 2)[/B][COLOR=yellow])[/COLOR]</title>
+<link>rtmp://demo.iblups.com/demo playpath=SoeNe8hdA0 swfUrl=http://iblups.com/playertvlive123456789.swf?config=configplayer.php?id=19967&autostart=true pageUrl=http://iblups.com/e_WapaPRace-530-300</link>
+<thumbnail>http://www.mediamoves.com/wp-content/uploads/2015/02/Telemundo_Puerto_Rico-e1423520564725.jpg</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]Telemundo Puerto Rico (WKAQ Telemundo, canal 2, Analógico, 28 digital) es una televisora nacional localizada en San Juan, Puerto Rico[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]WAPA TV [/B][COLOR=yellow])[/COLOR]</title>
+<link>$doregex[get-Clean-M3U8]$doregex[get-Clean-token]#DacastDoregex</link><regex>
+<name>get-Clean-token</name>
+<expres>$pyFunction:'$doregex[get-token]'.replace('\/','/')</expres>
+<page>http://www.racetv-boricua.com/wapa_pr.html
+</page>
+</regex>
+<regex>
+<name>get-token</name>
+<expres>"token":"(.*?)"</expres>
+<page>https://services.dacast.com/token/i/b/34772/c/40898</page>
+<referer>http://iframe.dacast.com/</referer>
+</regex><regex>
+<name>get-Clean-M3U8</name>
+<expres>$pyFunction:'$doregex[get-M3U8]'.replace('\/','/')</expres>
+<page>http://www.racetv-boricua.com/wapa_pr.html
+</page>
+</regex><regex>
+<name>get-M3U8</name>
+<expres>"hls":"(.*?)"</expres>
+<page>http://json.dacast.com/b/34772/c/40898</page>
+<referer>http://iframe.dacast.com/</referer>
+</regex>
+<thumbnail>https://media.licdn.com/media/p/7/000/1f7/30e/2b7da59.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]WAPA-TV es un canal de televisión de Puerto Rico, con sede en la ciudad de Guaynabo(Puerto Rico). El canal es propiedad de Hemisphere Media Group[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]WAPA TV (opción 2)[/B][COLOR=yellow])[/COLOR]</title>
+<link>http://latino-webtv.ml/mariocs-7878/wapa.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/WAPA-TV_logo.svg/245px-WAPA-TV_logo.svg.png</thumbnail>
+<fanart>http://fc00.deviantart.net/fs71/f/2011/303/e/0/cute_robot_watching_tv_by_the3dleopard-d4eh7jz.jpg</fanart>
+<info>[B] WAPA-TV es un canal de televisión de Puerto Rico, con sede en la ciudad de San Juan[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]UNIVISION 63 HD[/B][COLOR=yellow])[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/test10001/chunklist.m3u8?sd=10</link>
+<thumbnail>http://arts1091.unsw.wikispaces.net/file/view/logo_Univision.png/358027479/logo_Univision.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]Univisión es la cadena de televisión en español más grande de los Estados Unidos. El canal está dedicado principalmente a la población hispanohablante de Estados Unidos. Su principales competidores son NBC y Telemundo.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]UNIVISION PUERTO RICO[/B][COLOR=yellow])[/COLOR]</title>
+<link>https://video05-atl.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8</link>
+<thumbnail>http://arts1091.unsw.wikispaces.net/file/view/logo_Univision.png/358027479/logo_Univision.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]Univisión es la cadena de televisión en español más grande de los Estados Unidos. El canal está dedicado principalmente a la población hispanohablante de Estados Unidos. Su principales competidores son NBC y Telemundo.[/B]</info>
+</item>
+rtmp://198.255.17.34:443/live?Uk59Desr1ZaZJqFWNpSPRrcZGt61Dd9V<playpath>live_univision_hd45 <swfUrl>http://vaughnlive.tv/4369789890/swf/VaughnSoftPlayer.swf <pageUrl>http://vaughnlive.tv/univision_hd45
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]UNIVISION PUERTO RICO[/B][COLOR=yellow])[/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_univision_hd45 live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page></page>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/univision_hd45$doregex[gettime]-$doregex[gettime].33434</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page>http://vaughnlive.tv/univision_hd45</page>
+</regex>
+<thumbnail>http://arts1091.unsw.wikispaces.net/file/view/logo_Univision.png/358027479/logo_Univision.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]Univisión es la cadena de televisión en español más grande de los Estados Unidos. El canal está dedicado principalmente a la población hispanohablante de Estados Unidos. Su principales competidores son NBC y Telemundo.[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]Unimas HD[/B][COLOR=yellow])[/COLOR]</title>
+<link>http://stream.ssh101.com:1935/live/test1000/chunklist.m3u8?sd=10</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniMás.svg/150px-Logo_UniMás.svg.png</thumbnail>
+<fanart>https://investigacionobs.files.wordpress.com/2013/06/ave-fenix.jpg</fanart>
+<info>[B]UniMás es una cadena de televisión nacional de EE.UU. en español, propiedad de Univisión  [/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=red]([COLOR=white][B]AMERICA TEVE MIAMI[/B][COLOR=yellow])[/COLOR]</title>
+<link>http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/af/América_Tevé_Logo.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]Americateve Canal Hispano en Miami,televisión más innovadora y más entretenida ... Desde Miami hasta Puerto Rico[/B]</info>
+</item>
+
+<item>
+<title>[COLOR=red]([COLOR=white][B]AMERICA TEVE MIAMI[/B][COLOR=yellow])[/COLOR] [COLOR orange]Opción 2[/COLOR]</title>
+<sportsdevil>http://livestream.com/accounts/5730046/events/2966225/player?width=960&amp;height=540&amp;autoPlay=false&amp;mute=false</sportsdevil>
+<referer>http://livestream.com</referer>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/a/af/América_Tevé_Logo.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]Americateve Canal Hispano en Miami,televisión más innovadora y más entretenida ... Desde Miami hasta Puerto Rico[/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=red]([COLOR=white][B]Puerto Rico TV[/B][COLOR=yellow])[/COLOR] [COLOR mediumseagreen]Activar f4m tester[/COLOR]</title>
+<f4m>http://192.254.105.39/hds-live/livepkgr/_definst_/liveevent/livestream1.f4m</f4m>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5b/Wipr_tv_logo_2015.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]WIPR-TV, también conocido como Puerto Rico TV, es una emisora &#8203;&#8203;de televisión pública ubicada en San Juan, Puerto Rico[/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=red]([COLOR=white][B]MUNDO FOX[/B][COLOR=yellow])[/COLOR]</title>
+<sportsdevil>http://canalespremium.info/cp/mundofox.html</sportsdevil>
+<referer>http://canalespremium.info</referer>
+<thumbnail>http://www.viptvproductions.com/newsite/wp-content/uploads/2014/03/mundo-fox-logo2-300x233.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]MundoFox es una cadena de televisión en español con emisoras en Estados Unidos y Puerto Rico. [/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=red]([COLOR=white][B]MUNDO MAX[/B][COLOR=yellow])[/COLOR]</title>
+<link>https://video05-atl.streamup.com/app/ana69s-channel_aac/playlist.m3u8</link>
+<thumbnail>http://www.mundomax.com/sites/default/files/mundomax.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]MundoMAX, es una cadena de televisión en español con emisoras en Estados Unidos y Puerto Rico. La cadena es una empresa operada por la cadena colombiana RCN Televisión de la Organización Carlos Ardila Lülle[/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=red]([COLOR=white][B]TIVA CANAL 8 [/B][COLOR=yellow])[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=MJfV7fSySmM</link>
+<thumbnail>http://tivatv.com/wp-content/uploads/2015/05/cropped-TIVA-RADIO-TELEVISION-INTERNET.png</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+<info>[B]TIVA TV canal 8 Puerto Rico[/B]</info>
+</item>
+
+<item> 
+<title>[COLOR=red]([COLOR=white][B]SBN - CTN Internacional[/B][COLOR=yellow])[/COLOR]</title>
+<link>http://va1.ministeriotv.com:1936/48_rp/smil:48.smil/playlist.m3u8
+</link>
+<thumbnail>http://www.ministeriotv.com/uploads/channels/48/logo_thumb.jpg</thumbnail>
+<fanart>http://www.pelicanmediaworks.com/uploads/3/5/9/2/3592405/2630957_orig.jpg</fanart>
+</item>
+
+
+
+
+
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX LIFE</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1427</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]TBS </title>
+                        <fanart>http://www.cutcabletoday.com/wp-content/uploads/2015/08/TBS-logo.png</fanart>
+                        <thumbnail>http://www.cutcabletoday.com/wp-content/uploads/2015/08/TBS-logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1435</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DISCOVERY HD Teather</title>
+                        <fanart>http://www.todotvnews.com/gallery/Discovery_Mummiesfinal_396.jpg</fanart>
+                        <thumbnail>https://cf.press.discovery.com/ugc/networks/gateway/logo-hd____.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1503</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]HISTORY CHANNEL</title>
+                        <fanart>https://www.voiceoftv.com/static/images/news/history.jpg</fanart>
+                        <thumbnail>http://static1.squarespace.com/static/5486159de4b074841b303621/56abcd493b0be32c890432e7/56abcd498a65e26dbc2761ad/1454099990334/History_channel_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1507</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] NATGEO</title>
+                        <fanart>http://voices.nationalgeographic.com/files/2011/03/natgeowild1-thumb-608x3421.jpg</fanart>
+                        <thumbnail>http://www.stream2watch.co/images/thumbs/nat geo wild stream.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1532</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]TLC </title>
+                        <fanart>http://img09.deviantart.net/ee37/i/2013/303/7/d/tlc_by_impala99-d6sfgc0.png</fanart>
+                        <thumbnail>http://vignette3.wikia.nocookie.net/logopedia/images/a/a0/The_Learning_Channel_HD.png/revision/latest?cb=20110408023649</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1552</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DISCOVERY CHANEL</title>
+                        <fanart>http://dnepr.info/wp-content/uploads/2015/06/Discovery-Channel-HD-21-01-630x355.png</fanart>
+                        <thumbnail>http://dnepr.info/wp-content/uploads/2015/06/Discovery-Channel-HD-21-01-630x355.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1520</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]ANIMAL PLANET </title>
+                        <fanart>http://listverse.wpengine.netdna-cdn.com/wp-content/uploads/2013/07/animal3-e1372909351544.jpg</fanart>
+                        <thumbnail>http://www.chrisquinn.com/portfolio/scad/courses/bcst705/final/images/animal_planet_01.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1524</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]HOME AND HEALTH</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Discovery_Home_&_Health_Asia.svg/1280px-Discovery_Home_&_Health_Asia.svg.png</fanart>
+                        <thumbnail>http://www.lamac.org/res/channels/logos/_0040_discovery_hh.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1528</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] NATGEO</title>
+                        <fanart>http://4.bp.blogspot.com/_mBmoS0RssN0/TAe6VIEKoZI/AAAAAAAABVg/XV__iUObvDk/s1600/logo+nat+geo.jpg</fanart>
+                        <thumbnail>http://images.nationalgeographic.com/wpf/sites/common/i/presentation/NGLogo560x430-cb1343821768.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1532</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] LIFETIME</title>
+                        <fanart>http://www.thefutoncritic.com/images/shows/lifetime_logo.jpg</fanart>
+                        <thumbnail>http://www.underconsideration.com/brandnew/archives/lifetime_logo_detail.gif</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1536</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Discovery Science</title>
+                        <fanart>http://www.musikvergnuegen.com/images/uploads/discovery-science_robot_reel_1308011115.jpg</fanart>
+                        <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/6/63/Discovery_Science_LA_2011.png/revision/latest?cb=20111129005128</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1540</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Discovery Civilization</title>
+                        <fanart>http://b.vimeocdn.com/ts/291/102/291102617_640.jpg</fanart>
+                        <thumbnail>http://vignette1.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20091112185125</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1544</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] Discovery Turbo</title>
+                        <fanart>http://aovivonatv.com/fotos/9657b4a9340de357da3973bf296a9f38.jpg</fanart>
+                        <thumbnail>http://www.tvonlinehdgratis.com/wp-content/uploads/2015/07/Discovery-Turbo-online.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimate.php?id=1548</link>
+                        </item>
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]CINE LATINO </title>
+                        <fanart>http://unobranding.com/uno/wp-content/uploads/2015/03/MN-Cine-Latino-Logo-1.jpg</fanart>
+                        <thumbnail>http://1.bp.blogspot.com/-2triVu-pOis/UlMzvE6BTHI/AAAAAAAADAA/XJ0F-E8-G34/s1600/ver+cinelatino+en+vivo.png</thumbnail>
+                        <link>http://tvultimate.mx/tvultimatevip.php?id=3465</link>
+                        </item>
+
+
+
+                       
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] CINECANAL</title>
+                        <fanart>http://zonadetv.com/Imagenes2/Cinecanal_logo_casi_oficial.jpg</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/685400423180677121/-YhENOMo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1583</link>
+                        </item>
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]TNT </title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png</fanart>
+                        <thumbnail>http://i.cdn.turner.com/v5cache/TNT/images/logos/tnt_logo_200x200.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1587</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]TNT HD</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/TNT_Serie_HD.svg/2000px-TNT_Serie_HD.svg.png</fanart>
+                        <thumbnail>http://i.cdn.turner.com/v5cache/TNT/images/logos/tnt_logo_200x200.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1620</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] GOLDEN</title>
+                        <fanart>http://en.kingofsat.net/jpg/goldentv.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1591</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] GOLDEN EDGE</title>
+                        <fanart>http://televisatvdepaga.com/wp-content/uploads/2013/11/edge.jpg</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/goldenedge.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1624</link>
+                        </item>
+
+
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]THE FILM ZONE </title>
+                        <fanart>https://i.ytimg.com/vi/DT1Xv6CMsxk/maxresdefault.jpg</fanart>
+                        <thumbnail>http://i47.tinypic.com/2m6o8ww.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1595</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] DE PELICULA</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/De_Película.svg/100px-De_Película.svg.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1599</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]DE PELICULA CLASICO </title>
+                        <fanart>http://img2.wikia.nocookie.net/__cb20141115205529/lumix/images/8/8e/De_Película.png</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/De_Película_Clásico.svg/100px-De_Película_Clásico.svg.png</thumbnail>
+                        <link>http://104.131.39.88:1583/dpeliculaclasica/playlist.m3u8</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]AMC </title>
+                        <fanart>http://www.underconsideration.com/brandnew/archives/space_channel_logo.gif</fanart>
+                        <thumbnail>http://wpmedia.o.canada.com/2013/03/space.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1603</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] SPACE</title>
+                        <fanart>http://4.bp.blogspot.com/-NtowXmXp0nc/UTVFPnWh8ZI/AAAAAAAAY5I/NGQEBKR1Df0/s1600/Space+logo.png</fanart>
+                        <thumbnail>http://4.bp.blogspot.com/-NtowXmXp0nc/UTVFPnWh8ZI/AAAAAAAAY5I/NGQEBKR1Df0/s1600/Space+logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1632</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] CINEMAX</title>
+                        <fanart>http://www.bektel.com/image/cache/cinemax_new.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/458746430312566785/MqIVy_w_.jpeg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1616</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]STUDIO UNIVERSAL </title>
+                        <fanart>http://www.tvsa.co.za/images/uploads/thumbs/0057354.jpeg</fanart>
+                        <thumbnail>http://www.lamac.org/res/channels/logos/_0025_studio_universal.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1636</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] I.SAT</title>
+                        <fanart>http://promoweb.com.mx/imagenes_nuevas/articulos/iIsat2.jpg</fanart>
+                        <thumbnail>https://i.vimeocdn.com/portrait/1414835_300x300.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1640</link>
+                        </item>
+						<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]FOX 1 HD</title>
+                        <fanart>https://heavyeditorial.files.wordpress.com/2011/08/fox-logo.png</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/fox1hd.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1559</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]FOX 1 SD</title>
+                        <fanart>https://heavyeditorial.files.wordpress.com/2011/08/fox-logo.png</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/fox1hd.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1640</link>
+                        </item>
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX ACTION HD </title>
+                        <fanart>http://payload21.cargocollective.com/1/6/198121/2739542/2012-01-09_logo_5_2000.png</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/foxaction.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1564</link>
+                        </item>
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX ACTION SD </title>
+                        <fanart>http://payload21.cargocollective.com/1/6/198121/2739542/2012-01-09_logo_5_2000.png</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/foxaction.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1563</link>
+                        </item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX MOVIES SD </title>
+                        <fanart>http://www.foxmovies.com/images/share_logo.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e3/Fox_Movies_Premium_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1567 </link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX MOVIES </title>
+                        <fanart>http://www.foxmovies.com/images/share_logo.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e3/Fox_Movies_Premium_logo.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1568</link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR]FOX CINEMA  </title>
+                        <fanart>https://i.ytimg.com/vi/-O4SmAVY-Q4/maxresdefault.jpg</fanart>
+                        <thumbnail>http://oneplay.tv/uploads/video_thumbs/foxcinemaqaSR.png</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1572 </link>
+                        </item>
+
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] FOX CLASSIC </title>
+                        <fanart>https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-c/channel-foxclassics.png</fanart>
+                        <thumbnail>http://www.ai-media.tv/wp-content/uploads/2014/06/Fox-Classics.jpg</thumbnail>
+                        <link>http://tvultimate.mx/stream/tvultimatevip.php?id=1576</link>
+                        </item>
+<item>
+                        <title>[COLOR white][COLOR red]• [/COLOR] telemundo47 </title>
+                        <fanart>https://www.telstra.com.au/content/dam/tcom/personal/entertainment/images-c/channel-foxclassics.png</fanart>
+                        <thumbnail>http://www.ai-media.tv/wp-content/uploads/2014/06/Fox-Classics.jpg</thumbnail>
+                        <link>https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8</link>
+                        </item>
+
+
+

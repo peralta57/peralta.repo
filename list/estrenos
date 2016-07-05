@@ -1,0 +1,942 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+<channels>
+
+<channel>
+
+<name>[COLOR red]Un  clic para ver los mejores Estrenos[/COLOR]</name>
+<fanart>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</fanart>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<items>
+
+<item>
+    <title>[COLOR red]  [/COLOR][COLOR red][B][/B]Kung Fu Panda 3[/COLOR]</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/9PeNMCQSolcCpZHPIdOEJhzOIG3.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/eHWmEUP4fa7h1Fe7TXfTL7ncDl8.jpg</fanart>
+     <genre>Acción, Aventura, Animación, Comedia, Familia</genre>
+     <link>https://db.tt/hGIWzlhl</link>
+<expres>function getEdgeServers.*"(.*?),<expres>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page></page>
+</regex>
+     <info>Cuando el durante mucho tiempo perdido padre de Po aparece de repente, el dúo ya reunido viaja a un paraíso secreto de pandas para conocer a montones de nuevos e hilarantes osos. Pero cuando el villano sobrenatural Kai comienza a recorrer toda China venciendo a todos los maestros de kung fu, Po deberá hacer lo imposible: aprender a entrenar a una comunidad repleta de divertidos y torpes hermanos para formar el equipo definitivo de Kung Fu Pandas.
+ Dirección : Jennifer Yuh
+ Guión : Jonathan Aibel, Glenn Berger
+ Año : 2016
+</info>
+ </item>
+
+
+
+
+<item>
+    <title>[COLOR red]  [/COLOR][COLOR red][B][/B]Deadpool Audio Eng[/COLOR]</title>
+    <thumbnail>http://static.srcdn.com/slir/w600-h900-q90-c600:900/wp-content/uploads/Deadpool-Mondo-Phantom-City-Creative.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/n1y094tVDFATSzkTnFxoGZ1qNsG.jpg</fanart>
+     <genre>Acción, Aventura, Comedia</genre>
+     <link>https://googledrive.com/host/0B4Z7-Dyq1vezQUdfLUZWcFBLWXc/</link>
+<expres>function getEdgeServers.*"(.*?),<expres>
+</regex>
+<regex>
+<name>getCODE</name>
+<expres>vsVars.*= "0m0(.*?)"<expres>
+<page></page>
+</regex>
+     <info>Deadpool es un mercenario que se unió al proyecto Arma X para curar el cáncer de pulmón que lo estaba consumiendo. El proyecto logró darle un factor curativo artificial que salvó su vida pero lo dejó horriblemente desfigurado. Fue así que Deadpool decidió vestir un uniforme que cubriese todo su cuerpo y comenzar a vender sus servicios al mejor postor, logrando sobrevivir a cada misión con una mezcla de locura, ironía y explosiones.
+ Dirección : Tim Miller
+ Guión : Rhett Reese, Paul Wernick
+ Año : 2016
+</info>
+ </item>
+
+
+
+
+
+ 
+
+<item>
+<title>Cautivoss</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-wr1uvv3fsvod-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/mlFuPxdzi6B3mZHnkZVq3YTg1rS.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/kUBbcWqzKESsiWTZ4sobpQsQwOk.jpg</thumbnail>
+<info>Ashley Smith, una joven madre soltera que se está recuperando de su adicción a las drogas, es secuestrada en su propia casa por un hombre de color que huye de la justicia tras haber matado al juez asignado a su caso.</info>
+</item>
+
+<item>
+<title>Los Ultimos Sobrevivientes</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-vhcmxarxle5b-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/nSFGCZwAQGpOfFv07pcyYA7Fhb1.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/ctOB9gRVsrgvP6ZH5AGxysgxqbY.jpg</thumbnail>
+<info>El agua dulce, nuestro bien más preciado se ha agotado y la sociedad se está derrumbando. En un valle de Oregon afectado por la sequía, un codicioso magnate está decidido a exterminar a los supervivientes del pueblo, utilizando los medios necesarios.</info>
+</item>
+
+<item>
+<title>El Viaje de Arlo</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-hrda5k7lf5i2-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/pDuD96Fz0ZZXf9buEvRu1UQsmFT.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/sbrIjitmxqOCAZcwcyiFIcb4kqa.jpg</thumbnail>
+<info>¿Qué hubiera pasado si el asteroide que cambió para siempre la vida en la Tierra no hubiese impactado en nuestro planeta? ¿Qué pasaría si los dinosaurios gigantes nunca se hubiesen extinguido? El viaje de Arlo nos traslada a un mundo donde el asteroide que terminó de forma dramática con los dinosaurios, pasa de largo. La consecuencia de este colosal cambio es que ahora los dinosaurios y los humanos tienen que vivir juntos en la Tierra.</info>
+</item>
+
+<item>
+<title>Invacion al Hogar</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-140vv04crwn8-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/xoSDQAELi5rQiJ9CYRB7z4WQua.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/qtYWw9moWHMwFgr9WEGFWHjHwbg.jpg</thumbnail>
+<info>Una mujer mata en defensa propia a un ladrón que estaba tratando de robar su casa. Tiempo después, la novia del caco intentará vengar su muerte, haciéndose pasar por amiga.</info>
+</item>
+
+<item>
+<title>Infiltrados en Miami 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-edhsw32tpzij-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/3SEsPAVLPh4ZTKGUdI1GjfVgaA.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/nenRpeVHOCp0zc7ERW43sZWzlql.jpg</thumbnail>
+<info>Kevin Hart y Ice Cube encabezan el reparto de INFILTRADOS EN MIAMI, la secuela de la comedia de acción Vaya patrulla en la que conocimos a la pareja cómica más popular del año</info>
+</item>
+
+<item>
+<title>Stev Jobs</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-riy94p6059bo-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/r3bv4zrP9yLkKcqyJeVcVUuyOml.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/v1EtjjEAz4VFGjPVqIvzaWHoxcS.jpg</thumbnail>
+<info>El biopic de Steve Jobs, que cuenta su aventura en la revolución de las tecnologías. Su pasión, su ingenio y el sacrificio para impulsar la era digital que llegó a afectar a su vida familiar y a su estado de salud. Centrado en la época en la que lanzó los tres productos icónicos de Apple.</info>
+</item>
+
+<item>
+<title>Kung Fu Panda 3 [COLOR cyan]TS Screener[/COLOR]</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-m2kbfqaw2gyb-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/7uHuwbu3wYPhf7qUECxGdMsGXUL.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/9PeNMCQSolcCpZHPIdOEJhzOIG3.jpg</thumbnail>
+<info>Cuando el durante mucho tiempo perdido padre de Po aparece de repente, el dúo ya reunido viaja a un paraíso secreto de pandas para conocer a montones de nuevos e hilarantes osos. Pero cuando el villano sobrenatural Kai comienza a recorrer toda China venciendo a todos los maestros de kung fu, Po deberá hacer lo imposible: aprender a entrenar a una comunidad repleta de divertidos y torpes hermanos para formar el equipo definitivo de Kung Fu Pandas.</info>
+</item>
+
+<item>
+<title>No Confies en Nadie</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-eotg3gt2c203-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/oP6t2PvX8DFcGyyCcWFQSP6s25W.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uHCTCe2LzvbY8nKRioFZo8zfsag.jpg</thumbnail>
+<info>Christine Lucas es una escritora de cuarenta y siete años de edad que, a raíz de un accidente sufrido a los 25 años, es incapaz de formar nuevos recuerdos y mantener los nuevos durante más de un día. Atrapada en una existencia en la que se despierta cada día creyendo que está soltera y con todas las grandes decisiones de su vida aún por tomar, cada vez vuelve a descubrir que vive con su marido, Ben, y con la mayoría de las decisiones ya realizadas.</info>
+</item>
+
+<item>
+<title>La Superficie</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-lsovr1qhlybg-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/l4PH1sj1ijIqQvAk8H7avluQzmp.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uu2Pt4bvvKZetLXXCd2fug8y64M.jpg</thumbnail>
+<info>Dos amigos se ven obligados a superar los problemas que existen entre ellos y así poder trabajar juntos con la finalidad de sobrevivir al lago Michigan en el cuál han naufragado y sus misteriosas aguas les impiden volver a sus hogares...</info>
+</item>
+
+<item>
+<title>Cumbre Escarlata</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-30bp5ixwzizh-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/zTs5Mc1zfEj61cvolvpPn8zSyim.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/cZwzi6Rb5s4qn3EXv5dN0nY1Cc6.jpg</thumbnail>
+<info>Como consecuencia de una tragedia familiar, una escritora es incapaz de elegir entre el amor de su amigo de la infancia y la tentación que representa un misterioso desconocido. En un intento por escapar de los fantasmas del pasado, se encuentra de pronto en una casa que respira, sangra… y recuerda</info>
+</item>
+
+<item>
+<title>Batman Mala Sangre</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-rctb9njqfy9g-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/rCGbcTGwLxY9s9MoQWwq2ruegCx.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/la6S3hvvpCAxtEFa6wFXL5nguf.jpg</thumbnail>
+<info>Bruce Wayne ha desaparecido. Alfred le cubre las espaldas mientras Nightwing y Robin patrullan Gotham en su lugar. Y una nueva jugadora, Batwoman, investiga la desaparición de Batman</info>
+</item>
+
+<item>
+<title>Experta en Crisis</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-1mbablxbjpc7-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/7dtVLmG2iIBJx442DG9sByGDiLL.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/e794uH5mC39eJj413G1FBYHWzI8.jpg</thumbnail>
+<info>Comedia política producida por George Clooney (Agosto, Gravity) y protagonizada por Sandra Bullock (Tan fuerte, tan cerca, La Proposición).  La película consiste en el duro trabajo de un grupo de consultores políticos estadounidenses que tienen la labor de lanzar una nueva campaña mediática a favor de un nuevo presidente latinoamericano. Sandra Bullock interpreta a Jane Bodine, una consultora conocida por utilizar rostros famosos para defender los temas propuestos por sus clientes.</info>
+</item>
+
+<item>
+<title>El caso Heineken</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-c9mteypxbcej-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/2QemhTRYZmo08VVgCz7h6TOBjg.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/yzRXQDCUcDbLTAY3QpHNN2ljwZg.jpg</thumbnail>
+<info>Narra la historia del secuestro más famoso del siglo: en 1983, el magnate de la cerveza Alfred Henry Heineken es secuestrado, junto con su chófer, por una banda que exige 50 millones de dólares por su libertad</info>
+</item>
+
+<item>
+<title>El Ulitmo Cazador de Brujas</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-ojba8jurnp8m-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/o6saqjLAgKpczr0yhJkEI9fNwN7.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/wC7iw5ISmTsi1XX8HWZ081Hx2os.jpg</thumbnail>
+<info>Narra la historia del último miembro de una casta de cazadores de brujas. Se trata de un individuo que mantiene a raya a las brujas y hechiceros neoyorquinos.</info>
+</item>
+
+<item>
+<title>Pacto Criminal</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-rp7ous26hwf7-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/yU0v8xNqMeCOTo4exyxsNp7N7Kw.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/3caJZu0uDo0hC94h8Nzlh5DBR73.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Por Mis Bigotes</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-vmvrugazv02a-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<thumbnail>https://image.tmdb.org/t/p/w500/jJfZQIuNBtpMOdIctgyTiwM1pVb.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>El Puente de los Espias</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-jvvsh1w73uka-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/bTgqCfMeBgmkcZr2Zw7xO8WlhzK.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/qzEv4nkZdp1nAfril4KR0tDMyro.jpg</thumbnail>
+<info>Década de los 60. Estados Unidos y la Unión Soviética se encuentran en plena Guerra Fría. El 1 de mayo de 1960 un avión espía americano fue derribado por el ejército enemigo cuando sobrevolaba territorio soviético. Sorprendentemente, el piloto, Francis Gary Powers, logra escapar gracias a su paracaídas. Cuando ya se creía a salvo, es capturado por los rusos. El abogado James B. Donovan (Tom Hanks, &#x27;Al encuentro de Mr. Banks&#x27;) es el encargado de negociar la liberación del soldado.</info>
+</item>
+
+<item>
+<title>007: Spectre</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-zfzq7qw27zag-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/wVTYlkKPKrljJfugXN7UlLNjtuJ.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/mSvpKOWbyFtLro9BjfEGqUw5dXE.jpg</thumbnail>
+<info>Un críptico mensaje del pasado envía a James Bond a una misión secreta a México D.F. y luego a Roma, donde conoce a Lucía Sciarra, la hermosa viuda de un infame criminal. Bond se infiltra en una reunión secreta y descubre la existencia de una siniestra organización conocida como SPECTRE. Mientras tanto, en Londres, el nuevo director del Centro para la Seguridad Nacional cuestiona las acciones de Bond y pone en duda la importancia del MI6, encabezado por M. De modo encubierto Bond recluta a Moneypenny y Q para que le ayuden a buscar a Madeleine Swann, la hija de su antiguo archienemigo, el Sr. White, que quizá tenga la clave para desentrañar el misterio de SPECTRE. A medida que Bond avanza en su misión, descubre una estremecedora conexión entre él mismo y el enemigo que busca.</info>
+</item>
+
+<item>
+<title>Equipo de Chusma</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/ember-74mzn9bn6zod-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/wOsMynjVixipUR9yvcnjzG0jJKJ.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/3IGEWuj75PgKsFo6nNqkhSXuUUo.jpg</thumbnail>
+<info>El infame hacker Drew Reynolds (Sam Huntington) es capturado por la CIA, que le hace una proposición: trabajar el resto de su vida en la cárcel. Con la condición de poder formar su propio equipo, acepta y pone a su cargo a un grupo de gente sin futuro, gente prescindible y aparentemente la peor de la organización</info>
+</item>
+
+<item>
+<title>Mr. Holmes</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-zc2aynhpqfxd-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/kMPj0fxDTtvuckFYeTYtUZXh4Hb.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/6dPudg3uty289e25eOlO4PeCkFT.jpg</thumbnail>
+<info>En 1947, Holmes vive retirado en una remota granja de Sussex con un ama de llaves y el hijo de ésta. Cumplidos los 93 años, su memoria y su capacidad intelectual empiezan a deteriorarse. Su rutinaria vida se limita al cuidado de su colmena, a la escritura de su diario y a la lucha contra su pérdida de facultades. De repente, se le presenta un caso desconocido hasta el momento</info>
+</item>
+
+<item>
+<title>Los Caballeros no Tenemos Memoria</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-7roj2bg7g8mv-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/ftAq8zlZST3plhLuUyoRR3QGdOT.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/gNISIaKnEnoUTFVJIOMnOT0HuIh.jpg</thumbnail>
+<info>Richard Haign es un brillante profesor de Cambridge con una pasión desenfrenada por la poesía romántica y las mujeres hermosas. Sin embargo, la paternidad le cambiará la vida. Der forma inesperada Kate, la joven estudiante americana que conoció en una de sus clases, le va a convertir en padre, noticia que recibe justo cuando conoce a Olivia, una novelista exuberante y excéntrica, hermana de la que pronto se convertirá en la madre de su hijo. Un trío amoroso que dista mucho de su ideal de familia.</info>
+</item>
+
+<item>
+<title>Jem y los Hologramas</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-c0an789qfroq-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/A5g8agUFaYt3UNnHzUrVYeCmVHR.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/4kIgibYX725i3MVoqqdNCjEqR2G.jpg</thumbnail>
+<info>Película de acción real basada en la serie de dibujos animados de los años 80 del mismo nombre.  Jerrica Benton y su hermana Kimber son hijas del dueño de la prestigiosa discográfica Stalight Music. Cuando el padre de las dos chicas muere de manera inesperada les deja en herencia unos extraños pendientes con forma de estrella. Nada más ponerse los pendientes Jerrica aparece una mujer holograma que la conduce a ella y sus amigas al sótano de un cine abandonado donde encuentran la herencia de su padre: Synergy, un artefacto capaz de generar hologramas de gran realismo además de cambiar objetos y crear imágenes súper realistas.  Cuando ambas hermanas se dan cuentan de que Eric Raymond, antiguo asesor de su padre, está intentando quedarse con Satrlight Music a través del grupo musical The Misfits, ellas mismas montarán un grupo gracias a Synergy y sus dos amigas, Aja y Shana, &#x27;Jem and the Holograms&#x27;, liderado por Jerrica que decide cambiarse de nombre.</info>
+</item>
+
+<item>
+<title>Escalofrios</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-g4mkrlwgj4t7-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/pOgXUXUJDhbRl6u1kPAb7ixzvsR.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uzLiKzZWs3UjdYCudK87rPx0llT.jpg</thumbnail>
+<info>El adolescente Zach Cooper se muda sin muchas ganas con su familia desde Nueva York al pequeño pueblo de Greendale. Allí encuentra un resquicio de ilusión cuando conoce a su vecina, la guapa Hannah, y hace un amigo: Champ. También se entera de que el padre de Hannah es RL Stine, autor del Bestseller de la serie Pesadillas. Pero Zach descubre que Stine tiene un secreto: las criaturas de sus historias son reales, y las mantiene encerradas en sus libros. Así que cuando en un descuido todos los demonios de Stine son liberados involuntariamente de sus libros, Zach, Hannah, Champ y el propio Stine, en una alocada noche llena de aventuras, tendrán que formar equipo y atrapar a todas las criaturas de la imaginación de Stine para devolverlos a los libros donde pertenecen, con el fin de salvar la ciudad.</info>
+</item>
+
+<item>
+<title>Siniestro 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-l7jl6yk1gne1-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/nlLgjizKZSrK9a8sZlJ2YbjoU0Y.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/AeJYo2wLVL6NpkHxpWIptGbQD0N.jpg</thumbnail>
+<info>Después de que Ashley Oswalt descuartizara a su familia y desapareciera con Mr. Boggie, una madre con sus dos hijos gemelos se mudan a la misma casa donde sucedieran los asesinatos cometidos por los niños que fueron poseídos. Mr. Boogie ha vuelto y acecha a uno de ellos. ¿Podrán salvarse de este ser maligno? Secuela de Sinister (Scott Derrickson, 2012). </info>
+</item>
+
+<item>
+<title>Bus 657</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8r3cf6oaivsu-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/cBlnfR0n1GA2vPoUQNcbL9pb3VW.jpg</fanart>
+<thumbnail>http://moviehole.net/img/bus_657_poster_2015.jpg</thumbnail>
+<info>Un padre no tiene los medios para pagar el tratamiento médico de su hija. Como último recurso, se asocia con un codicioso compañero de trabajo para robar un casino. Cuando las cosas van mal, se ven obligados a secuestras un autobús de la ciudad</info>
+</item>
+
+<item>
+<title>Letras Explicitas</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-opcvd2k0zo5j-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/fdDTA06o5e7MRXnTGAf4EygL2MJ.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/5LmdnQJHU5EPmbNqNaULbhIIz7X.jpg</thumbnail>
+<info>A mediados de los 80, el barrio californiano de Compton era uno de los lugares más peligrosos de Estados Unidos. Cuando un grupo de jóvenes convirtieron sus experiencias vitales en una música brutalmente sincera que se rebelaba contra la autoridad, le dieron voz a una generación silenciada. Siguiendo la meteórica trayectoria de N.W.A. (formado por Arabian Prince, DJ Yella, Dr. Dre, Eazy-E, Ice Cube y MC Ren), la película narra la historia de cómo estos chicos revolucionaron para siempre la música y la cultura popular al contar al mundo cómo era realmente la vida en el ghetto.</info>
+</item>
+
+<item>
+<title>Woodlawn</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-0n1w48jvl0ea-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/urJgrO6gU1WRGgmsT7z6ALpzoJ4.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/1W7DAA7lYHISyVkq2KbAz0zMG4H.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Captive</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-bc1yyh01ycmw-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/mlFuPxdzi6B3mZHnkZVq3YTg1rS.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/kUBbcWqzKESsiWTZ4sobpQsQwOk.jpg</thumbnail>
+<info>Ashley Smith, una joven madre soltera que se está recuperando de su adicción a las drogas, es secuestrada en su propia casa por un hombre de color que huye de la justicia tras haber matado al juez asignado a su caso.</info>
+</item>
+
+<item>
+<title>Luz Nocturna</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-icnv9i2ar2qv-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/chtJnwrlXjtYU6YL7n8HLJBPW29.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/pWS9lr5eSEuk9dZJguY9QjnzkQc.jpg</thumbnail>
+<info></info>
+</item>
+
+<item>
+<title>Burnt</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-5n86kptbesmc-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/oYgYCnCc9e8C8pofu2TD1Z876vv.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/nF7OxU8DyzmIy5jH6w26Jmavofh.jpg</thumbnail>
+<info>Tras perder el prestigio por culpa de su carácter y sus problemas personales, el chef Adam Jones (Bradley Cooper), pasado un tiempo, abre con su antiguo equipo un nuevo restaurante con el objetivo de alcanzar la perfección y conseguir las tres estrellas michelin.</info>
+</item>
+
+<item>
+<title>Hijo del Crimen</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8recdgg820pt-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/7UWPr9LUq3GizuZDG3e6PvSlvck.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/xb4YXFkpT6lu1t5mO5qdqJp1mrg.jpg</thumbnail>
+<info>Encerrado por un delito menor, el joven JR (Brenton Thwaites) aprende rápidamente las dureza de la vida en prisión, y que para sobrevivir dentro hay que buscar protección. Pronto se encontrará bajo la mirada del criminal más famoso de Australia, Brendan Lynch (Ewan McGregor), pero ese amparo tiene un precio. Lynch y su equipo tienen planes para su joven protegido: tras salir JR en libertad, deberá ayudar a Lynch con su plan de fuga.</info>
+</item>
+
+<item>
+<title>El Lado Peligroso del Deseo</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-4vgmjaq4x0do-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/A1kVYDMzZY1KpKO2AuoSQoStyQs.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/bt4yNEfABPZracOhMVeBNl4to4M.jpg</thumbnail>
+<info>La película se centra en Evan Webber, con una hermosa esposa, dos hijos maravillosos y viviendo en la casa que él mismo diseñó. Las cosas le van muy bien, tanto que no le importa pasar el Día del Padre solo mientras el resto de la familia pasa el fin de semana en la playa. Cuando llaman a la puerta.
+ Dos chicas jóvenes se presentan sin previo aviso en la casa de un hombre casado, dispuestas a seducirle y complicar su vida perfecta. Remake de Death Game (Las sádicas), dirigida por Peter S. Traynor en 1977.</info>
+</item>
+
+<item>
+<title>Boruto</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-t2bhm0e0iei9-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/dcXqo0wUQfeA8T9wwpvPtd2Afws.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/c9fjY58wrn3DuVSgcS80LqZsVGL.jpg</thumbnail>
+<info>Han pasado algunos años desde el final de la Guerra Shinobi. Naruto Uzumaki es el séptimo Hokage de Konoha, en esta nueva era. Su hijo, Boruto Uzumaki, pronto entrará en los exámenes de Chunin, junto Sarada Uchiha y el misterioso Mitsuki</info>
+</item>
+
+<item>
+<title>Atrapa la Bandera</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-4lotovzzs70l-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/lvNZwKr35vDKXgPa3JM2iznbrqh.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/vzzTy3ctiptqaV3S9tIewjKJ1nf.jpg</thumbnail>
+<info>Richard Carson, un ambicioso multimillonario, quiere apropiarse del satélite terrestre y explotar la fuente de energía limpia y real del futuro, el Helio 3. Para ello, deberá borrar de la Historia la gesta de los astronautas del Apolo XI y sus famosos primeros pasos por la Luna, algo que el 40% de la población mundial cree que es mentira. Y el único capaz de impedir que se salga con la suya es un simpático y decidido surfero de doce años, Mike Goldwing. Con la ayuda de sus amigos, el friki Marty, la futura periodista Amy y un pequeño lagarto con aspiraciones de ser Godzilla, viajan a la Luna acompañados por el abuelo de Mike, un antiguo astronauta que lleva años distanciado de su familia. Ahora está en las manos de Mike no sólo salvar el futuro de la Tierra, sino el de su propia familia.</info>
+</item>
+
+<item>
+<title>Traiganlo de Vuelta</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-gcaespxfeom1-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/sEgULSEnywgdSesVHFHpPAbOijl.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/dZjf78JXg0LAjD5qAOs6wFlc67B.jpg</thumbnail>
+<info>El astronauta Mark Watney (Matt Damon), un botánico e ingeniero mecánico de la NASA, se ve atrapado en el planeta Marte cuando la tripulación del Ares 3 debe evacuar su lugar de aterrizaje ante una tormenta de arena.  Sin su tripulación, se ve obligado a encontrar la forma de regresar a la Tierra y sobrevivir confiando en sus habilidades científicas y técnicas, antes de que se le agoten los suministros. Mientras que sus compañeros astronautas piensan que podría estar muerto, Watney comienza a escribir un diario divagando sobre el futuro, después de su muerte. Cuando la NASA descubre a través del satélite que Mark podría estar vivo, comienzan a trabajar sobre su rescate, ocultándoselo al resto del grupo</info>
+</item>
+
+<item>
+<title>Pasante de Moda</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-3cs56rk11zgq-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/nyl1fNn9JguXGTtDl8tES75fSF8.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/fvmUN76ItOmDGvWVm2Igxhwa92M.jpg</thumbnail>
+<info>La joven dueña de un exitoso negocio online dedicado a la moda no se toma demasiado bien el hecho de que la compañía contrate como becario a un hombre de 70 años, pero eso irá cambiando progresivamente, ya que poco a poco el hombre comienza a convertirse en alguien indispensable</info>
+</item>
+
+<item>
+<title>Hotel Transylvania 2</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-5dnbxvwwq5tj-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/h3t4zZPteUPqyDBrmz5Z2zzGM61.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/oTbKPPmb7qb6kOIO4I13LLZ9r5A.jpg</thumbnail>
+<info>Todo parece mejorar en el Hotel Transilvania. La rígida norma establecida por Drácula de “sólo para monstruos” se ha suprimido y se aceptan también huéspedes humanos. Lo que preocupa al conde es que que su adorable nieto Dennis, medio humano y medio vampiro, no dé señal alguna de vampirismo. Aprovechando que Mavis ha ido a visitar a sus suegros humanos, Drácula recluta a sus amigos Frank, Murray, Wayne y Griffin para hacer que Dennis pase por un campamento de “entrenamiento de monstruos”. Lo que ignoran es que Vlad, el gruñón padre de Drácula, está a punto de llegar al hotel. Y cuando descubra que su bisnieto no es de sangre pura y que los humanos pueden frecuentar el establecimiento las cosas se complicarán. Secuela de Hotel Transilvania</info>
+</item>
+
+<item>
+<title>Sicario</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-xqjx9klj95fv-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/kG5Zn9z20L2O7Jo2Y2jykOMh60v.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/B51aCXYFKEq0FYSJikss4zZBmq.jpg</thumbnail>
+<info>En la zona fronteriza que se extiende entre Estados Unidos y México la joven Kate Macer, una idealista agente del FBI, es reclutada por una fuerza de élite del Gobierno para luchar contra el narcotráfico. Bajo el mando de Matt Graver, un frío miembro de las fuerzas gubernamentales, y de Alejandro, un enigmático asesor, el equipo emprende una misión que lleva a la mujer a cuestionarse sus convicciones sobre la guerra contra los narcos y los límites de la ley.</info>
+</item>
+
+<item>
+<title>Un Paseo Por el Bosque</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-rejwyhh29yrr-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/jN9AzeLYFVNE8qM1fHJZPttuxg4.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/s9wvpkLKL1rCVJdxU6DVwgPGB6p.jpg</thumbnail>
+<info>Película basada en las memorias del escritor de libros de viajes, Bill Bryson.</info>
+</item>
+
+<item>
+<title>En La Cuerda Floja</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-klcxpa1eaeme-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/pVcqCKF6ObW85AqQaKkiK4F9tNh.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/bcomp9moscJ4FTxvMEqySYvRHAN.jpg</thumbnail>
+<info>Doce personas han pisado la Luna, pero únicamente un hombre ha recorrido, o recorrerá jamás, el inmenso vacío entre las dos torres del World Trade Center. Guiado por su mentor en la vida real, Papa Rudy (Ben Kingsley), y ayudado por un insólito grupo de reclutas de todo el mundo, Petit y su banda tendrán que superar obstáculos imposibles, traiciones, disensiones e innumerables situaciones comprometidas para concebir y ejecutar su alocado plan.</info>
+</item>
+
+<item>
+<title>Actividad Paranormal: Dimension Fantasma</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-tzr4d8k5drft-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/gGw3bqNve2CkJOEGC48UKCd98ri.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/xvrboSpvjl58UxpK969gQ9W7EMc.jpg</thumbnail>
+<info>El argumento podría seguir la línea narrativa de sus predecesoras, en las que los distintos protagonistas son atormentados por extraños sucesos paranormales, que son captados y estudiados a través de cámaras que colocan en su propia casa. En esta secuela, nuevas situaciones y personajes tendrán que enfrentarse a las escalofriantes apariciones, ¿conseguirán salir ilesos de estos terribles sucesos?</info>
+</item>
+
+<item>
+<title>Los Visitantes</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-c78bim4mnomf-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/rE0ZF0cYgTP6FZP6xbiWyZpmAMA.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/b4U6k14TKZj9OVccIRLVHEti6yc.jpg</thumbnail>
+<info>La Visita es un inquietante thriller que cuenta el viaje de dos hermanos durante un fin de semana para visitar a sus abuelos en una remota granja en Pensilvania. Cuando los niños descubren que la anciana pareja está metida en algo profundamente inquietante, se dan cuenta de que cada día que pasa, hay menos probabilidades de que regresen a casa.</info>
+</item>
+
+<item>
+<title>Puertas de la Oscuridad</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-ikm0ev2zmvzy-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/vhyd9NqIZ32IbXOq9Pqt0SpHhc8.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/3ZeaXFlRlZ3DzJ61akU2VotU80X.jpg</thumbnail>
+<info>Durante la Noche de Halloween, el hijo de una joven pareja es secuestrado. Un año más tarde comienzan a sentir su presencia de manera alarmante. Una serie de pistas les lleva a buscar el niño a través de Nueva York donde descubrirán que tiene relación con un espíritu feroz y vengativo.</info>
+</item>
+
+<item>
+<title>Lio en Brodway</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-oh29cifn98lx-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/wz5ACwYW3AqfaPOeAkMFkR6fMIM.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/70M9I5dBx3KbJ2uw2hryUguPEBb.jpg</thumbnail>
+<info>Arnold (Owen Wilson) tiene una vida perfecta: está felizmente casado, tiene dos hijos y un magnífico trabajo como director teatral en Broadway. Pero todo cambia cuando contrata los servicios de Izzy (Imogen Poots), una joven y prometedora actriz que alterna su discreta carrera artística con servicios nocturnos de compañía. El flechazo es tan profundo que Arnold decide ayudarla económicamente para que se centre en el mundo de la interpretación. El plan se torna en pesadilla cuando Izzy consigue un papel en la obra que dirige Arnold, en la que también participa su mujer, y que se convierte en un trío imposible.</info>
+</item>
+
+<item>
+<title>El Principito</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-80oqihmrqbrc-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/yXK2LkCRv7wcMqIfKwr1UpSMdmq.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/eDPVn6f1KlI2XgASAmqSjlHPdjK.jpg</thumbnail>
+<info>Para que todo salga bien en la prestigiosa Academia Werth, la pequeña y su madre se mudan a una casa nueva. La pequeña es muy seria y madura para su edad y planea estudiar durante las vacaciones siguiendo un estricto programa organizado por su madre; pero sus planes son perturbados por un vecino excéntrico y generoso. Él le enseña un mundo extraordinario en donde todo es posible. Un mundo en el que el Aviador se topó alguna vez con el misterioso Principito. Entonces comienza la aventura de la pequeña en el universo del Principito. Y así descubre nuevamente su infancia y comprenderá que sólo se ve bien con el corazón. Lo esencial es invisible a los ojos. Adaptación de la novela homónima de Antoine de Saint-Exupery</info>
+</item>
+
+<item>
+<title>Adultos Primerizos</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-ymfyj2tj80y1-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/a3I7ovftT8MVXMYm7Htq2QtERNI.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/4StONAgxFEMCTTW6IsdkqLeo3RN.jpg</thumbnail>
+<info>Un joven y narcisista empresario sufre un accidente en la víspera del gran lanzamiento de su empresa. Ante el nuevo desorden de su vida, decide marcharse de Manhattan para trasladarse a las afueras con su hermana embarazada, su marido y su sobrino de tres años para encargarse de cuidarlo.</info>
+</item>
+
+<item>
+<title>Everest</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-vd599kgiuyon-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>http://www.beethovenfm.cl/wp-content/uploads/2015/09/Everest-Movie-2015-593x340.jpg</fanart>
+<thumbnail>http://www.ninefiction.com/wp-content/uploads/2015/09/Everest-Poster-Nine-Fiction.jpg</thumbnail>
+<info>Inspirada en los hechos que tuvieron lugar durante un intento por alcanzar el pico más alto del mundo, narra las peripecias de dos expediciones que se enfrentan a la peor tormenta de nieve conocida. En un desesperado esfuerzo por sobrevivir, el temple de los alpinistas se ve puesto a prueba al tener que enfrentarse a la furia desatada de los elementos y a obstáculos casi insuperables.</info>
+</item>
+
+<item>
+<title>Los 6 Ridiculos</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-735s0vcstr4t-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/jrEbYGtEEv981chqVvYyIU9ni6K.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/k77xcsBtZMq9zIlTVQV7UBemzXD.jpg</thumbnail>
+<info>Cuando reaparece su padre, un forajido desaparecido durante muchos años, Tommy Stockburn y sus cinco hermanos emprenden un viaje lleno de aventuras por el Oeste</info>
+</item>
+
+<item>
+<title>Elvira, Te Daria Mi VIda Pero La Estoy Usando</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-skrk77ij1c7u-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/zoorSzZnNcsUU0aJI3bCZkbGSrh.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/xFuvO3pXh7scJpNhpAI1uaERhhl.jpg</thumbnail>
+<info>Una noche cualquiera, Gustavo, esposo de Elvira, sale a comprar cigarros. Nunca regresa. Elvira, de 40 años y madre de dos hijos, comienza una incansable búsqueda del amor de su vida. Las pistas la llevan a la conclusión de que su marido ha mantenido una relación en secreto. El desafortunado descubrimiento no la detendrá en su misión de encontrarlo</info>
+</item>
+
+<item>
+<title>El Transportador Recargado</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-sqcdrju36ldz-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/wxC0fO9fkNvdLr2joeE4AypuA3s.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/zW7oC3tucYLzu77xNbPbYjXUN4o.jpg</thumbnail>
+<info>Frank Martin es conocido por ser el mejor piloto y mercenario de dinero que puedes tener siguiendo tres reglas: nada de nombres, preguntas ni renegociaciones. En una de sus entregas, conoce a Anna, una misteriosa femme fatal, líder de un grupo de asaltantes. Ambos intentarán acabar con un grupo que trafica con seres humanos rusos, y que tienen secuestrado al padre de Frank</info>
+</item>
+
+<item>
+<title>Pan</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-o5m4pfm30252-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/6Ym6bgfhvpgQS5Sg8kKnfW1hX7P.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/nCzDROwv4553IMpz9cJffrjRP8f.jpg</thumbnail>
+<info>En esta ocasión la historia sufrirá un vuelco importante, pues será Barbanegra quien capitaneará un barco volador que secuestra a los huérfanos de guerra, entre ellos Peter Pan (Miller), mientras que el Capitán Garfio (Garrett Hedlund) es descrito como un apuesto Indiana Jones.</info>
+</item>
+
+<item>
+<title>Cuarto de Guerra</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-s1rtwbhr1b2n-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/gBjs3r2FmcmyG2chxwuVbRgWtIm.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/1YDrmKjFGPM52vN7I4eDCmjJOlT.jpg</thumbnail>
+<info>Tony y Elizabeth Jordan lo tienen todo, grandes puestos de trabajo, una hermosa hija, y su casa de ensueño. Pero las apariencias pueden ser engañosas. Tony y el mundo de Elizabeth Jordan en realidad se está desmoronando bajo el peso de un matrimonio fracasado. Mientras, Tony se regodea en su éxito profesional y coquetea con la tentación, Elizabeth se resigna a la creciente amargura. Pero su vida toma un giro inesperado cuando Elizabeth conoce a su nueva cliente, la señorita Clara, y tiene el reto de establecer un Cuarto de guerra y un plan de batalla de oración por su familia. Como Elizabeth intenta luchar por su familia, luchas ocultas de Tony salen a la luz., Tony debe decidir si va a hacer las paces con su familia y demostrar la sabiduría de la señorita Clara y que las victorias no llegan por accidente</info>
+</item>
+
+<item>
+<title>A La *&$%! Con Los Zombis</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-rr5xsklcn8ub-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/g9pgzOel4BzrHSSjezByWWTRZBs.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/3wHxtemithpFQiB7ffa50ZKI6bz.jpg</thumbnail>
+<info>El film nos contará como un grupo de chicos Boy Scouts deberá salvar a las chicas scout de un estallido zombi en una noche de acampada.</info>
+</item>
+
+<item>
+<title>¡Upsss! ¿Dónde está Noé...?</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-ctl19dvhnluo-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/aVcpJiLFpvPkoHgE54R4FaI40If.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uwACQiii7vIy93d8cUmg5bmq9SQ.jpg</thumbnail>
+<info>Es el fin del mundo . Un diluvio llega. Por suerte para Dave y su hijo Finny, un par de torpes Nestrians, se ha construido  un Arca para salvar a todos los animales. Pero resulta que no se admiten Nestrians. Furtivamente a bordo con la ayuda involuntaria de Hazel y su hija Leah , dos Grymps , creen que están a salvo. Finny y Leah tienen que intentar sobrevivir a la inundación y a los depredadores hambrientos y tratar de llegar a la cima de una montaña , mientras que Dave y Hazel deben dejar de lado sus diferencias.</info>
+</item>
+
+<item>
+<title>San Andreas Quake</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-07i39dxtbnrj-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/jsfCDnIdX6q6h20Z7tzrxpU5yrq.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/zdAyMhj2HdOUCcmT8DXpko6uLJR.jpg</thumbnail>
+<info>La falla de San Andrés acaba cediendo ante las temibles fuerzas telúricas y desencadena un terremoto de magnitud 9 en California. El piloto de un helicóptero de búsqueda y rescate (Johnson) y su ex esposa viajan juntos desde Los Ángeles hasta San Francisco para salvar a su única hija. Pero su tortuoso viaje hacia el norte solamente es el comienzo, y cuando piensan que ya ha acabado lo peor todo vuelve a empezar</info>
+</item>
+
+<item>
+<title>Campeones</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-98u15psqc8be-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/xAWvfFG4hK4wGywiapWYE5wfF1O.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uHUvmvNBRHJpoG3QUHZC1Sk9pfd.jpg</thumbnail>
+<info>El film nos llevará hasta el lugar conocido como Eagle’s Nest, un pueblo australiano de surfing donde una joven mujer es el hilo central de tres historias de asesinato, chantaje y venganza.</info>
+</item>
+
+<item>
+<title>Matame 3 Veces</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-t6clwsjnzarg-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/8YrFY8zcXYx9y89Zn9OS2E89CZm.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/zqTlUUBlVZTzVMYUnJQve0kJc3o.jpg</thumbnail>
+<info>El film nos llevará hasta el lugar conocido como Eagle’s Nest, un pueblo australiano de surfing donde una joven mujer es el hilo central de tres historias de asesinato, chantaje y venganza.</info>
+</item>
+
+<item>
+<title>Caza Mayor</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-rath2nxtdxk2-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/aFjAdtVAfDd9jYKMid2rCWQYfmD.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/uSeDj6wb67WyBuwwAw9Nhh76quA.jpg</thumbnail>
+<info>Un joven adolescente (Onni Tommila) que acampa en el bosque ayuda a rescatar al presidente de los Estados Unidos (Samuel l. Jackson) cuando el Air Force One se estrella cerca de su lugar de acampada. Sumergidos en el juego del ratón y el gato, Oskari y el presidente tendrán que trabajar juntos para sobrevivir a la noche más extraordinara de sus vidas</info>
+</item>
+
+<item>
+<title>Musica,Amigos y Fiesta</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-zyk9rgx5muwr-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/zCRv7bfGAOYkvbyG0rRC8olW22o.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/accc6f6h3Xi8kURvYpPoATOsm2Z.jpg</thumbnail>
+<info>La película sigue a un DJ joven tratando de triunfar en la industria musical. A través de los obstáculos que encuentra en su camino y con la influencia de un carismático productor musical, el aspirante a DJ se guía en el camino que lo lleva al éxito.</info>
+</item>
+
+<item>
+<title>Redirected</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-h18w995ssks6-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/mZpuf2zIF2gyYZs6FlfbKBe2uvU.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/38gY8rs5YRg5ozpHifnA6zVnDCp.jpg</thumbnail>
+<info>Cuatro amigos ingleses que se dedican a robar se quedan tirados en Lituania. Para volver a casa tropiezan con graves dificultades: las diferencias culturales, el trato con criminales, prostitutas, policías corruptos y cerveza barata</info>
+</item>
+ 
+<item>
+<title>Halo the Fall of reach</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-8d32fj7lm3jv-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/lKuyLW9RpCxJr9greIMEAOSSodN.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/qXRrUHxw9HDS8JqeJ2JggaMoKIo.jpg</thumbnail>
+<info>Adaptación animada de La caída de Reach, la aclamada novela de Eric Nylund basada en el universo de la saga de videojuegos Halo. Con una hora de duración en total, se estrenará junto a las versiones coleccionista de Halo 5</info>
+</item>
+
+<item>
+<title>Enamorandome de Abril</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-fo0ryw8bu62c-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart></fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/ywFi0z2hAMfjvLRDefXBVC88FHK.jpg</thumbnail>
+<info>Un escritor que firma con pseudónimo de mujer se enamora de una cronista que firma con pseudónimo de hombre. Cuando el amor llega prácticamente siempre y en todo momento nos toma por sorpresa y nada ni absolutamente nadie se puede oponer.</info>
+</item>
+
+<item>
+<title>En Un Pueblo de Montana</title>
+<link>$doregex[id]</link>
+<regex>
+<name>id</name>
+<expres>file:'(.*)'</expres>
+<page>http://streamin.to/embed-7i9kvfj349b3-740x360.html</page>
+<referer>http://streamin.to</referer>
+</regex>
+<fanart>https://image.tmdb.org/t/p/original/1mCTRwariWBR5JBpc1Mt8qCOKfH.jpg</fanart>
+<thumbnail>https://image.tmdb.org/t/p/w500/xkPspKklaJ55Ijl97A8LeCfD846.jpg</thumbnail>
+<info>Dwayne McClaren, un joven que

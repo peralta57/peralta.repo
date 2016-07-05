@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+	
+
+ <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]JUST ADDED[COLOR red][B][/B][/COLOR]</name>
+    <info>MUSICA</info>
+    <thumbnail>http://9453-presscdn-0-93.pagely.netdna-cdn.com/wp-content/uploads/2016/02/movie.jpg</thumbnail>
+    <fanart>http://9453-presscdn-0-93.pagely.netdna-cdn.com/wp-content/uploads/2016/02/movie.jpg</fanart>
+ 
+   <item>
+<title>[COLOR blue]*[B][/COLOR][COLOR red][/COLOR][/B]</title>
+<thumb>http://9453-presscdn-0-93.pagely.netdna-cdn.com/wp-content/uploads/2016/02/movie.jpg</thumbnail>
+<fanart>http://9453-presscdn-0-93.pagely.netdna-cdn.com/wp-content/uploads/2016/02/movie.jpg</fanart>
+<externallink>https://archive.org/download/hifimoviesdocs/hifimovies.xml</externallink>
+</item>
+<channel>
+    <name>[COLOR blue][B]*[/B][/COLOR] [COLOR red][B]TEST[/B][/COLOR]</name>
+    <info>ENTRETENIMIENTO</info>
+    <thumbnail>http://www.helenplum.org/system/files/movie-night-clipart-9cp4q9xcE.jpeg.jpg</thumbnail>
+    <fanart>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</fanart>
+
+    
+    <item>
+<title>[COLOR blue]*[/COLOR][COLOR red] TEST[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<fanart>https://www.internetretailer.com/static/uploads/thumbs/multimedia_film_jpg_280x280_crop_q95.jpg</fanart>
+<thumbnail>https://www.internetretailer.com/static/uploads/thumbs/multimedia_film_jpg_280x280_crop_q95.jpg1</thumbnail><fanart></fanart>
+<externallink>http://peraltarepo.netai.net/Peralta-List/newxml/testepstreammovies</externallink>
+</item>
+
+
+ <channel>
+    <name>[COLOR blue]*[B][/COLOR][B][COLOR red]DOCUMENTALES[/COLOR][/B]</name>
+    <info>MUSICA</info>
+    <thumbnail>https://muestradecortosaragoneses.files.wordpress.com/2013/11/docu.jpg</thumbnail>
+    <fanart>http://img.loquenosabias.com/tops10/2015/05/28/ocho-documentales-mas-interesantes-del-mundo.jpg</fanart>
+ 
+   <item>
+<title>[B][COLOR red]DOCUMENTALE[/COLOR][/B]</title>
+<thumb>https://muestradecortosaragoneses.files.wordpress.com/2013/11/docu.jpg</thumbnail>
+<fanart>http://img.loquenosabias.com/tops10/2015/05/28/ocho-documentales-mas-interesantes-del-mundo.jpg</fanart>
+<externallink>http://peraltarepo.netai.net/Peralta-List/Documentales.xml</externallink>
+</item>
+
+
+	    <channel>
+    <name>[COLOR blue][B]*[/B][/COLOR]   [COLOR red][B][/B][/COLOR]</name>
+    <info>MUSICA</info>
+    <thumbnail>http://www.helenplum.org/system/files/movie-night-clipart-9cp4q9xcE.jpeg.jpg</thumbnail>
+    <fanart>http://www.nerdsonearth.com/wp-content/uploads/2015/09/Massive-B-Horror-Collage-Wallpaper-horror-movies-29491579-2560-1600.jpg</fanart>
+ 
+   <item>
+<title>[COLOR blue]*[B][/COLOR][COLOR red][/COLOR][/B]</title>
+<thumb>http://www.helenplum.org/system/files/movie-night-clipart-9cp4q9xcE.jpeg.jpg</thumbnail>
+<fanart>http://www.nerdsonearth.com/wp-content/uploads/2015/09/Massive-B-Horror-Collage-Wallpaper-horror-movies-29491579-2560-1600.jpg</fanart>
+<externallink>http://peraltarepo.netai.net/Peralta-List/newxml/hifimovies1.5.xml</externallink>
+</item>
+
+ 

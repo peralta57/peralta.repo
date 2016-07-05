@@ -1,0 +1,2334 @@
+<item>
+<title>[B][COLOR orangered]THE UNIVERESE[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://images2.static-bluray.com/movies/covers/37992_front.jpg</thumbnail>]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLtIzfpRD4lo9KejbZxWak11nPnYcmXR80</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://images2.static-bluray.com/movies/covers/37992_front.jpg</thumbnail>
+</item>
+<item>
+           <title>[COLOR orange red][B]WILD JAPON 1: HONSHU[/B][/COLOR]</title>
+           <link>https://googledrive.com/host/0B-KdNxQcs0c2R0VmbGFiSzZlLWc
+           <thumbnail>http://s26.postimg.org/7nzx7pqop/F3066089.jpg</thumbnail>
+		   <fanart>http://ichef.bbci.co.uk/images/ic/1200x675/p02vbzd4.jpg</fanart>
+           </item>
+
+		   <item>
+           <title>[COLOR orange red][B]WILD JAPON 2: HONSHU[/B][/COLOR]</title>
+           <link>https://googledrive.com/host/0B-KdNxQcs0c2WFY2NERmLWdoMEU
+           <thumbnail>http://s26.postimg.org/7nzx7pqop/F3066089.jpg</thumbnail>
+		   <fanart>http://ichef.bbci.co.uk/images/ic/1200x675/p02vbzd4.jpg</fanart>
+           </item>
+
+		   <item>
+           <title>[COLOR orange red][B]WILD JAPON 3: HONSHU[/B][/COLOR]</title>
+           <link>https://googledrive.com/host/0B-KdNxQcs0c2ZVlETFpOTVRfS3c
+           <thumbnail>http://s26.postimg.org/7nzx7pqop/F3066089.jpg</thumbnail>
+		   <fanart>http://ichef.bbci.co.uk/images/ic/1200x675/p02vbzd4.jpg</fanart>
+           </item>
+
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--FROM POLE TO POLE[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/1.BBC-Planet%20Earth-From%20Pole%20to%20Pole%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--MOUNTAINS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/2.BBC-Planet%20Earth-Mountains%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--FRESH WATER[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/3.BBC-Planet%20Earth-Fresh%20Water%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--CAVES[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/4.BBC-Planet%20Earth-Caves%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--DESERTS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/5.BBC-Planet%20Earth-Deserts%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--ICE WORLD[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/6.BBC-Planet%20Earth-Ice%20World%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--THE GREAT PLAINS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/7.BBC-Planet%20Earth-Great%20Plains%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--JUNGLES[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/8.BBC-Planet%20Earth-Jungles%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--SHALLOW SEAS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/9.BBC-Planet%20Earth-Shallow%20Seas%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--SEASONAL FORESTS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/10.BBC-Planet%20Earth-Seasonal%20Forests%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--OCEAN DEEP[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/11.BBC-Planet%20Earth-Ocean%20Deep%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HOW TO BUILD A SUPERCAR[/B][/COLOR]</title>
+<link>http://217.219.143.104/9106/Documentry/BBC%20-%20How%20To%20Build%20A%20Super%20Car/BBC%20-%20How%20To%20Build%20A%20Super%20Car%20HDTV.mkv</link>
+<thumbnail>http://ichef-1.bbci.co.uk/news/640/media/images/52585000/jpg/_52585105_52585104.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]NATUARAL WORLD ZAMBEZI[/B][/COLOR]</title>
+<link>http://217.219.143.104/9106/Documentry/BBC%20-%20Natural%20World%20Zambezi%20%282012%29%20PDTV%20XviD/BBC%20-%20Natural%20World%20Zambezi%20%282012%29%20PDTV%20XviD.avi</link>
+<thumbnail>http://img.downloadha.com/Rezaj/Pic-Farvardin/Zambezi.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]SUPER SMART ANIMALS E1[/B][/COLOR]</title>
+<link>http://217.219.143.104/9106/Documentry/BBC%20-%20Super%20Smart%20Animals%20E1%20%282012%29%20PDTV%20x264/BBC%20-%20Super%20Smart%20Animals%20E1.mkv</link>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2014/10/08/1412783711930_wps_56_Programme_Name_Cat_Watch_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]SUPER SMART ANIMALS E2[/B][/COLOR]</title>
+<link>http://217.219.143.104/9106/Documentry/BBC%20-%20Super%20Smart%20Animals%20E2%20%282012%29%20PDTV%20x264/BBC%20-%20Super%20Smart%20Animals%20E2.mkv</link>
+<thumbnail>http://i.telegraph.co.uk/multimedia/archive/02135/liz_bonnin_2135060b.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]SPIDER HOUSE[/B][/COLOR]</title>
+<link>http://a.beveridge.uk/TV/Andrew/BBC.Documentaries.Spider.House.720p.WEBRip.AAC2.0.H.264-iPRiP.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]THE LIFE OF MUHAMMAD[/B][/COLOR]</title>
+<link>http://188.165.12.93:8000/movie/lamar/lamar/5281.mkv</link>
+<thumbnail>http://cdn.highdefdigest.com/uploads/2013/07/05/235/5318d08ab2f7d.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]THE BEGINNING AND THE END OF THE UNIVERSE E1[/B][/COLOR]</title>
+<link>http://188.165.12.93:8000/movie/lamar/lamar/5090.mp4</link>
+<thumbnail>http://i.ytimg.com/vi/f_HPhAeQDu8/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]THE BEGINNING AND THE END OF THE UNIVERSE E2[/B][/COLOR]</title>
+<link>http://188.165.12.93:8000/movie/lamar/lamar/5091.mp4</link>
+<thumbnail>https://i.ytimg.com/vi/BxcRXs1qjLM/hqdefault.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--FROM POLE TO POLE[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/1.BBC-Planet%20Earth-From%20Pole%20to%20Pole%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--MOUNTAINS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/2.BBC-Planet%20Earth-Mountains%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--FRESH WATER[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/3.BBC-Planet%20Earth-Fresh%20Water%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--CAVES[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/4.BBC-Planet%20Earth-Caves%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--DESERTS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/5.BBC-Planet%20Earth-Deserts%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--ICE WORLD[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/6.BBC-Planet%20Earth-Ice%20World%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--THE GREAT PLAINS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/7.BBC-Planet%20Earth-Great%20Plains%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--JUNGLES[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/8.BBC-Planet%20Earth-Jungles%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--SHALLOW SEAS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/9.BBC-Planet%20Earth-Shallow%20Seas%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--SEASONAL FORESTS[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/10.BBC-Planet%20Earth-Seasonal%20Forests%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH--OCEAN DEEP[/B][/COLOR]</title>
+<link>https://www.7r.pm/__TRASH__/Planet%20Earth%20%282006%29%20Complete%20Season%20BluRay%20720p%20%5bEnglish%5d%20E-Subs%20x264--RickyKT%20SilverRG/Episodes/11.BBC-Planet%20Earth-Ocean%20Deep%20Encoder%20RickyKT%20SilverRG.mkv</link>
+<thumbnail>https://i.jeded.com/i/bbc-planet-earth-complete-series.20770.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HOW TO BUILD A SUPERCAR[/B][/COLOR]</title>
+<link>http://217.219.143.104/9106/Documentry/BBC%20-%20How%20To%20Build%20A%20Super%20Car/BBC%20-%20How%20To%20Build%20A%20Super%20Car%20HDTV.mkv</link>
+<thumbnail>http://ichef-1.bbci.co.uk/news/640/media/images/52585000/jpg/_52585105_52585104.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]NATUARAL WORLD ZAMBEZI[/B][/COLOR]</title>
+<link>http://217.219.143.104/9106/Documentry/BBC%20-%20Natural%20World%20Zambezi%20%282012%29%20PDTV%20XviD/BBC%20-%20Natural%20World%20Zambezi%20%282012%29%20PDTV%20XviD.avi</link>
+<thumbnail>http://img.downloadha.com/Rezaj/Pic-Farvardin/Zambezi.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]SUPER SMART ANIMALS E1[/B][/COLOR]</title>
+<link>http://217.219.143.104/9106/Documentry/BBC%20-%20Super%20Smart%20Animals%20E1%20%282012%29%20PDTV%20x264/BBC%20-%20Super%20Smart%20Animals%20E1.mkv</link>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2014/10/08/1412783711930_wps_56_Programme_Name_Cat_Watch_.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]SUPER SMART ANIMALS E2[/B][/COLOR]</title>
+<link>http://217.219.143.104/9106/Documentry/BBC%20-%20Super%20Smart%20Animals%20E2%20%282012%29%20PDTV%20x264/BBC%20-%20Super%20Smart%20Animals%20E2.mkv</link>
+<thumbnail>http://i.telegraph.co.uk/multimedia/archive/02135/liz_bonnin_2135060b.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]SPIDER HOUSE[/B][/COLOR]</title>
+<link>http://a.beveridge.uk/TV/Andrew/BBC.Documentaries.Spider.House.720p.WEBRip.AAC2.0.H.264-iPRiP.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]THE LIFE OF MUHAMMAD[/B][/COLOR]</title>
+<link>http://188.165.12.93:8000/movie/lamar/lamar/5281.mkv</link>
+<thumbnail>http://cdn.highdefdigest.com/uploads/2013/07/05/235/5318d08ab2f7d.jpeg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]THE BEGINNING AND THE END OF THE UNIVERSE E1[/B][/COLOR]</title>
+<link>http://188.165.12.93:8000/movie/lamar/lamar/5090.mp4</link>
+<thumbnail>http://i.ytimg.com/vi/f_HPhAeQDu8/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]THE BEGINNING AND THE END OF THE UNIVERSE E2[/B][/COLOR]</title>
+<link>http://188.165.12.93:8000/movie/lamar/lamar/5091.mp4</link>
+<thumbnail>https://i.ytimg.com/vi/BxcRXs1qjLM/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HUMAN-PLANET-(OCEANS)-INTO-THE-BLUE-[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Human%20Planet/S01/720p/Human.Planet.E01.Oceans.Into.The.Blue.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HUMAN-PLANET-(DESERTS)-LIFE-IN-THE-FURNACE-[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Human%20Planet/S01/720p/Human.Planet.E02.Deserts.Life.In.The.Furnace.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HUMAN-PLANET-(ARTIC)-LIFE-IN-THE-DEEP-FREEZE-[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Human%20Planet/S01/720p/Human.Planet.E03.Arctic.Life.In.The.Deep.Freeze.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HUMAN-PLANET-(JUNGLES)-PEOPLE-OF-THE-TREES-[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Human%20Planet/S01/720p/Human.Planet.E04.Jungles.People.Of.The.Trees.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HUMAN-PLANET-(MOUNTAINS)-LIFE-IN-THIN-AIR-[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Human%20Planet/S01/720p/Human.Planet.E05.Mountains.Life.In.Thin.Air.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HUMAN-PLANET-(GRASSLAND)-ROOTS-OF-POWER-[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Human%20Planet/S01/720p/Human.Planet.E06.Grassland.Roots.Of.Power.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HUMAN-PLANET-(RIVERS)-FRIEND-AND-FOE-[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Human%20Planet/S01/720p/Human.Planet.E07.Rivers.Friend.And.Foe.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]HUMAN-PLANET-(CITIES)-SURVIVING-THE-URBAN-JUNGLE-[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Human%20Planet/S01/720p/Human.Planet.E08.Cities.Surviving.The.Urban.Jungle.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FROZEN-PLANET-(TO THE ENDS OF THE EARTH)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Frozen%20Planet/S01/720p/Frozen.Planet.E01.To.The.Ends.Of.The.Earth.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FROZEN-PLANET-(SPRING)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Frozen%20Planet/S01/720p/Frozen.Planet.E02.Spring.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FROZEN-PLANET-(SUMMER)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Frozen%20Planet/S01/720p/Frozen.Planet.E03.Summer.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FROZEN-PLANET-(AUTUMN)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Frozen%20Planet/S01/720p/Frozen.Planet.E04.Autumn.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FROZEN-PLANET-(WINTER)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Frozen%20Planet/S01/720p/Frozen.Planet.E05.Winter.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FROZEN-PLANET-(THE LAST FRONTIER)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Frozen%20Planet/S01/720p/Frozen.Planet.E06.The.Last.Frontier.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FROZEN-PLANET-(ON THE ICE)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Frozen%20Planet/S01/720p/Frozen.Planet.E07.On.The.Ice.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FROZEN-PLANET-(SCIENCE AT THE END OF THE EARTH)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Frozen%20Planet/S01/720p/Frozen.Planet.Science.At.The.End.Of.The.Earth.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH-(DESERT LIONS)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Planet%20Earth/S01/720p/Planet.Earth.Bonus.Episode.Desert.Lions.2011.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+
+</item>
+
+<item>
+<title>[COLOR orangered][B]PLANET-EARTH-(SNOW LEOPARDS)[/B][/COLOR]</title>
+<link>http://dl2.moviefarsi.com/serial/Planet%20Earth/S01/720p/Planet.Earth.Bonus.Episode.Snow.Leopards.2011.720p_MovieFarsi.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]THE-LAST-LIONS-OF-INDIA-[/B][/COLOR]</title>
+<link>http://cdnp.atadownload.com/9312/BBC%20The%20Last%20Lions%20of%20India/BBC%20The%20Last%20Lions%20of%20India.avi</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]WILD-ARABIA-(SAND,WIND AND STARS)[/B][/COLOR]</title>
+<link>http://cdnp.atadownload.com/9309D/BBC.Wild.Arabia/BBC.Wild.Arabia.1of3.Sand.Wind.and.Stars.HD.720p.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]WILD-ARABIA-(JEWEL OF ARABIA)[/B][/COLOR]</title>
+<link>http://cdnp.atadownload.com/9309D/BBC.Wild.Arabia/BBC.Wild.Arabia.2of3.The.Jewel.of.Arabia.HD.720p.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]WILD-ARABIA-(SHIFTING SANDS)[/B][/COLOR]</title>
+<link>http://cdnp.atadownload.com/9309D/BBC.Wild.Arabia/BBC.Wild.Arabia.3of3.Shifting.Sands.HD.720p.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]EGYPTS GREATEST LOST CITY[/B][/COLOR]</title>
+<link>http://cdnp.atadownload.com/9307M/BBC%20Ancient%20Egypts%20Greatest%20Lost%20City%20720p%20HDRip/BBC%20Ancient%20Egypts%20Greatest%20Lost%20City%20720p%20HDRip.mkv</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]THE-ART-OF-FLY-FISHING-[/B][/COLOR]</title>
+<link>http://eurl.deblasis.info/dvx/--%20FISHING/--%20FLY%20FISHING/BBC.The.Art.of.Fly.Fishing.720p.HDTV.x264.AAC.MVGroup.org.mkv#</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>[COLOR orangered][B]FLY-FISHING-FOR-NORTHERN-PIKE-[/B][/COLOR]</title>
+<link>http://eurl.deblasis.info/dvx/--%20FISHING/--%20FLY%20FISHING/Fly%20Fishing%20For%20Nothern%20Pike.avi</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item><title>[B][COLOR orangered]HBO Documentaries SEX ON][/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/a6caffaa0c4ef</link>
+</item>
+<channel>
+<name>[B][COLOR orangered]Serial Killer & Murder Documentaries[/B][/COLOR]</name>
+<fanart>http://www.shrinktank.com/wp-content/uploads/2016/03/serial-killer.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]Serial Killer & Murder Documentaries[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.lidodijesolo.info/wp-content/uploads/2015/12/serial-killer-mostra-mondiale-jesolo-4-300x267.jpg</thumbnail>
+<fanar></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLEfZSmhbsA4NyEon3gwXu41PZGqa553J2</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.lidodijesolo.info/wp-content/uploads/2015/12/serial-killer-mostra-mondiale-jesolo-4-300x267.jpg</thumbnail>
+<fanar>http://www.shrinktank.com/wp-content/uploads/2016/03/serial-killer.jpg</fanart>
+</item>
+</channel>
+<channel>
+<name>[B][COLOR orangered]PBS Nova Documentaries[/B][/COLOR]</name>
+<fanart>http://www.endlessboundaries.com/wp-content/uploads/2013/06/Super_Nova_-_Space_Art1.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]PBS Nova Documentaries[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTUxMDc3NzM4Nl5BMl5BanBnXkFtZTgwOTQ1MDkxNzE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanar></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL68E5661382A7D1F3</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTUxMDc3NzM4Nl5BMl5BanBnXkFtZTgwOTQ1MDkxNzE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanar>http://www.endlessboundaries.com/wp-content/uploads/2013/06/Super_Nova_-_Space_Art1.jpg</fanart>
+</item>
+</channel>
+<channel>
+<name>[B][COLOR orangered]ART Documentaries[/B][/COLOR]</name>
+<fanart>https://www.conncoll.edu/media/major-images/Art.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]ART Documentaries[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>https://i.vimeocdn.com/portrait/1583020_300x300.jpg</thumbnail>
+<fanar></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL3CHVZoRErbXpqvdW5SjUwLIM9YPMcTat</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.vimeocdn.com/portrait/1583020_300x300.jpg</thumbnail>
+<fanar>https://www.conncoll.edu/media/major-images/Art.jpg</fanart>
+</item>
+</channel>
+
+
+
+
+
+
+
+
+
+<channel>
+<name>[B][COLOR orangered]World History Documentarie[/B][/COLOR]</name>
+<fanart>http://ia.media-imdb.com/images/M/MV5BMjE5NDc1NzM0Nl5BMl5BanBnXkFtZTcwOTUxNzYzOQ@@._V1_SX640_SY720_.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]World History Documentarie[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE5NDc1NzM0Nl5BMl5BanBnXkFtZTcwOTUxNzYzOQ@@._V1_SX640_SY720_.jpg</thumbnail>
+<fanar></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLR3SowCQah02FYPAFXOFH2Vy1qcAmIJ_A</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjE5NDc1NzM0Nl5BMl5BanBnXkFtZTcwOTUxNzYzOQ@@._V1_SX640_SY720_.jpg</thumbnail>
+<fanar>http://ia.media-imdb.com/images/M/MV5BMjE5NDc1NzM0Nl5BMl5BanBnXkFtZTcwOTUxNzYzOQ@@._V1_SX640_SY720_.jpg</fanart>
+</item>
+</channel>
+<item>
+<title>[B][COLOR orangered]Space[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>https://i.ytimg.com/vi/cdWj8fXHQLg/maxresdefault.jpg</thumbnail>
+<fanar>http://blogs-images.forbes.com/startswithabang/files/2015/12/PqmM9-1024x1020.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL3CHVZoRErbVGblxgUbQijsY0l8_FiB6x</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/cdWj8fXHQLg/maxresdefault.jpg</thumbnail>
+<fanar>http://blogs-images.forbes.com/startswithabang/files/2015/12/PqmM9-1024x1020.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>9/11 EXPOSED</title>
+<utube>4Nmj6t51Wz8</utube>
+<thumbnail>http://i.dailymail.co.uk/i/pix/2011/08/20/article-0-02FEEE740000044D-727_634x474.jpg</thumbnail>
+</item>
+
+<item>
+<title>FLAT EARTH (FACT OR FICTION)</title>
+<utube>sfMZ9sDXAp0</utube>
+<thumbnail>http://www.3dham.com/blog/Flat_earthrot.jpg</thumbnail>
+</item>
+
+<item>
+<title>THE BIBLE CODE(SECRET MESSAGES IN THE GREAT BOOK ?</title>
+<utube>vHapK8pdprU</utube>
+<thumbnail>https://bibleprophecyresources.com/wp-content/uploads/2015/07/Bible-Predictions-That-Make-Todays-Headlines.jpg</thumbnail>
+</item>
+
+<item>
+<title>DID WE LAND ON THE MOON?</title>
+<utube>MIy8ZqqK5G8</utube>
+<thumbnail>http://yournewswire.com/wp-content/uploads/2015/06/faked-moonlanding-400x400.jpg</thumbnail>
+</item>
+
+<item>
+<title>JFK ASSASSINATION, NOTHING BUT THE TRUTH</title>
+<utube>nLZuPB3uSVw</utube>
+<thumbnail>http://cdn.phillymag.com/wp-content/uploads/2013/11/shutterstock_jfk-400x400.jpg</thumbnail>
+</item>
+
+<item>
+<title>HOLLOW EARTH, THE BIGGEST COVER UP</title>
+<utube>RaPtq8F2hUc</utube>
+<thumbnail>http://aetherforce.com/wp-content/uploads/2014/10/hollowearthbyrd.jpg</thumbnail>
+</item>
+
+<item>
+<title>PRINCESS DIANA DEATH CONSPIRACY </title>
+<utube>xv2JRIe-bSA</utube>
+<thumbnail>http://cdn-img.health.com/sites/default/files/styles/400x400/public/styles/main/public/princess-diana-dep-400x400.jpg</thumbnail>
+</item>
+
+<item>
+<title>THE BEST CONSPIRACY THEORIES OF ALL TIME</title>
+<utube>o1Tm1VO23Ck</utube>
+<thumbnail>http://r.fod4.com/c=sq/s=w400/o=30(80)/http://a.fod4.com/images/user_photos/1284460/d7ee9617a3f451f771d2c52aad0d8acf_square_fullsize.jpg</thumbnail>
+</item>
+
+<item>
+<title>ILLUMINATI NEW WORLD ORDER</title>
+<utube>zPW8Iuqk2I4</utube>
+<thumbnail>https://pbs.twimg.com/profile_images/1185463130/illuminati-haende-gr_400x400.jpg</thumbnail>
+</item>
+
+<item>
+<title>7/7 WHAT DID THEY KNOW</title>
+<utube>PrJIZyLJv4Y</utube>
+<thumbnail>http://i.ebayimg.com/00/s/NTAwWDUwMA==/z/vNgAAOSwPhdVMwXz/$_1.JPG</thumbnail>
+</item>
+
+<item>
+<title>THE TRILLION DOLLAR CONSPIRACY 9/11</title>
+<utube>uIIhJEsGeDM</utube>
+<thumbnail>http://i1.kym-cdn.com/entries/icons/original/000/018/862/911.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR orangered][B]Unsealed Conspiracy Files Complete Series[/B][/COLOR]</title>
+<utube>PYG2WiBWN6g</utube>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjg0Y2RiNWUtNjVmMC00NTYzLTk5ZTQtN2M3YTczZjY0NDMyXkEyXkFqcGdeQXVyNTU3NDI3MTE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orangered][B]The Antarctica Conspiracy EXPOSED[/B][/COLOR]</title>
+<utube>IeJ5okrnbu0</utube>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR orangered][B]Conspiracy Of Silence[/B][/COLOR]</title>
+<utube>6o0xwZ0grDk</utube>
+<thumbnail>http://mymmsite.com/Michael%20page/cos-mm-eyes-2.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orangered][B]Area 51 & Advanced Military Technology Conspiracy[/B][/COLOR]</title>
+<utube>ZwFeGHPQCJA</utube>
+<thumbnail>http://media.cleveland.com/books_impact/photo/area-51-coverjpg-c8e235cb63d547c6.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR orangered][B]The Satan Conspiracy[/B][/COLOR]</title>
+<utube>hhl_LzH17RM</utube>
+<thumbnail>https://www.prlog.org/12138471-the-vatican-conspiracy.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLOR orangered][B]Conspiracy Theory [COLOR red] Vatican Secrets Exposed[/B][/COLOR]</title>
+<utube>W68Y1MueDhM</utube>
+<thumbnail>https://www.prlog.org/12138471-the-vatican-conspiracy.jpg</thumbnail>
+<fanart></fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[B][COLOR orangered]Deadliest Space Weather[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://dtvimages.hs.llnwd.net/e1/db_photos/showcards/v5/AllPhotos/9689273/p9689273_b_v5_aa.jpg</thumbnail>
+<fanar>https://i.ytimg.com/vi/XH9HjfYjhX4/hqdefault.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLht3ColwII5rNwVkc7vJdCYkAUVr-1-uG</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://dtvimages.hs.llnwd.net/e1/db_photos/showcards/v5/AllPhotos/9689273/p9689273_b_v5_aa.jpg</thumbnail>
+</item>
+</channel>
+
+<item>
+<title>[B][COLOR orangered]Parasites Eating Us Alive[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>https://i.ytimg.com/vi/43-SFtLSU8Y/hqdefault.jpg</thumbnail>
+<fanarthttps://i.ytimg.com/vi/43-SFtLSU8Y/hqdefault.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLSrE3Yeu33fZK8YfXTOxEuIpr6DZW8NNh</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://i.ytimg.com/vi/43-SFtLSU8Y/hqdefault.jpg</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orangered]National Geographic[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>https://img.washingtonpost.com/rf/image_606w/2010-2019/WashingtonPost/2014/11/10/Health-Environment-Science/Images/cover%20image%20National%20Geographic%20THE%20COVERS.jpg</thumbnail>
+<fanar></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL3CHVZoRErbXH3c546zm93DHLoBQ80G6S</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://img.washingtonpost.com/rf/image_606w/2010-2019/WashingtonPost/2014/11/10/Health-Environment-Science/Images/cover%20image%20National%20Geographic%20THE%20COVERS.jpg</thumbnail>
+<fanar></fanart>
+</item>
+
+<item><title>Origenes Secretos DC Comics</title><link>https://goo.gl/58VG1d</link><thumbnail>http://3.bp.blogspot.com/-N1LNrAxgQC0/VRzOLXTLKoI/AAAAAAAAE10/uz9ah97xfQ8/s1600/Secret%2BOrigins%2B(2014-)%2B010-000.jpg</thumbnail><fanart>http://k40.kn3.net/taringa/1/1/2/6/8/2/85/el_nemo_o/77C.jpg?4546</fanart></item>
+<item><title>Pina</title><link>https://goo.gl/frk2Bz</link><thumbnail>https://oddreaddotcom.files.wordpress.com/2012/02/pina-3d-movie-poster.jpg</thumbnail><fanart>http://silabario.com.mx/wp-content/uploads/2013/12/pinawaterbuckets-1.jpg</fanart></item>
+<item><title>Bukowski</title><link>https://goo.gl/jWSxng</link><thumbnail>http://ecx.images-amazon.com/images/I/71GGwiDgB3L._SL1365_.jpg</thumbnail><fanart>http://cdn2.upsocl.com/wp-content/uploads/2015/11/Captura-de-pantalla-2015-11-11-a-las-14.29.49.jpg</fanart></item>
+<item><title>Gasland</title><link>https://goo.gl/G5JzVv</link><thumbnail>https://cdn.evbuc.com/eventlogos/22655862/gasland.jpg</thumbnail><fanart>https://i.ytimg.com/vi/VqbSqsESWso/maxresdefault.jpg</fanart></item>
+<item><title>Exit Through the Gift Shop</title><link>https://goo.gl/vzmXmt</link><thumbnail>http://proyectoblogspace.com/wp-content/uploads/2012/01/936full-exit-through-the-gift-shop-poster.jpg</thumbnail><fanart>http://cdn2.istanbulartsnob.com/wp-content/uploads/2015/07/exitthroughthegiftshop1.jpg</fanart></item>
+<item><title>Historia y Secretos Ineditos del Nazismo</title><link>https://goo.gl/eWk2Ua</link><thumbnail>http://images2.coveralia.com/dvd/h/Historia_Y_Secretos_Ineditos_Del_Nazismo-Caratula.jpg</thumbnail><fanart>https://i.ytimg.com/vi/u4QoGQD8h9M/maxresdefault.jpg</fanart></item>
+<item><title>Inside Job</title><link>https://goo.gl/Xy41xw</link><thumbnail>https://oddreaddotcom.files.wordpress.com/2012/08/inside-job.jpg</thumbnail><fanart>http://www.filmdu.tv/wp-content/uploads/2012/07/inside-job-wallpaper.jpeg</fanart></item>
+<item><title>Marvel 75 Years from Pulp to pop</title><link>https://goo.gl/XngXcq</link><thumbnail>https://i.ytimg.com/vi/t-xuBeZ7DPY/maxresdefault.jpg</thumbnail><fanart>http://assets1.ignimgs.com/2014/11/04/rotatorlargesuperiorjpg-444528_1280w.jpg</fanart></item>
+<item><title>The Act of Killing</title><link>https://goo.gl/fFru7T</link><thumbnail>http://pics.filmaffinity.com/The_Act_of_Killing-923180654-large.jpg</thumbnail><fanart>http://theactofkilling.com/wp-content/uploads/2012/07/frontpage-32.jpg</fanart></item>
+<item><title>Michel Jordan to the Max</title><link>https://goo.gl/aI9N8M</link><thumbnail>http://ecx.images-amazon.com/images/I/91rWtw3QjlL._SL1500_.jpg</thumbnail><fanart>https://i.ytimg.com/vi/KroCj_SEcoM/maxresdefault.jpg</fanart></item>
+<item><title>The Weather Underground</title><link>https://goo.gl/oPcqyx</link><thumbnail>http://samgreen.to/wp-content/uploads/2002/11/poster_wu1.png</thumbnail><fanart>https://snagfilms-a.akamaihd.net/8d/c9/2554eddf4dc2908b1897e43469a7/theweatherunderground-1920x1080.jpg</fanart></item>
+ 
+ 
+<item>
+<title>[Discovery] NorteAmerica</title>
+<thumbnail>http://talentw.com/wp-content/uploads/2014/05/DSC-NORTE-AMERICA-KEY-NEW.jpg</thumbnail><fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_810,w_1440,x_0,y_78/c_fill,h_900,w_1600/v1409691828/Lista_De_Especies_-_Episodio_1_8.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/norteamerica.xml</externallink>
+</item> 
+
+ 
+<item>
+<title>La Verdadera Historia del Internet</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/41sZ9yGMuyL.jpg</thumbnail><fanart>https://i.ytimg.com/vi/h8K49dD52WA/maxresdefault.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/internet.xml</externallink>
+</item> 
+ 
+<item>
+<title>Grandes Migraciones</title>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71G2sW3ggaL._SL1093_.jpg</thumbnail><fanart>https://armanfive.files.wordpress.com/2010/12/great-hd4.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/grandesmigraciones.xml</externallink>
+</item>
+ 
+<item>
+<title>Acceso 360 a Patrimonios de la Humanidad</title>
+<thumbnail>http://seriesblanco.com/files/uploads/2922.jpg</thumbnail><fanart>https://i.imgur.com/STZ8aXL.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/acceso360.xml</externallink>
+</item>
+
+<item>
+<title>Evidencia Perdida- Grandes Batallas de la WWII</title>
+<thumbnail>https://images-eu.ssl-images-amazon.com/images/I/413RjDdPDxL._AC_UL320_SR232,320_.jpg</thumbnail><fanart>https://i.ytimg.com/vi/C1yUm3-YcWs/maxresdefault.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/evidenciaperdida.xml</externallink>
+</item>
+ 
+<item>
+<title>[NatGeo] La Historia de Dios</title>
+<thumbnail>http://cdn.foxplay.com/sites/foxplay-la/files/img/440x660/660x440-documentales-story_god_b.jpg</thumbnail><fanart>https://i.ytimg.com/vi/vlYV1Ssp1qc/maxresdefault.jpg</fanart>
+<info>Nat Geo Mundo y Revelation Entertainment, presentan la serie de 6 episodios, La Historia de Dios, producida por Morgan Freeman, Lori McCreary y James Younger. Esta serie llevará a su audiencia en un viaje alrededor del mundo para explorar distintas culturas y religiones y descubrir el sentido significado de la vida, de Dios y de todas las grandes preguntas que esto conlleva.</info>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/hddios.xml</externallink>
+</item> 
+ 
+<item>
+<title>Mahoma, El Legado de un Profeta</title>
+<thumbnail>http://danizia.tk/wp-content/uploads/2016/04/Mahoma.jpg</thumbnail><fanart>https://i.ytimg.com/vi/rHeu4PFcIYk/maxresdefault.jpg</fanart>
+<info>Viajamos tras los pasos del profeta hasta el desierto de Arabia y la ciudad santa de La Meca, donde se desarrolló la mayor parte de la historia de Mahoma. </info>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/mahoma.xml</externallink>
+</item>
+
+<item>
+<title>[History] Nazis, Historias Ocultas</title>
+<thumbnail>http://www.detodoexpres.com/fotos/nazis-historias-ocultas-11803-1.jpg</thumbnail><fanart>https://i.ytimg.com/vi/4MZoqYlg_-w/maxresdefault.jpg</fanart>
+<info>¿Conocemos realmente toda la verdad sobre lo que sucedió durante la II Guerra Mundial? Nazis, historias ocultas nos cuenta los secretos más oscuros del nazismo en 5 capítulos distribuidos en 3 DVD s.</info>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/nazisho.xml</externallink>
+</item>
+ 
+<item>
+<title>[Discovery] Los Secretos del Planeta</title>
+<thumbnail>http://s32.postimg.org/6qy2p8xp1/carat.jpg</thumbnail><fanart>http://3.bp.blogspot.com/-VcJtpcWaqmo/T3sRBk50a3I/AAAAAAAAAuo/EZKXdpUHvzw/s1600/Menwith-hill-radomes.jpg</fanart>
+<info> La serie "Los Secretos del Planeta" explora La Tierra con el mismo asombro y entusiasmo que normalente se ve sólo en documentales dedicados a otros planetas. Nos muestra el planeta como nunca se había visto, tomando ventaja de las investigaciones que la NASA está llevando a cabo. Cada vez más satélites artificiales se usan para el estudio de nuestro planeta, tomando nuevas imágenes de la corteza, los océanos, la atmósfera y revelando los asombrosos procesos que lo mantienen vivo y con ello a la humanidad.  (traducido de Discovery)</info>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/lossecretosdelplaneta.xml</externallink>
+</item>
+
+
+    Line 536: <item><title>Dragones o Dinosaurios - ¿Creación o Evolución (20 10) [Documental]</title><link>https://goo.gl/6vbq3y</link><thumbnail>http://1.bp.blogspot.com/_ng1wK8u0fq8/TDi7TMs-KOI/AAAAAAAABoQ/uqulIkZJXYs/s400/lxlx4.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 687: <item><title>El Libro Secreto Del Presidente (2011) [Documental ]</title><link>https://goo.gl/SKPSeB</link><thumbnail>http://2.bp.blogspot.com/-wdICa81vIo0/Tz1P_zwziZI/AAAAAAAAJks/zvzdTuVESbk/s1600/The+President%E2%80%99s+Book+of+Secrets+.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 707: <item><title>El Misterio De Los Flamencos (Documental)</title><link>https://goo.gl/sDGXcb</link><thumbnail>http://2.bp.blogspot.com/_V8Co5aCHnDk/TKPSG--1UFI/AAAAAAAABuE/sJ75kqCZq1s/s1600/el-misterio-de-los-flamencos-los-flamencos.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 751: <item><title>El Reino De Los Monos (2015) Dvdrip Latino [Docume ntal]</title><link>https://goo.gl/qQrMI0</link><thumbnail>http://www.megawarez.org/wp-content/uploads/2015/09/El-Reino-de-los-Monos-poster-cartel-cover-2015-e1441198297370.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 802: <item><title>En Busca de la Verdad Los Annunaki Nunca se Fueron  (2013) (Documental)</title><link>https://goo.gl/nkXwKa</link><thumbnail>https://periodismoalternativoblog.files.wordpress.com/2013/11/foto0124.gif?w=593&h=324</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 811: <item><title>En el vientre materno (2005) (Documental)</title><link>https://goo.gl/MH09M6</link><thumbnail>http://static1.embarazo10.com/wp-content/uploads/Feto._Foto_El_Mundo_thumb.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 844: <item><title>Esperando a Superman (2010) [Documental]</title><link>https://goo.gl/3Z1UX8</link><thumbnail>http://fotos.fotoflexer.com/d5339ddfd52ae45d8d44bb2b18b00033.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 878: <item><title>Felinos de África (2011) [Documental]</title><link>https://goo.gl/udeJck</link><thumbnail>http://gnula.nu/wp-content/uploads/2015/03/African_Cats_poster_usa.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 907: <item><title>Galapagos The Enchanted Voyage (1999) (Documental)</title><link>https://goo.gl/zfg7x3</link><thumbnail>http://ist1-4.filesor.com/pimpandhost.com/6/8/3/6/68364/1/5/r/G/15rGR/IMAX%20Galapagos.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 935: <item><title>Grandes Estafas (2011) [Documental]</title><link>https://goo.gl/DbMZEg</link><thumbnail>http://1.bp.blogspot.com/-B9GCL_C1clc/UcfnZOvmKVI/AAAAAAAABD8/Yktnb7kzrBE/s1600/grandes-estafas.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 986: <item><title>Historia de la Marihuana (2010) (Documental)</title><link>https://goo.gl/2nZ9hl</link><thumbnail>http://3.bp.blogspot.com/-LuENRquU_gI/T9fqE_a19hI/AAAAAAAAAlU/VC1b2b6_Of8/s1600/The-Union-The-Business-Behind-Getting-High.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	Line 1013: <item><title>IMAX Hubble 3D (2010) (Documental)</title><link>https://goo.gl/dxNL6r</link><thumbnail>http://3.bp.blogspot.com/-k5VvsXNUvI8/Uhb9MoKwp9I/AAAAAAAABPc/teQ7vrsEm3w/s1600/hubble.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+ 
+  
+  
+  <item>
+    <title>APOCALIPSIS LA SEGUNDA GUERRA MUNDIAL</title>
+    <info></info>
+	<thumbnail>https://lh4.googleusercontent.com/-bQqXnurYUrg/USk9zUAXc-I/AAAAAAAAOCI/eqmcJPh6GFU/s0/Apocalypse-La-2eme-Guerre-Mondiale-Apocalypse-The-Second-World-War-Apocalipsis-La-Segunda-Guerra-Mundial.jpg</thumbnail>
+    <fanart>http://www.serielizados.com/wp-content/uploads/Apocalipsis-segunda-guerra-mundial-series-tv.jpg</fanart>
+	<link>http://nofunciona</link>
+	<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Series/DocumentalApocalipsisLaSegundaGuerraMundial.xml</externallink>
+	</item>
+	
+ <item> 
+<title>Nephilims Gigantes en la tierra</title>
+<link>plugin://plugin.video.youtube/play/?video_id=4uj8lYuAU6I</link>
+</item>
+
+  <item>
+<title>Supervivencia al Desnudo</title>
+<thumbnail>http://1.bp.blogspot.com/-ki9Kr7cGYC8/U2aR9LDdFEI/AAAAAAABubg/d2vn0SqmBOo/s1600/Supervivencia+al+desnudo.jpg</thumbnail><fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1407426771/SupervivenciaAlDesnudoDCL_32105_ep102_029_1440x900.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Supervivencia%20al%20Desnudo.xml</externallink>
+</item>
+   
+   <item>
+ <title>Chernobyl La Tragedia</title>
+ <link>$doregex[makelist]</link>
+ <regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>NA</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL0wsEJZuJDUgLhvFq39QyAE-hjCaOKIRt</page>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://carlosduclosb.files.wordpress.com/2011/04/chernobyl-2.jpg</thumbnail>
+<fanart>http://dineroclub.net/wp-content/uploads/2015/08/chernobyl.jpg</fanart>
+ </item> 
+
+
+<item>
+<title>El Misterio de as Islas Perdidas</title>
+<thumbnail>http://i.imgur.com/8C2sn4H.jpg</thumbnail>
+<fanart>https://tv.vodafone.es/wp-content/uploads/2014/04/32258_rangiroa_006.jpg</fanart>
+<info>‘El misterio de las islas perdidas’ es una serie de seis episodios centrados en la figura del carismático zoólogo Dave Salmoni que nos propone viajar a algunas de las islas más mortales y más hermosas jamás vistas. En cada episodio veremos a Salmoni poner a prueba sus habilidades con algunos de los depredadores más feroces del planeta. Visitaremos algunas de las islas más remotas del mundo para investigar cómo sus habitantes nativos han sobrevivido a pesar de las condiciones más duras inimaginables.</info>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/El%20Misterio%20de%20las%20Islas%20Perdidas.xml</externallink>
+</item>
+
+   <item>
+ <title>Los orígenes de la humanidad</title>
+ <link>$doregex[makelist]</link>
+ <regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+     <title>[makelist.param2]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>NA</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL5OQyNOtAgLMALNKrVWxKncf-_3EDcNAg</page>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>http://i39.tinypic.com/16jrp6a.jpg</thumbnail>
+<fanart>http://www.altadefinicionhd.com/images/stories/Titulosanalizados/L/origenes-humanidad/origenes-humanidad-1.png</fanart>
+ </item> 
+ 
+<item><title>Acceso Secreto Ovnis (2011)</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Acceso+Secreto.+Ovnis(2011)+-+Secret+access.+Ufos+on+the+record,198846016.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Acceso+Secreto.+Ovnis(2011)+-+Secret+access.+Ufos+on+the+record,198846016.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://2.bp.blogspot.com/-m209NDtIh8k/UKqRyZGbVvI/AAAAAAAAGfY/BPD_g22NbZM/s400/Acceso+secreto,+OVNIs.jpg</thumbnail><fanart></fanart><info></info></item> 
+<item><title>Revelaciones Extraterrestres</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Revelaciones.Extrasterrestres._720p,181440767.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Revelaciones.Extrasterrestres._720p,181440767.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg</thumbnail><fanart></fanart><info></info></item>
+<item><title>¿quién Descubrió América (2011) [Documental]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Peliculas+Latino/*c2*bfqui*c3*a9n+Descubri*c3*b3+Am*c3*a9rica+(2011)+*5bDocumental*5d,185736484.avi(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Peliculas+Latino/*c2*bfqui*c3*a9n+Descubri*c3*b3+Am*c3*a9rica+(2011)+*5bDocumental*5d,185736484.avi(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg</thumbnail><fanart></fanart><info></info></item>
+<item><title>El Submarino de los Nazis</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/El+submarino+de+los+Nazis+By+JgN,176130508.avi(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/El+submarino+de+los+Nazis+By+JgN,176130508.avi(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441864</thumbnail><fanart></fanart><info></info></item>
+<item><title>Tierra de Carteles</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Tierra+de+carteles,176130309.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Tierra+de+carteles,176130309.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail><fanart></fanart><info></info></item>
+<item><title>Viaje al Corazon de la Tierra</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Viaje+al+coraz*c3*b3n+de+la+Tierra+(720p),176129708.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Viaje+al+coraz*c3*b3n+de+la+Tierra+(720p),176129708.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441866</thumbnail><fanart></fanart><info></info></item>
+<item><title>El Hospital del Cielo</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/El.Hospital.Del.Cielo.720p,176129451.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/El.Hospital.Del.Cielo.720p,176129451.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441867</thumbnail><fanart></fanart><info></info></item>
+<item><title>El cometa del Siglo </title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/el+cometa+del+siglo+720p,176128811.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/el+cometa+del+siglo+720p,176128811.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441868</thumbnail><fanart></fanart><info></info></item>
+<item><title>Michael Jackson Private Home Subt</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Michael+Jackson+Private+Home+Movies+Subtitulado+*5bHD*5d+-+YouTube+(480p),176128732.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Michael+Jackson+Private+Home+Movies+Subtitulado+*5bHD*5d+-+YouTube+(480p),176128732.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441869</thumbnail><fanart></fanart><info></info></item>
+<item><title>Contacto Extraterrestre</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Contacto+extraterrestre(2013).HDTV,176086870.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Contacto+extraterrestre(2013).HDTV,176086870.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441870</thumbnail><fanart></fanart><info></info></item>
+<item><title>Desntro de la Guerra de los Narcos</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Dentro.De.Guerras.De.Narcos.720p,176086096.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Dentro.De.Guerras.De.Narcos.720p,176086096.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441871</thumbnail><fanart></fanart><info></info></item>
+<item><title>Area 51</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/area+51+L+A.S+De.La.C1.720p,176085661.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/area+51+L+A.S+De.La.C1.720p,176085661.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441872</thumbnail><fanart></fanart><info></info></item>
+<item><title>Catastrodes de la Tierra Naturaleza Salvaje</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Catastrofes+de+la+Tierra_+Naturaleza+salvaje+720p,176085244.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Catastrofes+de+la+Tierra_+Naturaleza+salvaje+720p,176085244.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441873</thumbnail><fanart></fanart><info></info></item>
+<item><title>Paranormal- Luces Misteriosas</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Paranormal+-+Luces+misteriosas+*5bDocumental*5d*3b*5b720p,175175863.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Paranormal+-+Luces+misteriosas+*5bDocumental*5d*3b*5b720p,175175863.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441874</thumbnail><fanart></fanart><info></info></item>
+
+<item><title>Ronaldo</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://lolabits.es/action/License/Download</page><referer>http://lolabits.es</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Documentales+Biograficos/Ronaldo+CR7+Documental,54033966.mkv(video)</page><referer>http://lolabits.es/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Documentales+Biograficos/Ronaldo+CR7+Documental,54033966.mkv(video)</page><referer>http://lolabits.es/</referer></regex><thumbnail>http://pics.filmaffinity.com/Ronaldo-489348159-large.jpg</thumbnail><fanart>https://i.ytimg.com/vi/Q1_Bb27wbFE/maxresdefault.jpg</fanart><info>Documental sobre el futbolista Cristiano Ronaldo.</info></item>
+<item><title>Machupichu La Joya del Emperador E01</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://lolabits.es/action/License/Download</page><referer>http://lolabits.es</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Machupichu/Machu+Picchu+*5bLa+Joya+del+Emperador*5d+Episodio+1,55474126.mkv(video)</page><referer>http://lolabits.es/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Machupichu/Machu+Picchu+*5bLa+Joya+del+Emperador*5d+Episodio+1,55474126.mkv(video)</page><referer>http://lolabits.es/</referer></regex><thumbnail>http://projectv.pw/var/albums/machupichu.png?m=1448217037</thumbnail><fanart>https://i.ytimg.com/vi/xGTQmhhuqZw/maxresdefault.jpg</fanart><info></info></item>
+<item><title>Machupichu La Joya del Emperador E02</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://lolabits.es/action/License/Download</page><referer>http://lolabits.es</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Machupichu/Machu+Picchu+*5bla+Joya+Del+Emperador*5d+Episodio+2+Final-1,55475135.mkv(video)</page><referer>http://lolabits.es/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Machupichu/Machu+Picchu+*5bla+Joya+Del+Emperador*5d+Episodio+2+Final-1,55475135.mkv(video)</page><referer>http://lolabits.es/</referer></regex><thumbnail>http://projectv.pw/var/albums/machupichu.png?m=1448217038</thumbnail><fanart>https://i.ytimg.com/vi/xGTQmhhuqZw/maxresdefault.jpg</fanart><info></info></item>
+<item><title>Aviones Fantasma y el Misterio del Vuelo 370</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Aviones+fantasma+y+el+misterio+del+vuelo+370,176091137.avi(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Aviones+fantasma+y+el+misterio+del+vuelo+370,176091137.avi(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://mx.tuhistory.com/files/aviones-fantasmas-misterio-vuelo-370-600x310.jpg</thumbnail><fanart>https://avioneandodotcom.files.wordpress.com/2015/03/unnamed.jpg</fanart><info></info></item>
+
+
+<item>
+<title>Sociedades Secretas</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLtw0MN-B96c7_IBfqiLhLgkCR_OPIOOeE</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>Los Soldados de Hitler</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmQ8A_lK0Lz8SQ8XqH_Bc7GWg8ZyewOxT</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>Misterios sin Resolver</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmQ8A_lK0Lz-Tvpp5fKHClRvbJpf3jYLC</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>La Guerra Santa</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmQ8A_lK0Lz9AuGIIUK1iXdtQ8DYeTAXC</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>Mitos y Leyendas HD</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmQ8A_lK0Lz_lF9obF2xOaf62kGUFb9-1</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>Planeta Encantado J.J. Benitez Serie Completa</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL0wsEJZuJDUgxpfjE7AfCcjOh2BEuMloh</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title> Documentales de Brujeria</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL0wsEJZuJDUgXhOZdwd6qhemDOeeJbRGT</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>OSAMA VIN LADEN Y 11SS</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL0wsEJZuJDUiKWdShS9gzT6EWP13djO71</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>Encuentros Alienigenas</title>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Encuentros%20Alienigenas.xml</externallink>
+</item>
+
+<item>
+<title>Hangar 1</title>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Hangar.xml</externallink>
+</item>
+
+
+<item>
+ <title>[B][COLOR orangered]BEARS[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPMXRvbHF5Yzlid00</link>
+           <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e5/Bears_2014_film.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+
+
+		   <item>
+         <title>[B][COLOR orangered]AFRICAN CATS[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPcWpSbk4yOFFfS0U</link>
+           <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTYxOTQ3MjM5OV5BMl5BanBnXkFtZTcwMDYzMjAyNA@@._V1_SX640_SY720_.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   		   
+		   <item>
+         <title>[B][COLOR orangered]BORN TO BE WILD[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPZ2ZTQVV2cU04aFE</link>
+           <thumbnail>https://upload.wikimedia.org/wikipedia/en/4/46/Born_to_be_wild.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   		   
+           <item>
+         <title>[B][COLOR orangered]CHIMPANZEE[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPWE9YSGxSRHhxcGM</link>
+           <thumbnail>https://upload.wikimedia.org/wikipedia/en/a/a7/Chimpanzee_2012_film.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   		   
+		   <item>
+         <title>[B][COLOR orangered]MONKEY KINGDOM[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPVFBPSldoVmxXYXc</link>
+           <thumbnail>http://ia.media-imdb.com/images/M/MV5BMzIxNDc1MDg0MF5BMl5BanBnXkFtZTgwNTI3ODE4MzE@._V1_SX640_SY720_.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   		   
+		   <item>
+         <title>[B][COLOR orangered]ISLAND OF LEMURS MADAGASCAR[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPTm9qaXMyWmx4RWM</link>
+           <thumbnail>http://cdn-2.cinemaparadiso.co.uk/1410041000322_l.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]WINGS OF LIFE[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPaW9jVS02RWlPeXc</link>
+           <thumbnail>http://ecx.images-amazon.com/images/I/81-UW0c1g2L._SL1500_.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   		   
+		   <item>
+         <title>[B][COLOR orangered]MUMMIES[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPVmMwblpVMWMxLXM</link>
+           <thumbnail>http://www.samenblog.com/uploads/a/antifbi/86549.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   		   	   		  
+		   <item>
+         <title>[B][COLOR orangered]OCEANS[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPeXN4VkZsZU02bzQ</link>
+           <thumbnail>http://ecx.images-amazon.com/images/I/51H68ZrV5yL.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]EARTH[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPaVZXR25xQzhadTA</link>
+           <thumbnail>https://www.pmap.co/c/52d06c51/images/stories/earth.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]DINOSAURS ALIVE[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPcmY5Tjh2V0o4QWs</link>
+           <thumbnail>http://ecx.images-amazon.com/images/I/61XYTNIIgqL.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]SELENA (1997)[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0BwgRDkW_Kp9_czV4by1SaGhTTm8</link>
+           <thumbnail>https://ak-hdl.buzzfed.com/static/2014-11/19/15/enhanced/webdr02/enhanced-17300-1416429987-12.jpg</thumbnail>
+		   <fanart>http://remezcla.com/wp-content/uploads/2014/06/Selena.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]NARCO CULTURA[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPbDdhenY5Q2lTNHM</link>
+           <thumbnail>http://ecx.images-amazon.com/images/I/91YRgPXjFhL._SL1500_.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]CARTEL LAND[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPTnU1LXZId1NkLTQ</link>
+           <thumbnail>http://www.ew.com/sites/default/files/1433167816/CartelLand_Poster_Small.jpeg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]HOME[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPa1F1WFlEeWRTa28</link>
+           <thumbnail>http://www.yannarthusbertrand.org/img/2012/02/cover-video-home_l.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]LA RELIQUIA PERDIDA DE CRISTO[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPSUUyeHg5RC00TTg</link>
+           <thumbnail>http://4.bp.blogspot.com/-d42KLEOq93M/TdWmdnoMr0I/AAAAAAAAAUc/cQpZ9nXr_NQ/s1600/La+Santa+Comuni%25C3%25B3n.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]LA ISLA DEL VENENO[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPdW5JeTlRMklyV3c</link>
+           <thumbnail>http://www.fullpelis.co/wp-content/uploads/2016/02/29-1-80x121.jpg</thumbnail>
+		   <fanart>http://listsalad.com/wp-content/uploads/2013/03/ListPro2.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]PLANETA OCEANO[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0B7n-_6oghGCPbVQ3TGxyV0VteFE</link>
+           <thumbnail>http://www.yannarthusbertrand.org/img/photos/planetocean-expo_l.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]GUADALQUIVIR[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0BwgRDkW_Kp9_VjZfOXh1WkhXYmc</link>
+           <thumbnail>http://www.educacionenmalaga.es/public/2013/11/guadalquivir_2633.jpg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+		   
+		   <item>
+         <title>[B][COLOR orangered]SHARKWATER[/COLOR][/B]</title>        
+           <link>https://googledrive.com/host/0BwgRDkW_Kp9_QVJCeDhyVjdpWms</link>
+           <thumbnail>http://img.scoop.co.nz/stories/images/0902/0c5ffc7c6e28f7bb3002.jpeg</thumbnail>
+		   <fanart>http://topnature.xyz/wp-content/uploads/2015/12/sunsets-awesome-sunset-clouds-lake-sky-nature-boats-landscape-boat-high-quality-wallpaper-1920x1080.jpg</fanart>
+           </item>
+	
+ejemplo master 1 
+<link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/Tale.of.Tales.2015.1080p.mp4</link>
+ejemplo para master 2
+<link>https://googledrive.com/host/0B8pGotkHA5SIfjZCLTBJYVVRbklzU2xkSTYwYThrQlhRZF9Sby1qYzI5ME5WVFhPVXBIQ3c/1a.mp4</link>
+
+-->
+
+
+    <item>
+	<title>[B][COLOR orangered]Supervivencia al Desnudo[/COLOR][/B]</title>
+	<link>https://none</link>
+	<thumbnail>http://images1.wikia.nocookie.net/__cb20130629232309/doblaje/es/images/b/bf/Giga.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<externallink>https://dl.dropbox.com/s/i9a8ooi6umiy6v9/supervivenciamain.xml</externallink>
+	<genre>Documental</genre>
+	<info></info>
+	</item>
+
+
+    <item><!--wilson-->
+	<title>[B][COLOR orangered]GIGANTES DE LA INDUSTRIA - Estrategia Electoral[/COLOR][/B]</title>
+	<link>https://goo.gl/SsMjjz</link>
+	<thumbnail>http://images1.wikia.nocookie.net/__cb20130629232309/doblaje/es/images/b/bf/Giga.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<genre>Documental</genre>
+	<info>La serie en formato de documental narra la historia de personajes como Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J.P. Morgan y Henry Ford; quienes durante la segunda mitad del siglo XIX y la primera mitad del siglo XX participaron activamente en la transformación de los Estados Unidos modernos. Varios de ellos forman parte todavía en la actualidad del grupo de las personas con las mayores fortunas privadas de toda la historia.
+De acuerdo con los productores de la serie, estos hombres crearon lo que hoy se conoce como el sueño americano, bajo las reglas del capitalismo donde industrias basadas en la navegación, ferrocarriles, petróleo, acero, energía eléctrica, automóviles y finanzas convirtieron a sus protagonistas en dueños de imperios que a lo largo de su historia cruzaron múltiples veces sus caminos y llegando a tener un poder que les permitió elegir presidentes, definir políticas económicas e influir en la mayoría de los eventos que forjaron lo que hoy es Estados Unidos durante cerca de 50 años, desde la guerra civil a la Gran Depresión y la Primera Guerra Mundial.</info>
+    </item>
+	
+	<title>[B][COLOR orangered]GIGANTES DE LA INDUSTRIA - El Dueño de Todo[/COLOR][/B]</title>
+	<link>https://goo.gl/udnboi</link>
+	<thumbnail>http://images1.wikia.nocookie.net/__cb20130629232309/doblaje/es/images/b/bf/Giga.jpg</thumbnail>
+        <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<genre>Documental</genre>
+	<info>La serie en formato de documental narra la historia de personajes como Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J.P. Morgan y Henry Ford; quienes durante la segunda mitad del siglo XIX y la primera mitad del siglo XX participaron activamente en la transformación de los Estados Unidos modernos. Varios de ellos forman parte todavía en la actualidad del grupo de las personas con las mayores fortunas privadas de toda la historia.De acuerdo con los productores de la serie, estos hombres crearon lo que hoy se conoce como el sueño americano, bajo las reglas del capitalismo donde industrias basadas en la navegación, ferrocarriles, petróleo, acero, energía eléctrica, automóviles y finanzas convirtieron a sus protagonistas en dueños de imperios que a lo largo de su historia cruzaron múltiples veces sus caminos y llegando a tener un poder que les permitió elegir presidentes, definir políticas económicas e influir en la mayoría de los eventos que forjaron lo que hoy es Estados Unidos durante cerca de 50 años, desde la guerra civil a la Gran Depresión y la Primera Guerra Mundial.</info>
+</item>
+    <item><!--wilson-->
+	<title>[B][COLOR orangered]GIGANTES DE LA INDUSTRIA - El Dueño de Todo[/COLOR][/B]</title>
+	<link>https://goo.gl/kcsEy5</link>
+	<thumbnail>http://images1.wikia.nocookie.net/__cb20130629232309/doblaje/es/images/b/bf/Giga.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<genre>Documental</genre>
+	<info>La serie en formato de documental narra la historia de personajes como Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J.P. Morgan y Henry Ford; quienes durante la segunda mitad del siglo XIX y la primera mitad del siglo XX participaron activamente en la transformación de los Estados Unidos modernos. Varios de ellos forman parte todavía en la actualidad del grupo de las personas con las mayores fortunas privadas de toda la historia.
+De acuerdo con los productores de la serie, estos hombres crearon lo que hoy se conoce como el sueño americano, bajo las reglas del capitalismo donde industrias basadas en la navegación, ferrocarriles, petróleo, acero, energía eléctrica, automóviles y finanzas convirtieron a sus protagonistas en dueños de imperios que a lo largo de su historia cruzaron múltiples veces sus caminos y llegando a tener un poder que les permitió elegir presidentes, definir políticas económicas e influir en la mayoría de los eventos que forjaron lo que hoy es Estados Unidos durante cerca de 50 años, desde la guerra civil a la Gran Depresión y la Primera Guerra Mundial.</info>
+    </item>
+
+	
+    <item><!--wilson-->
+	<title>[B][COLOR orangered]GIGANTES DE LA INDUSTRIA - Un Nuevo Contenedor[/COLOR][/B]</title>
+	<link>https://goo.gl/dcVxkY</link>
+	<thumbnail>http://images1.wikia.nocookie.net/__cb20130629232309/doblaje/es/images/b/bf/Giga.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<genre>Documental</genre>
+	<info>La serie en formato de documental narra la historia de personajes como Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J.P. Morgan y Henry Ford; quienes durante la segunda mitad del siglo XIX y la primera mitad del siglo XX participaron activamente en la transformación de los Estados Unidos modernos. Varios de ellos forman parte todavía en la actualidad del grupo de las personas con las mayores fortunas privadas de toda la historia.
+De acuerdo con los productores de la serie, estos hombres crearon lo que hoy se conoce como el sueño americano, bajo las reglas del capitalismo donde industrias basadas en la navegación, ferrocarriles, petróleo, acero, energía eléctrica, automóviles y finanzas convirtieron a sus protagonistas en dueños de imperios que a lo largo de su historia cruzaron múltiples veces sus caminos y llegando a tener un poder que les permitió elegir presidentes, definir políticas económicas e influir en la mayoría de los eventos que forjaron lo que hoy es Estados Unidos durante cerca de 50 años, desde la guerra civil a la Gran Depresión y la Primera Guerra Mundial.</info>
+    </item>
+
+    <item><!--wilson-->
+	<title>[B][COLOR orangered]GIGANTES DE LA INDUSTRIA - Muerte[/COLOR][/B]</title>
+	<link>https://goo.gl/iH5JWK</link>
+	<thumbnail>http://images1.wikia.nocookie.net/__cb20130629232309/doblaje/es/images/b/bf/Giga.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<genre>Documental</genre>
+	<info>La serie en formato de documental narra la historia de personajes como Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J.P. Morgan y Henry Ford; quienes durante la segunda mitad del siglo XIX y la primera mitad del siglo XX participaron activamente en la transformación de los Estados Unidos modernos. Varios de ellos forman parte todavía en la actualidad del grupo de las personas con las mayores fortunas privadas de toda la historia.
+De acuerdo con los productores de la serie, estos hombres crearon lo que hoy se conoce como el sueño americano, bajo las reglas del capitalismo donde industrias basadas en la navegación, ferrocarriles, petróleo, acero, energía eléctrica, automóviles y finanzas convirtieron a sus protagonistas en dueños de imperios que a lo largo de su historia cruzaron múltiples veces sus caminos y llegando a tener un poder que les permitió elegir presidentes, definir políticas económicas e influir en la mayoría de los eventos que forjaron lo que hoy es Estados Unidos durante cerca de 50 años, desde la guerra civil a la Gran Depresión y la Primera Guerra Mundial.</info>
+    </item>
+
+    <item><!--wilson-->
+	<title>[B][COLOR orangered]GIGANTES DE LA INDUSTRIA - Rivales[/COLOR][/B]</title>
+	<link>https://goo.gl/JYflS4</link>
+	<thumbnail>http://images1.wikia.nocookie.net/__cb20130629232309/doblaje/es/images/b/bf/Giga.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<genre>Documental</genre>
+	<info>La serie en formato de documental narra la historia de personajes como Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J.P. Morgan y Henry Ford; quienes durante la segunda mitad del siglo XIX y la primera mitad del siglo XX participaron activamente en la transformación de los Estados Unidos modernos. Varios de ellos forman parte todavía en la actualidad del grupo de las personas con las mayores fortunas privadas de toda la historia.
+De acuerdo con los productores de la serie, estos hombres crearon lo que hoy se conoce como el sueño americano, bajo las reglas del capitalismo donde industrias basadas en la navegación, ferrocarriles, petróleo, acero, energía eléctrica, automóviles y finanzas convirtieron a sus protagonistas en dueños de imperios que a lo largo de su historia cruzaron múltiples veces sus caminos y llegando a tener un poder que les permitió elegir presidentes, definir políticas económicas e influir en la mayoría de los eventos que forjaron lo que hoy es Estados Unidos durante cerca de 50 años, desde la guerra civil a la Gran Depresión y la Primera Guerra Mundial.</info>
+    </item>
+	
+    <item><!--wilson-->
+	<title>[B][COLOR orangered]GIGANTES DE LA INDUSTRIA - El AutoMovil[/COLOR][/B]</title>
+	<link>https://goo.gl/IcNFRH</link>
+	<thumbnail>http://www.mediafire.com/convkey/6045/mmt3q2bgo3m2ppp6g.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<genre>Documental</genre>
+	<info>La serie en formato de documental narra la historia de personajes como Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J.P. Morgan y Henry Ford; quienes durante la segunda mitad del siglo XIX y la primera mitad del siglo XX participaron activamente en la transformación de los Estados Unidos modernos. Varios de ellos forman parte todavía en la actualidad del grupo de las personas con las mayores fortunas privadas de toda la historia.
+De acuerdo con los productores de la serie, estos hombres crearon lo que hoy se conoce como el sueño americano, bajo las reglas del capitalismo donde industrias basadas en la navegación, ferrocarriles, petróleo, acero, energía eléctrica, automóviles y finanzas convirtieron a sus protagonistas en dueños de imperios que a lo largo de su historia cruzaron múltiples veces sus caminos y llegando a tener un poder que les permitió elegir presidentes, definir políticas económicas e influir en la mayoría de los eventos que forjaron lo que hoy es Estados Unidos durante cerca de 50 años, desde la guerra civil a la Gran Depresión y la Primera Guerra Mundial.</info>
+    </item>
+
+    <item><!--wilson-->
+	<title>[B][COLOR orangered]GIGANTES DE LA INDUSTRIA - Huelga de Combustible[/COLOR][/B]</title>
+	<link>https://goo.gl/yyBQUD</link>
+	<thumbnail>http://pics.filmaffinity.com/Gigantes_de_la_industria_Serie_de_TV-249340810-large.jpg</thumbnail>
+    <fanart>http://1.bp.blogspot.com/-7kevQ2BOiFk/UcbQgY9oVwI/AAAAAAAAA0g/XWXLNFqLxqY/s1600/gigantes-de-la-industria-poster-history-channel.png</fanart>
+	<genre>Documental</genre>
+	<info>La serie en formato de documental narra la historia de personajes como Cornelius Vanderbilt, John D. Rockefeller, Andrew Carnegie, J.P. Morgan y Henry Ford; quienes durante la segunda mitad del siglo XIX y la primera mitad del siglo XX participaron activamente en la transformación de los Estados Unidos modernos. Varios de ellos forman parte todavía en la actualidad del grupo de las personas con las mayores fortunas privadas de toda la historia.
+De acuerdo con los productores de la serie, estos hombres crearon lo que hoy se conoce como el sueño americano, bajo las reglas del capitalismo donde industrias basadas en la navegación, ferrocarriles, petróleo, acero, energía eléctrica, automóviles y finanzas convirtieron a sus protagonistas en dueños de imperios que a lo largo de su historia cruzaron múltiples veces sus caminos y llegando a tener un poder que les permitió elegir presidentes, definir políticas económicas e influir en la mayoría de los eventos que forjaron lo que hoy es Estados Unidos durante cerca de 50 años, desde la guerra civil a la Gran Depresión y la Primera Guerra Mundial.</info>
+    </item>
+
+<item>
+  <title>[B][B][COLOR orangered]UFC 193[/COLOR][/B]</title> 
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/v4o09eck6jd6bsh/UFC.193.Rousey.vs.Holm.PPV.WEBRip.x264-jkkk.mp4</link>  
+</item>
+
+<item>
+  <title>[B][B][COLOR orangered]Steve Jobs - The man in the machine 2015 [/COLOR][/B]</title> 
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/ptg8oodjpv7em1z/Steve.Jobs.The.Man.in.the.Machine.2015.DOCU.720p.mp4</link> 
+</item>
+
+ <item>
+  <title>[B][B][COLOR orangered]Ronaldo 2015 [/COLOR][/B]</title> 
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/rala1iviyqu77xt/Ronaldo.2015.DOCU.1080p.mp4</link> 
+</item>
+
+
+<item>
+  <title>[B][B][COLOR orangered]Quien es el chapo guzman[/COLOR][/B]</title> 
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/guzescutsjo97u2/Qui%C3%A9n%20es%20el%20Chapo%20Guzm%C3%A1n%20-%20Especial%20Nat%20Geo.mp4</link>
+</item>
+
+<item>
+  <title>[B][B][COLOR orangered]Las drogas de hitler[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/fg5hlheokbbrndu/Las%20Drogas%20de%20Hitler%20-%20National%20Geographic.mp4</link>
+</item>
+
+<item>
+  <title>[B][B][COLOR orangered]COLT VS WESSON[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/c5lw6fwigjqvlvd/Mentes%20Brillantes-%20Colt%20vs.%20Wesson%20-%20National%20Geographic.mp4</link>
+</item>
+
+
+<item>
+  <title>[B][B][COLOR orangered]Edison vs Tesla[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/nfs5vapzko1ja0p/Mentes%20Brillantes-%20Edison%20vs.%20Tesla%20-%20National%20Geographic.mp4</link>
+</item>
+
+<item>
+  <title>[B][B][COLOR orangered]Farnsworth vs Sarnof[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/ew6grtowwou2xu9/Mentes%20Brillantes-%20Farnsworth%20vs.%20Sarnoff%20-%20National%20Geographic.mp4</link>
+</item>
+
+
+<item>
+  <title>[B][B][COLOR orangered]Hearst vs Pulitzer[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/l5ezv8vui5cfx1k/Mentes%20Brillantes-%20Hearst%20vs.%20Pulitzer%20-%20National%20Geographic.mp4</link>
+</item>
+
+<item>
+  <title>[B][B][COLOR orangered]Hermanos right vs curtis[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/e187r0bycjtwjyj/Mentes%20Brillantes-%20Hermanos%20Wright%20vs.%20Curtis%20-%20National%20Geographic.mp4</link>
+</item>
+
+<item>
+  <title>[B][B][COLOR orangered]Steve Jobs vs Gates[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/esc3kx3piwf5lve/Mentes%20Brillantes-%20Jobs%20vs.%20Gates%20-%20National%20Geographic.mp4</link>
+</item>
+
+<item>
+  <title>[B][B][COLOR orangered]Oppenheimer vs Heisenberg[/COLOR][/B]</title>
+    <thumbnail></thumbnail>
+    <link>https://dl.dropbox.com/s/15bwgw2aamybi6l/Mentes%20Brillantes-%20Oppenheimer%20vs.%20Heisenberg%20-%20National%20Geographic.mp4</link>
+</item>
+      
+<item>
+<title>[B][COLOR orangered]History: La Verdadera Historia de la Navidad [/COLOR][/B]</title>  
+<thumbnail>http://i.ytimg.com/vi/E8E4gbGWqXg/hqdefault.jpg</thumbnail>
+<info> </info> 
+<link>https://dl.dropbox.com/s/xu706csl6uwh9ts/1laverdaderaistoriadelanavidad.flv</link> 
+</item> 
+      
+      
+  <item> 
+  <title>[B][B][COLOR orangered]Father of the lights[/COLOR][/B]</title>
+    <thumbnail>https://louerchezsoi.files.wordpress.com/2012/11/fatheroflights-dvd-2012.jpg</thumbnail>
+    <link>https://googledrive.com/host/0B8pGotkHA5SIfjZCLTBJYVVRbklzU2xkSTYwYThrQlhRZF9Sby1qYzI5ME5WVFhPVXBIQ3c/PeliculasSD/Father.of.Lights.mkv</link>
+    <info>Documental que trata de encontrar la verdadera naturaleza y caracter de Dios.</info> 
+</item>
+
+
+
+<item>    
+<title>[B][COLOR orangered]Fidel Castro NatGeo[/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<info></info> 
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>Url":"(.*?)"</expres>
+<page>http://lolabits.es/action/License/Download</page>
+<referer>http://lolabits.es</referer>
+<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>Id" value="(.*?)"</expres>
+<page>http://lolabits.es/kodiflixmaster/Documentales/fidelcastro.natgeo,48464133.mp4(video)</page> 
+<referer>http://lolabits.es/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>Token.*?value="(.*?)"</expres>
+<page>http://lolabits.es/kodiflixmaster/Documentales/fidelcastro.natgeo,48464133.mp4(video)</page> 
+<referer>http://lolabits.es/</referer>
+</regex>
+</item> 
+
+
+
+<item>    
+<title>[B][COLOR orangered]Traingulo de las Bermudas[/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<info></info> 
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>Url":"(.*?)"</expres>
+<page>http://lolabits.es/action/License/Download</page>
+<referer>http://lolabits.es</referer>
+<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>Id" value="(.*?)"</expres>
+<page>http://lolabits.es/kodiflixmaster/Documentales/Op.Traingulo.de.las.bermudas,48463934.mp4(video)</page> 
+<referer>http://lolabits.es/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>Token.*?value="(.*?)"</expres>
+<page>http://lolabits.es/kodiflixmaster/Documentales/Op.Traingulo.de.las.bermudas,48463934.mp4(video)</page> 
+<referer>http://lolabits.es/</referer>
+</regex>
+</item> 
+
+
+
+<item>    
+<title>[B][COLOR orangered]Operacion Titanic NatGeo[/COLOR][/B]</title>
+<thumbnail></thumbnail>
+<info></info> 
+<link>$doregex[url]</link>
+<regex>
+<name>url</name>
+<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+<page></page>
+</regex>
+<regex>
+<name>get-url</name>
+<expres>Url":"(.*?)"</expres>
+<page>http://lolabits.es/action/License/Download</page>
+<referer>http://lolabits.es</referer>
+<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+<cookiejar></cookiejar>
+</regex>
+<regex>
+<name>id</name>
+<expres>Id" value="(.*?)"</expres>
+<page>http://lolabits.es/kodiflixmaster/Documentales/Operacion.Titanic.NatGeo,48463475.mp4(video)</page> 
+<referer>http://lolabits.es/</referer>
+</regex>
+<regex>
+<name>tok</name>
+<expres>Token.*?value="(.*?)"</expres>
+<page>http://lolabits.es/kodiflixmaster/Documentales/Operacion.Titanic.NatGeo,48463475.mp4(video)</page> 
+<referer>http://lolabits.es/</referer>
+</regex>
+</item> 
+
+
+
+
+
+
+
+
+ 
+ 
+   <item> 
+<title>[B][B][COLOR orangered]Monkey Kingdom[/COLOR][/B]</title>  
+  <thumbnail>http://pics.filmaffinity.com/Monkey_Kingdom-765160149-large.jpg</thumbnail>
+<link>https://googledrive.com/host/0B8pGotkHA5SIfjZCLTBJYVVRbklzU2xkSTYwYThrQlhRZF9Sby1qYzI5ME5WVFhPVXBIQ3c/Documentales/Monkey.Kingdom.2015.1080p.mp4</link>
+<info>Sigue de cerca a una familia de monos que se ven obligados a dejar el que siempre ha sido su hogar en una jungla de Asia.</info>    
+</item> 
+ 
+  <item> 
+<title>[B][B][COLOR orangered]The True Cost[/COLOR][/B]</title>  
+  <thumbnail>http://pics.filmaffinity.com/The_True_Cost-323301146-large.jpg</thumbnail>
+<link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/The.True.Cost.2015.mkv</link>
+<info>Esta es una película sobre la ropa. Es sobre la ropa que vestimos, las personas que las hacen y el impacto que está teniendo en nuestro mundo. El precio de la ropa ha ido decreciendo por décadas, mientras que los costos humanos y ambientales, han crecido dramáticamente. The True Cost es un documental innovador que quita el velo de un aspecto desconocido de nuestro mundo y nos invita tener en cuenta a quiénespaga el precio por nuestra ropa.</info>    
+</item> 
+
+<item>
+<title>[B][B][COLOR orangered]Amazonas: la ruta indomable parte 2[/COLOR][/B]</title>
+  <thumbnail>http://www.prisaediciones.com/uploads/imagenes/libro/portada/201309/portada-amazoni_1_grande.jpg</thumbnail>
+   <link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/Amazonas2.mp4</link>
+    <info>Un increíble viaje a traves de un autentico paraíso. AMAZONAS, un extenso y majestuoso río sin cuya presencia la vida en la Tierra sería imposible. Un documental que nos llevara a recorrer el río mas largo y caudaloso del planeta, a traves de las diversas regiones del Perú y Brasil: AMAZONAS, Nueva Maravilla Natural del Mundo. Esta produccion redescubrira el impresionante trayecto de nuestra fuente de VIDA, ORGULLO Y CULTURA. </info>
+  </item> 
+   
+<item>
+<title>[B][B][COLOR orangered]Amazonas: la ruta indomable parte 1[/COLOR][/B]</title>
+  <thumbnail>http://www.prisaediciones.com/uploads/imagenes/libro/portada/201309/portada-amazoni_1_grande.jpg</thumbnail>
+   <link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/Amazonas1.mp4</link>
+    <info>Un increíble viaje a traves de un autentico paraíso. AMAZONAS, un extenso y majestuoso río sin cuya presencia la vida en la Tierra sería imposible. Un documental que nos llevara a recorrer el río mas largo y caudaloso del planeta, a traves de las diversas regiones del Perú y Brasil: AMAZONAS, Nueva Maravilla Natural del Mundo. Esta produccion redescubrira el impresionante trayecto de nuestra fuente de VIDA, ORGULLO Y CULTURA. </info>
+  </item>
+  
+<item>
+<title>[B][B][COLOR orangered]Madagascar: Isla de lemures[/COLOR][/B]</title>
+  <thumbnail>http://pics.filmaffinity.com/Madagascar_isla_de_l_mures-338666989-large.jpg</thumbnail>
+   <link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/Island.of.Lemurs.Madagascar.2014.720p.BDRip.LATiNO.ENG.x264.AC3.DTS.mkv</link>
+    <info>Una mirada a la vida de los lemures salvajes que habitan en Madagascar. </info>
+  </item>
+  
+  <item>
+<title>[B][B][COLOR orangered]Empire of the Sun[/COLOR][/B]</title>
+  <thumbnail>https://www.bibdsl.co.uk/imagegallery2/bds/201039/9780007386901.JPG</thumbnail>
+   <link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/1.Empire.of.the.Sun.mkv</link>
+    <info>Wonders of the Solar System es una premiada serie de televisión de 2010 co-producida por la BBC y Science Channel, y presentada por el físico Brian Cox.</info>
+  </item>
+  
+    <item>
+<title>[B][B][COLOR orangered]Order Out of Chaos[/COLOR][/B]</title>
+  <thumbnail>https://www.bibdsl.co.uk/imagegallery2/bds/201039/9780007386901.JPG</thumbnail>
+   <link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/2.Order.Out.of.Chaos.mkv</link>
+    <info>Wonders of the Solar System es una premiada serie de televisión de 2010 co-producida por la BBC y Science Channel, y presentada por el físico Brian Cox.</info>
+  </item>
+  
+      <item>
+<title>[B][B][COLOR orangered]The Thin Blue Line[/COLOR][/B]</title>
+  <thumbnail>https://www.bibdsl.co.uk/imagegallery2/bds/201039/9780007386901.JPG</thumbnail>
+   <link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/3.The.Thin.Blue.Line.mkv</link>
+    <info>Wonders of the Solar System es una premiada serie de televisión de 2010 co-producida por la BBC y Science Channel, y presentada por el físico Brian Cox.</info>
+  </item>
+  
+        <item>
+<title>[B][B][COLOR orangered]Dead or Alive[/COLOR][/B]</title>
+  <thumbnail>https://www.bibdsl.co.uk/imagegallery2/bds/201039/9780007386901.JPG</thumbnail>
+   <link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/4.Dead.or.Alive.mkv</link>
+    <info>Wonders of the Solar System es una premiada serie de televisión de 2010 co-producida por la BBC y Science Channel, y presentada por el físico Brian Cox.</info>
+  </item>
+  
+  
+<item>
+  <title>[B][B][COLOR orangered]Citizenfour[/COLOR][/B]</title>
+    <thumbnail>http://pics.filmaffinity.com/Citizenfour-824927245-large.jpg</thumbnail> 
+	<link>https://googledrive.com/host/0B2qF6sHyOnmNfjJWeFBPMVNRUUo1UXZNUGJsV2t5ZW5HUWktQlRQU1Y3NGJwejNnT2VWMjA/Peliculas/Citizenfour.2014.1080p.mp4</link>
+
+</item>
+  
+<item><title>[B][COLOR orangered]En Busca de la Verdad Los Annunaki Nunca se Fueron  (2013) (Documental)[/B][/COLOR]</title><link>https://goo.gl/nkXwKa</link><thumbnail>https://periodismoalternativoblog.files.wordpress.com/2013/11/foto0124.gif?w=593&h=324</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	 <item><title>[B][COLOR orangered]En el vientre materno (2005) (Documental)[/B][/COLOR]</title><link>https://goo.gl/MH09M6</link><thumbnail>http://static1.embarazo10.com/wp-content/uploads/Feto._Foto_El_Mundo_thumb.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	 <item><title>[B][COLOR orangered]Esperando a Superman (2010) [Documental][/B][/COLOR]</title><link>https://goo.gl/3Z1UX8</link><thumbnail>http://fotos.fotoflexer.com/d5339ddfd52ae45d8d44bb2b18b00033.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	<item><title>[B][COLOR orangered]Felinos de África (2011) [Documental][/B][/COLOR]</title><link>https://goo.gl/udeJck</link><thumbnail>http://gnula.nu/wp-content/uploads/2015/03/African_Cats_poster_usa.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	<item><title>[B][COLOR orangered]Galapagos The Enchanted Voyage (1999) (Documental)[/B][/COLOR]</title><link>https://goo.gl/zfg7x3</link><thumbnail>http://ist1-4.filesor.com/pimpandhost.com/6/8/3/6/68364/1/5/r/G/15rGR/IMAX%20Galapagos.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	<item><title>[B][COLOR orangered]Grandes Estafas (2011) [Documental][/B][/COLOR]</title><link>https://goo.gl/DbMZEg</link><thumbnail>http://1.bp.blogspot.com/-B9GCL_C1clc/UcfnZOvmKVI/AAAAAAAABD8/Yktnb7kzrBE/s1600/grandes-estafas.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	 <item><title>[B][COLOR orangered]Historia de la Marihuana (2010) (Documental)[/B][/COLOR]</title><link>https://goo.gl/2nZ9hl</link><thumbnail>http://3.bp.blogspot.com/-LuENRquU_gI/T9fqE_a19hI/AAAAAAAAAlU/VC1b2b6_Of8/s1600/The-Union-The-Business-Behind-Getting-High.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+	<item><title>[B][COLOR orangered]IMAX Hubble 3D (2010) (Documental)[/B][/COLOR]</title><link>https://goo.gl/dxNL6r</link><thumbnail>http://3.bp.blogspot.com/-k5VvsXNUvI8/Uhb9MoKwp9I/AAAAAAAABPc/teQ7vrsEm3w/s1600/hubble.jpg</thumbnail><fanart>http://projectv.pw/ProjecTV/Fanart%20y%20Logos/Addon/fondo-de-pantalla-fondo-azul-5.jpg</fanart></item>
+ 
+  
+  
+  <item>
+    <title>[B][COLOR orangered]APOCALIPSIS LA SEGUNDA GUERRA MUNDIAL[/B][/COLOR]</title>
+    <info></info>
+	<thumbnail>https://lh4.googleusercontent.com/-bQqXnurYUrg/USk9zUAXc-I/AAAAAAAAOCI/eqmcJPh6GFU/s0/Apocalypse-La-2eme-Guerre-Mondiale-Apocalypse-The-Second-World-War-Apocalipsis-La-Segunda-Guerra-Mundial.jpg</thumbnail>
+    <fanart>http://www.serielizados.com/wp-content/uploads/Apocalipsis-segunda-guerra-mundial-series-tv.jpg</fanart>
+	<link>http://nofunciona</link>
+	<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Series/DocumentalApocalipsisLaSegundaGuerraMundial.xml</externallink>
+	</item>
+	
+ <item> 
+<title>[B][COLOR orangered]Nephilims Gigantes en la tierra[/B][/COLOR]</title>
+<thumbnail>https://img.youtube.com/vi/mk3WGKOCXFw/mqdefault.jpg</thumbnail>
+<link>plugin://plugin.video.youtube/play/?video_id=4uj8lYuAU6I</link>
+</item>
+
+  <item>
+<title>[B][COLOR orangered]Supervivencia al Desnudo[/B][/COLOR]</title>
+<thumbnail>http://1.bp.blogspot.com/-ki9Kr7cGYC8/U2aR9LDdFEI/AAAAAAABubg/d2vn0SqmBOo/s1600/Supervivencia+al+desnudo.jpg</thumbnail><fanart>http://res.cloudinary.com/db79cecgq/image/upload/c_crop,h_811,w_1437,x_0,y_44/c_fill/v1407426771/SupervivenciaAlDesnudoDCL_32105_ep102_029_1440x900.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Supervivencia%20al%20Desnudo.xml</externallink>
+</item>
+   
+   <item>
+ <title>[B][COLOR orangered]Chernobyl La Tragedia[/B][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+     <title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>NA</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL0wsEJZuJDUgLhvFq39QyAE-hjCaOKIRt</page>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>https://carlosduclosb.files.wordpress.com/2011/04/chernobyl-2.jpg</thumbnail>
+<fanart>http://dineroclub.net/wp-content/uploads/2015/08/chernobyl.jpg</fanart>
+ </item> 
+
+
+<item>
+<title>[B][COLOR orangered]El Misterio de as Islas Perdidas[/B][/COLOR]</title>
+<thumbnail>http://i.imgur.com/8C2sn4H.jpg</thumbnail>
+<fanart>https://tv.vodafone.es/wp-content/uploads/2014/04/32258_rangiroa_006.jpg</fanart>
+<info>‘El misterio de las islas perdidas’ es una serie de seis episodios centrados en la figura del carismático zoólogo Dave Salmoni que nos propone viajar a algunas de las islas más mortales y más hermosas jamás vistas. En cada episodio veremos a Salmoni poner a prueba sus habilidades con algunos de los depredadores más feroces del planeta. Visitaremos algunas de las islas más remotas del mundo para investigar cómo sus habitantes nativos han sobrevivido a pesar de las condiciones más duras inimaginables.</info>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/El%20Misterio%20de%20las%20Islas%20Perdidas.xml</externallink>
+</item>
+
+   <item>
+ <title>[B][COLOR orangered]Los orígenes de la humanidad[/B][/COLOR]</title>
+ <link>$doregex[makelist]</link>
+ <regex>
+ <name>makelist</name>
+ <listrepeat><![CDATA[
+     <title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+     <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+     <thumbnail>NA</thumbnail>
+ ]]></listrepeat>
+ <expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+ <page>https://www.youtube.com/playlist?list=PL5OQyNOtAgLMALNKrVWxKncf-_3EDcNAg</page>
+ <cookieJar></cookieJar>
+ </regex>
+<thumbnail>http://i39.tinypic.com/16jrp6a.jpg</thumbnail>
+<fanart>http://www.altadefinicionhd.com/images/stories/Titulosanalizados/L/origenes-humanidad/origenes-humanidad-1.png</fanart>
+ </item> 
+ 
+<item><title>[B][COLOR orangered]Acceso Secreto Ovnis (2011)[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Acceso+Secreto.+Ovnis(2011)+-+Secret+access.+Ufos+on+the+record,198846016.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Acceso+Secreto.+Ovnis(2011)+-+Secret+access.+Ufos+on+the+record,198846016.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://2.bp.blogspot.com/-m209NDtIh8k/UKqRyZGbVvI/AAAAAAAAGfY/BPD_g22NbZM/s400/Acceso+secreto,+OVNIs.jpg</thumbnail><fanart></fanart><info></info></item> 
+<item><title>[B][COLOR orangered]Revelaciones Extraterrestres[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Revelaciones.Extrasterrestres._720p,181440767.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Revelaciones.Extrasterrestres._720p,181440767.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]¿quién Descubrió América (2011) [Documental][/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Peliculas+Latino/*c2*bfqui*c3*a9n+Descubri*c3*b3+Am*c3*a9rica+(2011)+*5bDocumental*5d,185736484.avi(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Peliculas+Latino/*c2*bfqui*c3*a9n+Descubri*c3*b3+Am*c3*a9rica+(2011)+*5bDocumental*5d,185736484.avi(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]El Submarino de los Nazis[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/El+submarino+de+los+Nazis+By+JgN,176130508.avi(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/El+submarino+de+los+Nazis+By+JgN,176130508.avi(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441864</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]Viaje al Corazon de la Tierra[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Viaje+al+coraz*c3*b3n+de+la+Tierra+(720p),176129708.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Viaje+al+coraz*c3*b3n+de+la+Tierra+(720p),176129708.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441866</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]El Hospital del Cielo[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/El.Hospital.Del.Cielo.720p,176129451.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/El.Hospital.Del.Cielo.720p,176129451.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441867</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]El cometa del Siglo [/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/el+cometa+del+siglo+720p,176128811.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/el+cometa+del+siglo+720p,176128811.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441868</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]Michael Jackson Private Home Subt[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Michael+Jackson+Private+Home+Movies+Subtitulado+*5bHD*5d+-+YouTube+(480p),176128732.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Michael+Jackson+Private+Home+Movies+Subtitulado+*5bHD*5d+-+YouTube+(480p),176128732.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441869</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]Contacto Extraterrestre[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Contacto+extraterrestre(2013).HDTV,176086870.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Contacto+extraterrestre(2013).HDTV,176086870.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441870</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]Desntro de la Guerra de los Narcos[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Dentro.De.Guerras.De.Narcos.720p,176086096.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Dentro.De.Guerras.De.Narcos.720p,176086096.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441871</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]Area 51[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/area+51+L+A.S+De.La.C1.720p,176085661.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/area+51+L+A.S+De.La.C1.720p,176085661.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441872</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]Catastrodes de la Tierra Naturaleza Salvaje[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Catastrofes+de+la+Tierra_+Naturaleza+salvaje+720p,176085244.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Catastrofes+de+la+Tierra_+Naturaleza+salvaje+720p,176085244.mp4(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441873</thumbnail><fanart></fanart><info></info></item>
+<item><title>[B][COLOR orangered]Paranormal- Luces Misteriosas[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Paranormal+-+Luces+misteriosas+*5bDocumental*5d*3b*5b720p,175175863.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Paranormal+-+Luces+misteriosas+*5bDocumental*5d*3b*5b720p,175175863.mkv(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441874</thumbnail><fanart></fanart><info></info></item>
+
+<item><title>[B][COLOR orangered]Machupichu La Joya del Emperador E01[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://lolabits.es/action/License/Download</page><referer>http://lolabits.es</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Machupichu/Machu+Picchu+*5bLa+Joya+del+Emperador*5d+Episodio+1,55474126.mkv(video)</page><referer>http://lolabits.es/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Machupichu/Machu+Picchu+*5bLa+Joya+del+Emperador*5d+Episodio+1,55474126.mkv(video)</page><referer>http://lolabits.es/</referer></regex><thumbnail>http://projectv.pw/var/albums/machupichu.png?m=1448217037</thumbnail><fanart>https://i.ytimg.com/vi/xGTQmhhuqZw/maxresdefault.jpg</fanart><info></info></item>
+<item><title>[B][COLOR orangered]Machupichu La Joya del Emperador E02[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://lolabits.es/action/License/Download</page><referer>http://lolabits.es</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Machupichu/Machu+Picchu+*5bla+Joya+Del+Emperador*5d+Episodio+2+Final-1,55475135.mkv(video)</page><referer>http://lolabits.es/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://lolabits.es/streamex/Micoleccion/Documentales/Machupichu/Machu+Picchu+*5bla+Joya+Del+Emperador*5d+Episodio+2+Final-1,55475135.mkv(video)</page><referer>http://lolabits.es/</referer></regex><thumbnail>http://projectv.pw/var/albums/machupichu.png?m=1448217038</thumbnail><fanart>https://i.ytimg.com/vi/xGTQmhhuqZw/maxresdefault.jpg</fanart><info></info></item>
+<item><title>[B][COLOR orangered]Aviones Fantasma y el Misterio del Vuelo 370[/B][/COLOR]</title><link>$doregex[url]</link><regex><name>url</name><expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres><page></page></regex><regex><name>get-url</name><expres>Url":"(.*?)"</expres><page>http://abelhas.pt/action/License/Download</page><referer>http://abelhas.pt/</referer><rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost><cookiejar></cookiejar></regex><regex><name>id</name><expres>Id" value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Aviones+fantasma+y+el+misterio+del+vuelo+370,176091137.avi(video)</page><referer>http://abelhas.pt/</referer></regex><regex><name>tok</name><expres>Token.*?value="(.*?)"</expres><page>http://abelhas.pt/streamex/Documentales/Aviones+fantasma+y+el+misterio+del+vuelo+370,176091137.avi(video)</page><referer>http://abelhas.pt/</referer></regex><thumbnail>http://mx.tuhistory.com/files/aviones-fantasmas-misterio-vuelo-370-600x310.jpg</thumbnail><fanart>https://avioneandodotcom.files.wordpress.com/2015/03/unnamed.jpg</fanart><info></info></item>
+
+
+<item>
+<title>[B][COLOR orangered]Sociedades Secretas[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLtw0MN-B96c7_IBfqiLhLgkCR_OPIOOeE</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Los Soldados de Hitler[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmQ8A_lK0Lz8SQ8XqH_Bc7GWg8ZyewOxT</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Misterios sin Resolver[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmQ8A_lK0Lz-Tvpp5fKHClRvbJpf3jYLC</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orangered]La Guerra Santa[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmQ8A_lK0Lz9AuGIIUK1iXdtQ8DYeTAXC</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Mitos y Leyendas HD[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLmQ8A_lK0Lz_lF9obF2xOaf62kGUFb9-1</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Planeta Encantado J.J. Benitez Serie Completa[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL0wsEJZuJDUgxpfjE7AfCcjOh2BEuMloh</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orangered] Documentales de Brujeria[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL0wsEJZuJDUgXhOZdwd6qhemDOeeJbRGT</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://projectv.pw/var/albums/artleo_com-9905.jpg?m=1449441865</thumbnail>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Space & Univers [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLEoy8AOnM1qPZii9F6FCFqIHXNULaoEfK</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i4.ytimg.com/vi/ISIThywUmPE/maxresdefault.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[B][COLOR orangered]HOW UNIVERS WORK [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLROEz64QDLaaAoida0Y-SaovkmBWB4hks</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://www.youtube.com/playlist?list=PLEHrpXyo4FINgx2f-p2cnPr8g_FbWILuJ</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>[B][COLOR orangered]Encuentros Alienigenas[/B][/COLOR]</title>
+<thumbnail>http://i2.ytimg.com/vi/E6v0MPLZNQo/0.jpg</thumbnail>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Encuentros%20Alienigenas.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Hangar 1[/B][/COLOR]</title>
+<thumbnail>http://http-s.ws/ysk/img/data/e2340773abc362e045a5038f53ce1121-size-145x205-a.jpg</thumbnail>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Hangar.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Alienigenas Ancestrales[/B][/COLOR]</title>
+<info>El programa presenta las teorías de los antiguos astronautas y propone que los textos históricos, la arqueología y leyendas contienen pruebas de que en el pasado, el ser humano tuvo contacto con los extraterrestres.</info>
+<thumbnail>http://i.imgur.com/jjzeEMk.jpg</thumbnail>
+<fanart>https://lh4.googleusercontent.com/-GOeB1LFEK-Y/UFodc_nGFgI/AAAAAAAACdw/EgGqHYOROIM/s1600/bannaliencc.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Series/alienigenas%20ancestrales.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Descubriendo el Mañana con Stephen Hawking[/B][/COLOR]</title>
+<info></info>
+<thumbnail>http://misseries.net/img/destacada/descubriendo-el-manana-con-stephen-hawking.jpg</thumbnail>
+<fanart></fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Descubriendo%20el%20Manana%20con%20Stephen.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Civilisaciones Perdidas[/B][/COLOR]</title>
+<thumbnail>http://mco-s2-p.mlstatic.com/civilizaciones-perdidas-tomo-i-egipto-time-life-folio-1347-MCO3406656061_112012-F.jpg</thumbnail><fanart>http://1.bp.blogspot.com/-ApvKN49Fn_0/Uqi89QztdtI/AAAAAAAACek/I6rT47P2d-E/s1600/11-terra-cotta-soldiers.jpg</fanart>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Civilizaciones%20Perdidas.xml</externallink>
+</item>
+
+<item>
+<title>[B][COLOR orangered]Paris-Berlin Destinos Cruzados[/B][/COLOR]</title>
+<thumbnail>http://3.1m.yt/SycIzlfk.jpg</thumbnail>
+<link>http://nofunciona</link>
+<externallink>http://projectv.pw/ProjecTV/Listas/Documentales/Paris-Berlin%20Destinos%20Cruzados.xml</externallink>
+</item>
+  
+<item><title>[B][COLOR orangered]GasHole 2010[/B][/COLOR]</title>
+<thumbnail>http://i68.tinypic.com/10rj192.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/ccc215172c287</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Cove[/B][/COLOR]</title>
+<thumbnail>http://i65.tinypic.com/kef81f.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/2f915525e176c</link>
+</item>
+
+<item><title>[B][COLOR orangered]Cowspiracy The Sustainability Secret[/B][/COLOR]</title>
+<thumbnail>http://i65.tinypic.com/2mx3e51.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/22fe579ae6044</link>
+</item>
+
+<item><title>[B][COLOR orangered]JFK.The.Smoking.Gun 2013[/B][/COLOR]</title>
+<thumbnail>http://resources1.news.com.au/images/2013/11/19/1226763/592957-ec82bbac-5020-11e3-9447-447e09e048d9.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/39fe5d172230d</link>
+</item>
+
+<item><title>[B][COLOR orangered]Nature.The.Animal.House.2011[/B][/COLOR]</title>
+<thumbnail>http://fs212.www.ex.ua/show/79263884/79263884.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/e1adf2d8b0545</link>
+</item>
+
+<item><title>[B][COLOR orangered]TPB AFK: The Pirate Bay Away from Keyboard (2013)[/B][/COLOR]</title>
+<thumbnail>http://laughingsquid.com/wp-content/uploads/pirate.jpg</thumbnail>
+<link>https://www.youtube.com/watch?v=eTOKXCEwo_8</link>
+</item>
+
+<item>
+<title>[B][COLOR orangered]The Final Member (2012)[/B][/COLOR]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BNDExNzI5NDcxMF5BMl5BanBnXkFtZTgwMzg1NTYyMTE@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/95afa40a98f5b</link>
+</item>
+
+<item><title>[B][COLOR orangered]Altman (2014)[/B][/COLOR]</title>
+<thumbnail>http://resizing.flixster.com/W6IFX9FSzeDA4_tOWK6ZgLeel6A=/800x1143/dkpu1ddg7pbsk.cloudfront.net/movie/11/18/18/11181886_ori.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/61b1dcd26f87c</link>
+</item>
+
+<item><title>[B][COLOR orangered]Don't Stop Believin': Everyman's Journey (2012)[/B][/COLOR]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc3MDU4NTU0OV5BMl5BanBnXkFtZTcwNjg2NDYxOQ@@._V1_UY268_CR0,0,182,268_AL_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/48668d298776b</link>
+</item>
+<item><title>[B][COLOR orangered]HBO Documentaries Terror at the Mall[/B][/COLOR]</title>
+<thumbnail>http://cdn.hbowatch.com/wp-content/uploads/2014/09/TerrorAtTheMall_poster.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/1543f141c35d1</link>
+</item>
+
+
+<item><title>[B][COLOR orangered]HBO Documentaries Southern Rites[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/45892fd1f140e</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Graduating Peter[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/3a3be7b388b52</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Valentine Road[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/431ae75ff524d</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Open Heart[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/58358764d24e7</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Hard Times Lost on Long Island[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/b66a670aac186</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Crisis Hotline Veterans Press 1[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/8280d4a54f16a</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Regarding Susan Sontag[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/20d36c44e106b</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Battle of AMFAR[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/f6a1d417f76a2</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Mondays at Racine[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/7cf43ac7aabb1</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Gideons Army[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/555a5ae4fa11d</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries The Education of Mohammad Hussein[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/3568ff1945120</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Redemption[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/65b8384816aa3</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Prison TerminalThe Last Days of Private Jack Hall[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/b160197af2fb9</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Paycheck to Paycheck The Life and.Times oF Katrina Gilbert[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/2827d84ec5c89</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries The Newburgh Sting[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/58d2f74ccce19</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Six by Sondheim[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/365a7e8c0d368</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries First Cousin.Once Removed[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/f2c08faf650df</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Private Violence[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/122f4508a36c7</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Captivated The Trials of Pamela[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/b60724f63e765</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Kings Point[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/43f3b40e4611e</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries One Last HugThree Days at Grief Camp[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/7715d67820051</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries American Winter[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/f3622f905f17e</link>
+</item>
+
+<item><title>[B][COLOR orangered]HBO Documentaries Bruce Springsteens High Hopes[/B][/COLOR]</title>
+<thumbnail>http://store.hbo.com/img/view/view2/00049370-541475.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/31d798cecaa5d</link>
+</item>
+<item><title>[B][COLOR orangered]Marina Abramovic: The Artist Is Present (2012)[/B][/COLOR]</title>
+<thumbnail>http://i65.fastpic.ru/big/2014/0925/ab/9501da50cf66323c594fd62a2c9f2eab.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/4c85d51044129</link>
+</item>
+
+<item><title>[B][COLOR orangered]Pulp (2014) 
+<thumbnail>http://static1.squarespace.com/static/534fa4c6e4b0e7399e10f902/t/53e73993e4b0f39bef5f3c0a/1407662484934/
+<link>http://www.nowvideo.li/video/629bd4ed3bfdf
+</item>
+
+<item><title>[B][COLOR orangered]Finding Vivian Maier (2013)[/B][/COLOR]</title>
+<thumbnail>https://filmgrimoire.files.wordpress.com/2015/01/large_1lsvuy2btkyj1eskiklngljsuzq.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/79a86a2806093</link>
+</item>
+
+<item><title>[B][COLOR orangered]Leave The World Behind (2014)[/B][/COLOR]</title>
+<thumbnail>http://i.imgur.com/uaY5pok.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/7f9799d72ed83</link>
+</item>
+
+<item><title>[B][COLOR orangered]For No Good Reason (2012)[/B][/COLOR]</title>
+<thumbnail>http://www.dvdsreleasedates.com/covers/for-no-good-reason-blu-ray-cover-77.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/8c0648b691b97</link>
+</item>
+
+<item><title>[B][COLOR orangered]Born to Be Wild (2011) [/B][/COLOR]</title>
+<thumbnail>http://www.dvdsreleasedates.com/covers/imax-born-to-be-wild-dvd-cover-85.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/a1ef1a5e7d848</link>
+</item>
+
+<item><title>[B][COLOR orangered]Polar Bears: A Summer Odyssey (2012)[/B][/COLOR]</title>
+<thumbnail>http://www.movies4you.org/_nw/29/29882454.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/cd4e66a410e5d</link>
+</item>
+
+<item><title>[B][COLOR orangered]Tim's Vermeer (2013)[/B][/COLOR]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc1MjgxNDU5OV5BMl5BanBnXkFtZTgwMTcwMzQ4MDE@._V1_SX640_SY720_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/c9e4eec5b7738</link>
+</item>
+
+<item><title>[B][COLOR orangered]Life in a Day (2011)[/B][/COLOR]</title>
+<thumbnail>http://www.thatsmags.com/uploads/picture/201209/1347185075_66530.jpg</thumbnail>?c=1&w=82&h=57
+<link>http://www.nowvideo.li/video/59a176821e72d</link>
+</item>
+
+<item><title>[B][COLOR orangered]Fastest (2011) [/B][/COLOR]</title>
+<thumbnail>http://images.blu-ray.com/movies/covers/41336_front.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/7e2d2551b8c80</link>
+</item>
+
+<item><title>[B][COLOR orangered]Alive Inside (2014)[/B][/COLOR]</title>
+<thumbnail>http://images.static-bluray.com/movies/covers/115503_front.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/7c4d47cf0f4c8</link>
+</item>
+
+<item><title>[B][COLOR orangered]Jodorowsky's Dune (2013)[/B][/COLOR]</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/91KRqAzzB0L._SL1500_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/781bf8e713e1c</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Last Lions (2011)[/B][/COLOR]</title>
+<thumbnail>https://pic.yify-torrent.org/2011/29588/11e84614ab0e4d4a8bc29d4e8b83c1a5.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/411478aa6dd9e</link>
+</item>
+
+<item><title>[B][COLOR orangered]TT3D: Closer to the Edge (2011)[/B][/COLOR]</title>
+<thumbnail>https://lh3.ggpht.com/QSKzeKv2-CMv0umduONjDW-E4kxuAm0gYoTyLqB5kk4-C4lQCzfOCuHcP9jpcFz_bcOxeQ=w300
+<link>http://www.nowvideo.li/video/7c802e79924a3</link>
+</item>
+
+<item><title>[B][COLOR orangered]America: Imagine the World Without Her (2014)[/B][/COLOR]</title>
+<thumbnail>http://content9.flixster.com/movie/11/17/88/11178859_800.png
+<link>http://www.nowvideo.li/video/6165f12d39a98</link>
+</item>
+
+<item><title>[B][COLOR orangered]Beyond the Edge (2013)[/B][/COLOR]</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/916RNbMYocL._SL1500_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/c8b7a6685e14b</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Wrecking Crew (2008)[/B][/COLOR]</title>
+<thumbnail>http://i.jeded.com/i/the-wrecking-crew-2008.35079.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/229af46e46ec6</link>
+</item>
+
+<item><title>[B][COLOR orangered]20,000 Days on Earth (2014)[/B][/COLOR]</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/81eaMcd%2BCbL._SL1500_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/04c7f7224f79f</link>
+</item>
+
+<item><title>[B][COLOR orangered]Room 237 (2012)[/B][/COLOR]</title>
+<thumbnail>http://www.dvdsreleasedates.com/posters/800/R/Room-237-2012-movie-poster.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/4ae1049c312ab</link>
+</item>
+
+<item><title>[B][COLOR orangered]Marley (2012)[/B][/COLOR]</title>
+<thumbnail>http://image.tmdb.org/t/p/original/gZKvCePrHQxUxB0l8ZZUkLBMmRM.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/e3a2b22cb95ad</link>
+</item>
+
+<item><title>[B][COLOR orangered]Undefeated (2011)[/B][/COLOR]</title>
+<thumbnail>http://www.michaeldvd.com.au/CoverArtUnverified/32987.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/2f4d18af33b9e</link>
+</item>
+
+<item><title>[B][COLOR orangered]Gascoigne (2015)[/B][/COLOR]</title>
+<thumbnail>http://s2.postimg.org/ho9uyabp5/127617_front.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/93d15a7d83659</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Imposter (2012)[/B][/COLOR]</title>
+<thumbnail>http://www.listener.co.nz/wp-content/uploads/2012/12/The-Imposter.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/55ce277e2277d</link>
+</item>
+
+<item><title>[B][COLOR orangered]African Cats (2011)[/B][/COLOR]</title>
+<thumbnail>http://img600.imageshack.us/img600/3026/20111025ac2011w.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/e667e41c67873</link>
+</item>
+
+<item><title>[B][COLOR orangered]Dinosaur 13 (2014)[/B][/COLOR]</title>
+<thumbnail>http://i1.wp.com/www.heyuguys.com/images/2015/01/dinosaur-13-correct.jpg?resize=1040%2C537</thumbnail>
+<link>http://www.nowvideo.li/video/4ac605914a0b0</link>
+</item>
+
+<item><title>[B][COLOR orangered]One Direction: This Is Us (2013)[/B][/COLOR]</title>
+<thumbnail>http://www.dvdactive.com/images/news/screenshot/2013/10/1d_bd_ultimate_fan_edition.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/b37700800e861</link>
+</item>
+
+<item><title>[B][COLOR orangered]Generation Iron (2013)[/B][/COLOR]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY3NDcxNjIzMF5BMl5BanBnXkFtZTgwMzM1NDAxMDE@._V1_SX640_SY720_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/d8516b362b4ef</link>
+</item>
+
+<item><title>[B][COLOR orangered]Dirty Wars (2013)[/B][/COLOR]</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/91GcXw%2BsTML._SL1500_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/138d4a6f0ccf8</link>
+</item>
+
+<item><title>[B][COLOR orangered]Fed Up (2014) [/B][/COLOR]</title>
+<thumbnail>http://www.dvdsreleasedates.com/covers/fed-up-blu-ray-cover-95.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/6dfc8d467eec1</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Nightmare (2015)[/B][/COLOR]</title>
+<thumbnail>http://resizing.flixster.com/NjUGcy3MEPS4wpVwFp4-AO6-VIo=/800x1185/dkpu1ddg7pbsk.cloudfront.net/movie/11/19/14/11191440_ori.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/f066339c77690</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Search for Freedom (2015)[/B][/COLOR]</title>
+<thumbnail>http://ecx.images-amazon.com/images/I/91DeZMtCJqL._SL1500_.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/fc1d3282f6829</link>
+</item>
+
+<item><title>[B][COLOR orangered]Whitey United States of America v James J Bulger 2014[/B][/COLOR]</title>
+<thumbnail>http://upcomingdiscs.com/ecs_covers/whitey-united-states-of-america-v-james-j-bulger-blu-ray-large.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/cf88f0c35a6f5</link>
+</item>
+
+<item><title>[B][COLOR orangered]I Am Ali 2014[/B][/COLOR]</title>
+<thumbnail>http://i.jeded.com/i/i-am-ali.31827.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/aa3bbf40844bc</link>
+</item>
+
+<item><title>[B][COLOR orangered]Codebreaker 2011[/B][/COLOR]</title>
+<thumbnail>http://www.turingfilm.com/wp-content/uploads/2013/10/Codebreaker-Amaray-Wrap-Lo_RES-cropped.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/a6648e3e1b405</link>
+</item>
+
+<item><title>[B][COLOR orangered]Kurt Cobain Montage of Heck 2015[/B][/COLOR]</title>
+<thumbnail>https://thegownatqub.files.wordpress.com/2015/04/kurt-cobain-montage-of-heck.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/a7f734e96e6b8</link>
+</item>
+
+<item><title>[B][COLOR orangered]Deep Web 2015[/B][/COLOR]</title>
+<thumbnail>http://revolutionofthemind.org/wp-content/uploads/2015/10/Deep-Web.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/94a92e1d1acd1</link>
+</item>
+
+<item><title>[B][COLOR orangered]Merchants of Doubt  2014[/B][/COLOR]</title>
+<thumbnail>http://images.static-bluray.com/movies/covers/131918_front.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/7fd32c2988172</link>
+</item>
+
+<item><title>[B][COLOR orangered]The True Cost 2015[/B][/COLOR]</title>
+<thumbnail>http://img.123movies.to/2015/09/05/film/The-True-Cost.png
+<link>http://www.nowvideo.li/video/31094ffe42bc1</link>
+</item>
+
+<item><title>[B][COLOR orangered]Mr Blue Sky The Story of Jeff Lynne and ELO 2012[/B][/COLOR]</title>
+<thumbnail>http://i.imgur.com/7OUNZORm.jpg</thumbnail>
+<link>http://www.nowvideo.li/video/7e427da1ba409</link>
+</item>
+
+<item><title>[B][COLOR orangered]Anonymous Documentary - How Anonymous Hackers Changed the World Full Documentary[/B][/COLOR]</title>
+<thumbnail>http://3.bp.blogspot.com/-q9NNMf5Gvwo/VW3R9y-wBiI/AAAAAAAAErs/L-iuzvtFZ-g/s1600/how%2Banonymous%2Bhackers%2Bchanged%2Bthe%2Bworld.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/011c6fa757246</link>
+</item>
+
+<item><title>[B][COLOR orangered]morecambe and wise the whole story s01e01[/B][/COLOR]</title>
+<thumbnail>http://www.digitaljournal.com/img/8/7/3/i/1/6/2/o/Morecambe-Wise_1.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/8714bca6a3ca0</link>
+</item>
+
+<item><title>[B][COLOR orangered]morecambe and wise the whole story s01e02[/B][/COLOR]</title>
+<thumbnail>http://www.digitaljournal.com/img/8/7/3/i/1/6/2/o/Morecambe-Wise_1.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/42dbc1463d0dd</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Krays The Prison Years[/B][/COLOR]</title>
+<thumbnail>http://cdn.tvwise.co.uk/wp-content/uploads/2015/08/The-Krays-Prison-Years-779x400.jpg</thumbnail>?677037
+<link>http://www.nowvideo.sx/video/a38f482526100
+</item>
+
+<item><title>[B][COLOR orangered]the.beatles.the.night.that.changed.america.a.grammy.salute.2014[/B][/COLOR]</title>
+<thumbnail>http://www.goldminemag.com/wp-content/uploads/BeatlesGrammyEvent.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/1b9287d36e97a</link>
+</item>
+
+<item><title>[B][COLOR orangered]The.Joy.of.the.Bee.Gees.2014[/B][/COLOR]</title>
+<thumbnail>http://www.brothersgibb.org/news/the-joy-of.gif
+<link>http://www.nowvideo.sx/video/82994a5b2bc19</link>
+</item>
+
+<item><title>[B][COLOR orangered]Gimme.Some.Truth.-.The.Making.of.John.Lennon.Imagine.Album[/B][/COLOR]</title>
+<thumbnail>http://www.securecrazydiamond.com/dizq/47437.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/71adf50f5c4ff</link>
+</item>
+
+<item><title>[B][COLOR orangered]Amy.Winehouse.Fallen.Star.2012[/B][/COLOR]</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ3NTM0MzU2Ml5BMl5BanBnXkFtZTgwNTEyMjU5MDE@._V1_UY1200_CR135,0,630,1200_AL_.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/5cbb7c0c75c43</link>
+</item>
+
+<item><title>[B][COLOR orangered]Amy.Winehouse.In.Her.Own.Words[/B][/COLOR]</title>
+<thumbnail>http://www.showfilmfirst.com/wp-content/uploads/2015/04/amy.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/345d3ad921c9a</link>
+</item>
+
+<item><title>[B][COLOR orangered]BBC Documentary 2015 UFO UK The New Evidence[/B][/COLOR]</title>
+<thumbnail>https://i.ytimg.com/vi/YIeXwlXoyjY/hqdefault.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/d07313ddd018f</link>
+</item>
+
+<item><title>[B][COLOR orangered]Nat Geo Wild HD Wild Sri Lanka - Forest of Clouds[/B][/COLOR]</title>
+<thumbnail>http://asli-id.com/wp-content/uploads/2015/11/Blog_post052015.png
+<link>http://www.nowvideo.sx/video/96022163af080</link>
+</item>
+
+<item><title>[B][COLOR orangered]Cannabis - Britains Secret Farms[/B][/COLOR]</title>
+<thumbnail>http://nimbintelevision.net/wp-content/uploads/2011/11/brit-secret-farms.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/55a0cc55b9c3d</link>
+</item>
+
+<item><title>[B][COLOR orangered]dispatches britains street kids[/B][/COLOR]</title>
+<thumbnail>http://i68.tinypic.com/9l8v2v.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/c255c1e92ea53</link>
+</item>
+
+<item><title>[B][COLOR orangered]Football Fight Club in Britian BBC Documentary 2014[/B][/COLOR]</title>
+<thumbnail>http://ichef.bbci.co.uk/images/ic/640x360/p02498hs.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/a8dcd7475c0d8</link>
+</item>
+
+<item><title>[B][COLOR orangered]Taboo - Prostitution[/B][/COLOR]</title>
+<thumbnail>http://cdn.topdocumentaryfilms.com/wp-content/uploads/2013/07/sex-sale-prostitution.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/7b065700be5c1</link>
+</item>
+
+<item><title>[B][COLOR orangered]Teen Mum High[/B][/COLOR]</title>
+<thumbnail>http://ichef.bbci.co.uk/images/ic/640x360/p01gd8ck.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/5b6e91e74bcd3
+</item>
+
+<item><title>[B][COLOR orangered]The 911 conspiracies (UK version)[/B][/COLOR]</title>
+<thumbnail>http://cdn1.theweek.co.uk/sites/theweek/files/styles/16x8_748/public/images/twintowers-426--131358776686512000.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/d0963ac0aa647
+</item>
+
+<item><title>[B][COLOR orangered]The Smiths  - Not Like Any Other Love[/B][/COLOR]</title>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/95/75/1c/95751c07a54a027fb6fc2cd74a07c481.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/1981d49d7f81b</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Sun Full [/B][/COLOR]</title>
+<thumbnail>http://i66.tinypic.com/2a9ej60.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/45d085033c74e</link>
+</item>
+
+<item><title>[B][COLOR orangered]The Truth About Immigration in the UK 2014[/B][/COLOR]</title>
+<thumbnail>http://immigrationmatters.co.uk/wp-content/uploads/2014/10/The-Truth-About-Immigration-in-the-UK-2014-BBC-HD-720p-YouTube.png</thumbnail>
+<link>http://www.nowvideo.sx/video/8ddb7e8b9460f</link>
+</item>
+
+<item><title>[B][COLOR orangered]UK Supreme Court - The Highest Court in the Land[/B][/COLOR]</title>
+<thumbnail>http://img.thesun.co.uk/aidemitlum/archive/01029/court-682_1029206a.jpg</thumbnail>
+<link>http://www.nowvideo.sx/video/d7cb6d55b5a81</link>
+</item>
+
+		

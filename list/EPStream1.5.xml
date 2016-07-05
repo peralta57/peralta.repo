@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+ <channels>
+    <channels_info> <!-- this is optional -->
+      <title>[COLOR blue][B]EPSTREAM [/B][/COLOR]</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>TODOS</genre>
+      <description>EPSTREAM</description>
+     <thumbnail>https://googledrive.com/host/0B4Z7-Dyq1vezcGt0anU4WFgxWXc/</thumbnail>
+      <fanart>https://googledrive.com/host/0B4Z7-Dyq1vezQUZtT2c3Rm1NZDA/</fanart>
+      <date>year</date
+      <credits>CREDITOS</credits>
+    </channels_info>
+  
+
+	
+    <channel>
+    <name> [COLOR blue][B]EPSTREAM [/B][/COLOR]</name>
+    <info>un addon de PeraltaBuild</info>
+<fanart>https://googledrive.com/host/0B4Z7-Dyq1vezQUZtT2c3Rm1NZDA/</fanart>
+<thumbnail>https://googledrive.com/host/0B4Z7-Dyq1vezcGt0anU4WFgxWXc/</thumbnail>
+    
+	
+   
+	     <channel>
+    <name>[COLOR blue][B]Update 7/4/16[/B][/COLOR]</name>
+    <info>Update</info>
+    <fanart>https://googledrive.com/host/0B4Z7-Dyq1vezQUZtT2c3Rm1NZDA/</fanart>
+<thumbnail>https://googledrive.com/host/0B4Z7-Dyq1vezcGt0anU4WFgxWXc/</thumbnail>
+
+<channel>
+    <name>[B][COLOR blue]PAY-PER-VIEW[/COLOR][/B]</name>
+    <info>DEPORTES</info>
+    <thumbnail>http://animalrightscoalition.com/wp-content/uploads/2012/05/PPV-Logo-Final.png</thumbnail>
+    <fanart>http://leftjaballnight.com/TheSweetScienceWithSarah/wp-content/uploads/2015/10/3D-Fire-Boxing-HD-Wallpaper-01048.jpg</fanart>
+ 
+   <item>
+<title>[B][COLOR blue]PAY-PER-VIEW[/COLOR][/B]</title>
+<thumb>http://animalrightscoalition.com/wp-content/uploads/2012/05/PPV-Logo-Final.png</thumbnail>
+<fanart>http://leftjaballnight.com/TheSweetScienceWithSarah/wp-content/uploads/2015/10/3D-Fire-Boxing-HD-Wallpaper-01048.jpg</fanart>
+<externallink>https://www.dropbox.com/s/4qz0dmhfqh5uefg/ufcboxeodelortoputo.XML?dl=1</externallink>
+</item>
+
+
+
+
+<channel>
+    <name>[B][COLOR blue]LIVE TV[/COLOR][/B]</name>
+    <info>MUSICA</info>
+    <thumbnail>http://4.bp.blogspot.com/-9YjAwFcKNJk/UnzXZq0TlpI/AAAAAAAABjo/Ych3eIh2VEQ/s1600/unnamed.png</thumbnail>
+    <fanart>http://www.arthosuchak.com/wp-content/uploads/2014/05/tv-channel.jpg</fanart>
+ 
+   <item>
+<title>[B][COLOR blue]LIVE TV[/COLOR][/B]</title>
+<thumb>http://4.bp.blogspot.com/-9YjAwFcKNJk/UnzXZq0TlpI/AAAAAAAABjo/Ych3eIh2VEQ/s1600/unnamed.png</thumbnail>
+<fanart>http://www.arthosuchak.com/wp-content/uploads/2014/05/tv-channel.jpg</fanart>
+<externallink>https://www.dropbox.com/s/lpz47mtowrbc6cf/cablemix.xml?dl=1</externallink>
+</item>
+
+<channel>
+    <name>[B][COLOR blue]USA LIVE TV[/COLOR][/B]</name>
+    <info>TV</info>
+    <thumbnail>http://www.ramalin.com/wp-content/uploads/2015/08/1280px-USA_flag_on_television.svg_.png</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png</fanart>
+ 
+   <item>
+<title>[B][COLOR blue]USA LIVE TV[/COLOR][/B]</title>
+<thumbnail>http://www.ramalin.com/wp-content/uploads/2015/08/1280px-USA_flag_on_television.svg_.png</thumbnail>
+    <fanart>http://3.bp.blogspot.com/-YZK6ftAraqs/T3FMBEcbYAI/AAAAAAAACtM/1t3lk9JJsNY/s1600/UnoTelly1.png</fanart>
+<externallink>https://www.dropbox.com/s/xg0fsyrcg2erx00/new%20peraltalive%20tv.xml?dl=1</externallink>
+</item>
+
+
+
+<channel>
+    <name>[B][COLOR white]SPORT TV[/COLOR][/B]</name>
+    <info>MUSICA</info>
+    <thumbnail>https://lh6.ggpht.com/qal7VWBsvyRAYFqdNR8FataVDQv8LP0eaJLCoLOq3jA-tbAddaqNj5qfcp5vJWgf4Og=w300</thumbnail>
+    <fanart>http://www.arthosuchak.com/wp-content/uploads/2014/05/tv-channel.jpg</fanart>
+ 
+   <item>
+<title>[B][COLOR white]SPORT TV[/COLOR][/B]</title>
+<thumb>https://lh6.ggpht.com/qal7VWBsvyRAYFqdNR8FataVDQv8LP0eaJLCoLOq3jA-tbAddaqNj5qfcp5vJWgf4Og=w300</thumbnail>
+<fanart>http://blog.fantasysp.com/wp-content/uploads/2011/03/sports-on-tv5.jpg</fanart>
+<externallink>https://www.dropbox.com/s/mhrrbjobm5qrpva/deplat.xml?dl=1</externallink>
+</item>
+<channel>
+    <name>[COLOR white][B]FITNESS[/B][/COLOR]</name>
+    <info>SPORT</info>
+    <thumbnail>http://www.pas-kal.com/wp-content/uploads/2016/01/slide_2.jpg</thumbnail>
+    <fanart>http://kirtlandforcesupport.com/wp-content/uploads/2014/02/fitness.png</fanart>
+
+    
+    <item>
+<title>[COLOR white]FITNESS[/B][/COLOR]</title>
+<link></link>
+<thumbnail>http://www.pas-kal.com/wp-content/uploads/2016/01/slide_2.jpg</thumbnail>
+<fanart>http://kirtlandforcesupport.com/wp-content/uploads/2014/02/fitness.png</fanart>
+<externallink>https://www.dropbox.com/s/gwpnshwyeot0k4w/fitness.xml?dl=1</externallink>
+</item>
+
+
+<channel>
+    <name>[B][COLOR white]DR LIVE TV[/COLOR][/B]</name>
+    <info>live tv</info>
+    <thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/21/RDTV.svg/220px-RDTV.svg.png</thumbnail>
+<fanart>http://12y2.com/wp-content/uploads/2014/06/Bandera-Dominicana.jpg</fanart> 
+   <item>
+<title>[B][COLOR white]DR LIVE TV[/COLOR][/B]</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/2/21/RDTV.svg/220px-RDTV.svg.png</thumbnail>
+<fanart>http://12y2.com/wp-content/uploads/2014/06/Bandera-Dominicana.jpg</fanart>
+<externallink>https://www.dropbox.com/s/kc6yx8axkl6kyva/RD.XML?dl=1</externallink>
+</item>
+
+
+
+
+<channel>
+         <info>[B][COLOR white]PELICULAS HD ESP,SUB,DUAL[/COLOR][/B]</info>
+         <thumbnail>http://api.ning.com/files/e94-*Sv1fqr9oJf7LLU7PxfQs09CT*wqh4Kecd17qD*r5YT6YmzmMMm6Jxh*CcTVycSogaKxsqbrF0obb*OMCeSjUafoT6-F/movies1.jpg</thumbnail>
+         <fanart>http://cdn.playbuzz.com/cdn/d5914e4f-c7eb-4fab-b6f4-a4877a376541/ea82c940-167e-4019-8587-2e941e1fffed.jpg</fanart>
+         <Date>2015</Date>
+         <name>[B][COLOR white]PELICULAS HD ESP,SUB,DUAL[/COLOR][/B]</name>  
+          
+
+        <title>[B][COLOR white]PELICULAS HD ESP,SUB,DUAL[/COLOR][/B]</title>
+        <link></link>
+        <thumbnail>http://api.ning.com/files/e94-*Sv1fqr9oJf7LLU7PxfQs09CT*wqh4Kecd17qD*r5YT6YmzmMMm6Jxh*CcTVycSogaKxsqbrF0obb*OMCeSjUafoT6-F/movies1.jpg</thumbnail>
+        <fanart>http://cdn.playbuzz.com/cdn/d5914e4f-c7eb-4fab-b6f4-a4877a376541/ea82c940-167e-4019-8587-2e941e1fffed.jpg</fanart>
+        <externallink>https://www.dropbox.com/s/gbvcv82n6orgxmt/HDcollectionSTREAM2.xml?dl=1</externallink>
+</item>
+
+<channel>
+    <name>[COLOR white][B]PELICULAS INFANTILES[/B][/COLOR]</name>
+    <info>KIDS</info>
+    <thumbnail>http://www.playstorevideoteca.it/shop/image/data/demo/aaa/asasa.jpg</thumbnail>
+    <fanart>http://cdn.playbuzz.com/cdn/3fb56038-6938-4f74-bc0c-e8404f9259ca/6db5c1c3-4d79-430f-85e2-4bc493d7961f.png</fanart>
+
+    
+    <item>
+<title>[COLOR red]PELICULAS INFANTILES[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<link></link>
+<thumbnail>http://www.playstorevideoteca.it/shop/image/data/demo/aaa/asasa.jpg</thumbnail>
+<fanart>http://cdn.playbuzz.com/cdn/3fb56038-6938-4f74-bc0c-e8404f9259ca/6db5c1c3-4d79-430f-85e2-4bc493d7961f.png</fanart>
+<externallink>https://www.dropbox.com/s/vxyycxfcgfoll0b/infantiles.xml?dl=1</externallink>
+</item>
+
+<channel>
+    <name>[B][COLOR red][B]80's MOVIES[/B][/COLOR]</name>
+    <info>ENTRETENIMIENTO</info>
+    <thumbnail>http://taylorholmes.com/wp-content/uploads/2012/12/Bes180sMoviesEver.jpg</thumbnail>
+    <fanart>http://leakynews.s3.amazonaws.com/pub/wp-content/uploads/2013/09/Movies1.jpg</fanart>
+
+    
+    <item>
+<title>[B][COLOR red]80's MOVIES[/COLOR]  [COLOR skyblue][/COLOR][/B]</title>
+<link></link>
+<thumbnail>http://taylorholmes.com/wp-content/uploads/2012/12/Best80sMoviesEver.jpg</thumbnail>
+<fanart>https://www.internetretailer.com/static/uploads/thumbs/multimedia_film_jpg_280x280_crop_q95.jpg</fanart>
+<externallink>https://www.dropbox.com/s/uf4r1f3fzcxtfqo/80s1.5.xml?dl=1</externallink>
+</item>
+
+
+
+<channel>
+    <name>[B][COLOR red][B]BOXSET[/B][/COLOR]</name>
+    <info>COLLECTION</info>
+    <thumbnail>https://i.ytimg.com/vi/dRNQQ0KY2Vo/maxresdefault.jpg</thumbnail>
+    <fanart>https://i.ytimg.com/vi/dRNQQ0KY2Vo/maxresdefault.jpg</fanart>
+
+    
+    <item>
+<title>[B][COLOR red]BOXSET[/COLOR][/B]</title>
+<link>-</link>
+<thumbnail>https://i.ytimg.com/vi/dRNQQ0KY2Vo/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/dRNQQ0KY2Vo/maxresdefault.jpg</fanart>
+<externallink>https://www.dropbox.com/s/45gu0nl22403rqt/boxset.xml?dl=1</externallink>
+</item>
+	
+	 <channel>
+ <name>[B][COLOR red][B]ANIME[/B][/COLOR]</name>
+    <info>anime</info>
+    <thumbnail>http://pre10.deviantart.net/4fe4/th/pre/i/2013/203/0/4/my_favorite_anime_shows_ever_colored_by_marvelmania-d6eln5g.jpg</thumbnail>
+    <fanart>http://i.imgur.com/dzxI54E.jpg</fanart>
+<item>
+    <name>[B][COLOR red][B]ANIME[/B][/COLOR]</name>
+<info>ANIME</info>
+    <thumbnail>https://addon.projectv.pw/projectv/anime/candy.jpg</thumbnail>
+    <fanart>http://addon.projectv.pw/projectv/anime/candyf.jpg </fanart>
+<externallink>https://www.dropbox.com/s/izl628r399xt97r/anime.xml?dl=1</externallink>
+</item>	
+		
+	
+
+
+
+
+ <channel>
+    <name>[B][COLOR red][B]TV SHOWS[/B][/COLOR]</name>
+    <info>TVSHOWS</info>
+    <thumbnail>https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAK_AAAAJDljM2ZlNGQ3LTAwZGEtNDk3MS1iOWQzLTQ0NmQ1MTA0MmFjMg.png</thumbnail>
+    <fanart>http://images2.travelerstoday.com/data/thumbs/full/11569/600/0/0/0/popular-tv-shows.jpg</fanart>
+ 
+   <item>
+<title>[B][/COLOR][COLOR red]TV SHOWS[/COLOR][/B]</title>
+<thumb>https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAK_AAAAJDljM2ZlNGQ3LTAwZGEtNDk3MS1iOWQzLTQ0NmQ1MTA0MmFjMg.png</thumbnail>
+<fanart>http://images2.travelerstoday.com/data/thumbs/full/11569/600/0/0/0/popular-tv-shows.jpg</fanart>
+<externallink>https://www.dropbox.com/s/uhqp0g2fydud8cb/tvseries.xml?dl=1</externallink>
+</item>
+
+ <channel>
+    <name>[B][COLOR red][B]LOONEY GOLD COLLECTION[/B][/COLOR]</name>
+    <info>MUSICA</info>
+    <thumbnail>http://ecx.images-amazon.com/images/I/81mAm11VzDL._SL1500_.jpg</thumbnail>
+    <fanart>http://cdn.playbuzz.com/cdn/0df56932-7a76-476f-8407-4507e8ee29fb/9db5e53e-79ae-49dd-8943-495257c11eb5.jpg</fanart>
+ 
+
+      <item>
+    <title>[COLOR red]LOONEY GOLD COLLECTION[/COLOR]</title>
+	<externallink>https://www.dropbox.com/s/ubf8fet0xt0oedt/looney%20tunes.xml?dl=1</externallink>
+	<thumbnail>http://ecx.images-amazon.com/images/I/81mAm11VzDL._SL1500_.jpg</thumbnail>
+    <fanart>http://cdn.playbuzz.com/cdn/0df56932-7a76-476f-8407-4507e8ee29fb/9db5e53e-79ae-49dd-8943-495257c11eb5.jpg</fanart>
+    </item>
+</channel>
+
+
+
+
+ <channel>
+    <name>[B][COLOR red]DOCUMENTALES[/COLOR][/B]</name>
+    <info>DOCUMENTALES</info>
+    <thumbnail>https://muestradecortosaragoneses.files.wordpress.com/2013/11/docu.jpg</thumbnail>
+    <fanart>http://img.loquenosabias.com/tops10/2015/05/28/ocho-documentales-mas-interesantes-del-mundo.jpg</fanart>
+ 
+   <item>
+<title>[B][COLOR red]DOCUMENTALES[/COLOR][/B]</title>
+<thumb>https://muestradecortosaragoneses.files.wordpress.com/2013/11/docu.jpg</thumbnail>
+<fanart>http://img.loquenosabias.com/tops10/2015/05/28/ocho-documentales-mas-interesantes-del-mundo.jpg</fanart>
+<externallink>https://www.dropbox.com/s/v8greewedn24ssx/Documentales.xml?dl=1</externallink>
+</item>
+
+
+	    <channel>
+    <name>[COLOR red][B]HORROR BOX[/B][/COLOR]</name>
+    <info>HORROR</info>
+    <thumbnail>http://www.boxofficeindia.co.in/wp-content/uploads/2013/09/M_Id_419416_Horror_story.jpg</thumbnail>
+    <fanart>http://www.nerdsonearth.com/wp-content/uploads/2015/09/Massive-B-Horror-Collage-Wallpaper-horror-movies-29491579-2560-1600.jpg</fanart>
+ 
+   <item>
+<title>[B][COLOR red]HORROR BOX[/COLOR][/B]</title>
+<thumb>http://www.boxofficeindia.co.in/wp-content/uploads/2013/09/M_Id_419416_Horror_story.jpg</thumbnail>
+<fanart>http://www.nerdsonearth.com/wp-content/uploads/2015/09/Massive-B-Horror-Collage-Wallpaper-horror-movies-29491579-2560-1600.jpg</fanart>
+<externallink>http://peraltarepo.netai.net/Peralta-List/newxml/HORRORBOX.xml</externallink>
+</item>
+
+	</channels>

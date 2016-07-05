@@ -1,0 +1,215 @@
+       
+<items>
+<item>
+<title>[B][COLOR red]                                                      TELENORD[/COLOR][/B]</title>
+<link>http://mek2.mekstream.com:1935/telenord10/live2/telenord10.m3u8</link>
+<thumbnail>https://pbs.twimg.com/profile_images/583586711407611904/6ULVQdGW.png</thumbnail>
+<fanart>http://i39.tinypic.com/2w1wj1d.jpg</fanart>
+</item>
+  <item>
+     <title>[B][COLOR red]                                                  TELESISTEMA 11  [/COLOR][/B]<title> 
+       
+        <link>http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w1084487987_b214000.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2013/10/logo11.jpg</thumbnail>
+        </item>
+
+<item>
+     <title>[B][COLOR red]                                                  CDN 37 [/COLOR][/B]<title> 
+        <link>http://108.168.206.90:1935/cdn/cdn/chunklist_w2084883903.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://cdn.conectate.com.do.s3.amazonaws.com/wp-content/uploads/2014/05/ncdn.jpg</thumbnail>
+        </item>
+
+
+
+<item>
+        <title>[B][COLOR red]                                                  ANTENA LATINA 7[/COLOR][/B]<title> 
+        <link>http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://diasporadominicana.com/wp-content/uploads/2013/06/Logo-ANTENA-.jpg</thumbnail>
+        </item>
+
+
+ <item>
+    <title>[B][COLOR red]                                                  TELEANTILLAS 2 [/COLOR][/B]<title>   
+        <link>http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Teleantillas-Canal-2.jpg</thumbnail>
+        </item>
+
+
+
+ <item>
+    <title>[B][COLOR red]                                                  CORAL 39  [/COLOR][/B]<title> 
+        <link>http://strs2.cvm1.com:8081/live/2102.stream/chunks.m3u8?nimblesessionid=795653149</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://4.bp.blogspot.com/_a24SFhvDvZc/S2TYyLZdYpI/AAAAAAAAAsI/vBe7vutZXjc/s200/LOGO+CORAL+TV.jpg</thumbnail>
+        </item>
+
+
+<item>
+     <title>[B][COLOR red]                                                  COLOR VISION 9 [/COLOR][/B]<title>    
+        <link>http://ss8.domint.net:2048/cvis_str/video/chunklist_w1410453871.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Color-Vision.jpg</thumbnail>
+        </item>
+
+
+<item>
+       <title>[B][COLOR red]                                                  TELECENTRO 13  [/COLOR][/B]<title> 
+        <link>rtmp://ss7.domint.net:2050/tcc_str/ playpath=tc13 swfUrl=http://ss7.domint.net/jw6/6.10/jwplayer.flash.swf live=1 pageUrl=http://192.254.234.245/~orosario/telecentro/tv/</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://1.bp.blogspot.com/-Zpc94VFRT5w/UWlsngCW7aI/AAAAAAAACwY/njrJL6-Mk8U/s1600/telecentro.jpg</thumbnail>
+        </item>
+        
+        
+        
+<item>
+       <title>[B][COLOR red]                                                  TELEMICRO 5 [/COLOR][/B]<title>  
+        <link>http://107.182.239.141:9095/live5/telemicro0505_2_96/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+       <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2013/02/telemic.jpg</thumbnail>
+        </item>
+        
+        <item>
+        <title>[B][COLOR red]                                                  DIGITAL 15 [/COLOR][/B]<title>
+        <link>rtmp://stream.grupotelemicro.com:9095/live16/telemicro1515_1_96</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+       <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Digital-151.jpg</thumbnail>
+        </item>
+
+
+
+
+<item>
+       <title>[B][COLOR red]                                                  SUPERCANAL 33 [/COLOR][/B]<title> 
+        <link>http://xmegustascx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2014/11/super_canal_do.png</thumbnail>
+        </item>
+
+
+
+
+
+<item>
+       <title>[B][COLOR red]                                                  CANAL 25 [/COLOR][/B]<title>
+        <link>http://qs1.distream.net:2126/c25_str/canal25/chunklist_w1276860948.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Canal-25.jpg</thumbnail>
+        </item>
+
+<item>
+         <title>[B][COLOR red]                                                  CANAL 4 [/COLOR][/B]<title>
+        <link>http://216.24.196.40:1935/live/canal4/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://dominicanchannel.net/wp-content/uploads/2013/07/certv.jpg</thumbnail>
+        </item>
+
+<item>
+        <title>[B][COLOR red]                                                  CDN 2 [/COLOR][/B]<title>
+        <link>http://108.168.206.90:1935/cdnsm/cdnsm/chunklist_w679608006.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>https://pbs.twimg.com/profile_images/378800000619827008/b9cc037613ceebec4d9b209eff48fbcf.jpeg</thumbnail>
+        </item>
+<item>
+       <title>[B][COLOR red]                                                  TV PLATA 3 [/COLOR][/B]<title> 
+        <link>rtmp://s1.streamcp.com:1935/8070/tvplata3</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2013/07/logotvplata.jpg</thumbnail>
+        </item>
+
+<item>
+       <title>[B][COLOR red]                                                  COSTA NORTE NETWORK [/COLOR][/B]<title>
+        <link>http://xcnntv003x.api.channel.livestream.com/3.0/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://emisoradominicana.net/television/wp-content/uploads/2015/06/CNN-TV3-300x169.jpg</thumbnail>
+        </item>
+
+
+<item>
+         <title>[B][COLOR red]                                                  TELECANAL 16 [/COLOR][/B]<title>   
+        <link>http://mek2.mekstream.com:1935/noticias16/live2/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.freeetv.com/images/reydddd/telecanal16.jpg</thumbnail>
+        </item>
+<item>
+        <title>[B][COLOR red]                                                  TV YUNA [/COLOR][/B]<title>
+        <link>http://ss9.domint.net:1986/yv_str/yuna/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Yuna-Vision.jpg</thumbnail>
+        </item>
+
+<item>
+        <title>[B][COLOR red]                                                  MANGO TV  [/COLOR][/B]<title>   
+        <link>http://mek2.mekstream.com/mango/smil:mango.smil/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://televisionrd.com/wp-content/uploads/2014/04/MANGO-TV.jpg</thumbnail>
+        </item>
+<item>
+       <title>[B][COLOR red]                                                  VEGA TV [/COLOR][/B]<title>    
+        <link>http://ss9.domint.net:2084/vtv_str/canal8/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/06/VegaTV-Logo-120x120.jpg</thumbnail>
+        </item>
+<item>
+        <title>[B][COLOR red]                                                  TELEUNIVERSO 29 [/COLOR][/B]<title>
+        <link>http://ss6.domint.net:2008/tu_str/universo/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesrd.com/wp-content/uploads/2014/07/unnamed.png</thumbnail>
+        </item>
+<item>
+        <title>[B][COLOR red]                                                  AMÈ 47 [/COLOR][/B]<title> 
+        <link>http://asx.domiplay.net:1935/rtplive/ame47.sdp/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.nataliagourmet.com/images/ame47tv.jpg</thumbnail>
+        </item>
+
+<item>
+        <title>[B][COLOR red]                                                  TRA 45 [/COLOR][/B]<title> 
+        <link>http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://tv-online.in/wp-content/uploads/2013/01/TRA-45-Digital-live.gif</thumbnail>
+        </item>
+<item>
+       <title>[B][COLOR red]                                                  SUPER  55 [/COLOR][/B]<title>   
+        <link>http://ss9.domint.net:2022/stv_str/tv55/chunklist_w149768753.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/LogoSTV55-Canales-Dominicanos-Online.jpg</thumbnail>
+        </item>
+
+<item>
+      <title>[B][COLOR red]                                                  TNI 51[/COLOR][/B]<title>   
+        <link>http://ss9.domint.net:2130/tni_str/canal51/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2014/05/Tni-51.jpg</thumbnail>
+        </item>
+        
+        
+     
+<item>
+        <title>[B][COLOR red]                                                  TELEIMPACTO 52[/COLOR][/B]<title>
+
+        <link>http://xteleimpactodrx.api.channel.livestream.com/3.0/playlist.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://2.bp.blogspot.com/-EfdGMrPoyxE/Utk6gtGgIWI/AAAAAAAABH0/LSROsu7YuLM/s1600/Teleimpacto.jpg</thumbnail>
+        </item>
+        
+        
+
+<item>
+      <title>[B][COLOR red]                                                  TELEFUTURO 23[/COLOR][/B]<title>
+        <link>http://ss7.domint.net:1950/tf_str/futu/hasbahca.m3u8</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://canalesdominicanosenvivo.com/wp-content/uploads/2013/09/Telefuturo-Canal-23.jpg</thumbnail>
+        </item>
+
+<item>
+        <title>[B][COLOR red]                                                  TV QUISQUEYA[/COLOR][/B]<title>
+        <link>rtmp://ss7.domint.net:2082/tvq_str/ playpath=tvqusa swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://rdtv.cvinetwork.info/canal/tvquisqueya.php?&vw=607&vh=391&video=0&domain=dominicanchannels.net
+</link>
+        <fanart>http://www.5tobachillerato.com/wp-content/uploads/2014/11/Dominican-Republic-Flag-Picture-Wallpaper-1920x1080.jpg</fanart>
+        <thumbnail>http://www.canalesdominicanos.com.do/wp-content/uploads/2014/12/tv_quisqueya_logo.png</thumbnail>
+        </item>
+</items>

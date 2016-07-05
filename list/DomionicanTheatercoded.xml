@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+name =  dmode
+ dir = ndmode
+
+
+
+<dir>
+<name>[B][COLOR blue]Domini[/COLOR]can[COLOR red]Theater[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/DRpelis2.xml</link>
+<thumbnail>http://3.bp.blogspot.com/-Hso2eG9rhWY/T6KWmp9pkgI/AAAAAAAACvs/kXhmJ1Pl-2s/s1600/peliculas-dominicanas1.jpg</thumbnail>
+<fanart>http://12y2.com/wp-content/uploads/2014/06/Bandera-Dominicana.jpg</fanart>
+</dir>
+
+
+<dir>
+<name>[B][COLOR blue]La[/COLOR] Escu[COLOR red]elota[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/la%20escuelota.xml</link>
+<thumbnail>https://i.ytimg.com/vi/f_rWM1Wa8aQ/hqdefault.jpg</thumbnail>
+<fanart>http://12y2.com/wp-content/uploads/2014/06/Bandera-Dominicana.jpg</fanart>
+</dir>
+<dir>
+<name>[B][COLOR blue]Ka[/COLOR]ra[COLOR red]oke[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/DRKaraoke.xml</link>
+<thumbnail>http://emarket.do/assets/img/posts/6194938/8239f305364dab2d5db147bfc0ec3a55_370x350.jpg</thumbnail>
+<fanart>http://12y2.com/wp-content/uploads/2014/06/Bandera-Dominicana.jpg</fanart>
+</dir>
+
+
+
+<dir>
+<name>[B][COLOR blue]La Es[/COLOR]quina [COLOR red]Imaginaria[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/la%20esquina%20imaginaria.xml</link>
+<thumbnail>http://i3.ytimg.com/vi/UEzTwkaEPuk/mqdefault.jpg</thumbnail>
+<fanart>http://12y2.com/wp-content/uploads/2014/06/Bandera-Dominicana.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR blue]Clacicos[/COLOR] Del[COLOR red]merengue[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/merengues.xml</link>
+<thumbnail>https://i.ytimg.com/vi/z5YlctNepnM/hqdefault.jpg</thumbnail>
+<fanart>http://12y2.com/wp-content/uploads/2014/06/Bandera-Dominicana.jpg</fanart</dir>
+
+<dir>
+<name>[B][COLOR blue]USA[/COLOR] Movies [COLOR red] in Spanish[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/newxml/DRTHEATER.xml</link>
+<thumbnail>http://static1.squarespace.com/static/520555f8e4b02e3485381f97/52098d1de4b0337424414b04/52098e1fe4b0734e32de4a0e/1395007236684/hammer_02.jpg</thumbnail>
+<fanart>http://12y2.com/wp-content/uploads/2014/06/Bandera-Dominicana.jpg</fanart</dir>

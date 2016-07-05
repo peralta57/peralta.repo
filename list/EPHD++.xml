@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+name =  dmode
+ dir = ndmode
+
+
+<dir>
+<name>[B][COLOR red]In CINEMA[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/LatestCinema.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://www.digitalproductionme.com/pictures/Novo%20Cinemas%20Dragon%20Mart.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]MORE 1080P MOVIES[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/newxml/EPHD3.1.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/originals/cb/b9/c5/cbb9c59acc2c7019627579554caa84c6.jpg</fanart>
+</dir>
+<dir>
+<name>[B][COLOR red]OSCAR WINER MOVIES[/COLOR][/B]</name>
+<link>http://one242415.offshorepastebin.com/Collections/oscars.xml</link>
+<thumbnail>http://optclean.com.br/wp-content/uploads/2016/01/oscar-2016.jpg</thumbnail>
+<fanart>http://playfmnetwork.com/wp-content/uploads/2016/01/NENQXe6MPNU4RU_2_b.jpg</fanart>
+</dir>
+<dir>
+    <name>[B][COLOR red]24-7SHOWS[/COLOR][/B]</name>
+    <info>live tv</info>
+    <thumbnail>https://gp1.wac.edgecastcdn.net/802892/production_public/Artist/2022493/image/small/1319126030_24-7_logo_with_swirls.jpg</thumbnail>
+<fanart>http://i.imgur.com/PUjjyPg.jpg</fanart> 
+ <link>http://phoenixtv.offshorepastebin.com/tv/tvshows.xml</link>
+</dir>
+
+
+
+<dir>
+<name>[B][COLOR red]ACTORS[/COLOR][/B]</name>
+<link>http://valhalla.offshorepastebin.com/Actors/Actordir.xml</link>
+<thumbnail>http://static.tumblr.com/cc861d9b03ee74a8406d397ecc07d339/6dmoqvc/UFmmyw02i/tumblr_static_actors_collage_one.jpg</thumbnail>
+<fanart>http://www.wallpaperup.com/uploads/wallpapers/2014/01/04/214510/9a066563faacbca04f5eaa5b112ca129.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]KIDS[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/Kids.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/S98ovEHuEbU/maxresdefault.jpg</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]DISNEY COLLECTION[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/Disney.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>https://lh3.googleusercontent.com/yjkjqsQQR6Uk7e2Z_XNVN5W_Yd7RQdxZSeiVvnukOe6nJ-25IdNYlA7q6QlUwGz2WA=h900</fanart>
+</dir>
+<dir>
+<name>[B][COLOR red]TVSHOWS[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/Shows.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-QjW-iP7c3mc/UVOYkJgkzvI/AAAAAAAAAVg/8STAI8IIzvI/s1600/logotyo.png</fanart>
+</dir>
+
+<dir>
+<name>[B][COLOR red]BOXSETS[/COLOR][/B]</name>
+<link>http://tnpb.offshorepastebin.com/Directories/Movies%20Directories/Boxsets%20Directory.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fanart>http://images4.static-bluray.com/htgallery/99404.jpg</fanart>
+</dir>
+<dir>
+<name>[B][COLOR red]HORROR MOVIES[/COLOR][/B]</name>
+<link>http://peraltarepo.netai.net/Peralta-List/ScaryMovies.xml</link>
+<thumbnail>http://i.kinja-img.com/gawker-media/image/upload/s--j2odgM72--/c_scale,fl_progressive,q_80,w_800/1891wlfyk3xtbjpg.jpg</thumbnail>
+<fdanart>http://media1.popsugar-assets.com/files/2014/11/26/889/n/1922283/5a42f95930ce1386_horrorcollage.xxxlarge.jpg</fanart>
+</dir>
+<plugin>
+<name>30702</name>
+<link>plugin://plugin.video.phstreams/?action=search</link>
+<thumbnail>https://googledrive.com/host/0B4Z7-Dyq1vezR1VHV0FNVVR4WWs/</thumbnail>
+</plugin>
+
+
+

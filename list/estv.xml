@@ -1,0 +1,575 @@
+ <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+        
+	<item>
+<title>ABC</title>
+<thumbnail>http://www.underconsideration.com/brandnew/archives/abc_2013_logo_detail.jpg</thumbnail>
+<sportsdevil>http://www.ibrod.tv/abc-tv-online.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+	
+
+
+<item>
+<title>BRAVO</title>
+<thumbnail>http://www.ferris.edu/HTMLS/mytechsupport/servicecat/phoneandcable/cable_television/cableimages/bravohdlogo.png</thumbnail>
+<sportsdevil>http://www.ibrod.tv/bravo-tv-online.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+
+
+
+
+<item>
+<title>CW PIX</title>
+<thumbnail>http://www.angryleo.com/wp-content/uploads/2014/10/CW.png</thumbnail>
+<sportsdevil>http://www.ibrod.tv/cw-tv-online.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+
+<item>
+<title>FOX</title>
+<thumbnail>http://www.technobuffalo.com/wp-content/uploads/2010/10/fox_logo.gif</thumbnail>
+<sportsdevil>http://www.ibrod.tv/fox-tv-online.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+
+
+<item>
+<title>MTV</title>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MTV_Logo.svg/2000px-MTV_Logo.svg.png</thumbnail>
+<sportsdevil>http://www.ibrod.tv/mtv-tv-online.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+
+
+<item>
+<title>NBC</title>
+<thumbnail>http://vignette3.wikia.nocookie.net/peanuts/images/f/f4/NBCLogo.png/revision/latest?cb=20151018122122</thumbnail>
+<sportsdevil>http://www.ibrod.tv/nbc-tv-online.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+
+
+<item>
+<title>SHOWTIME</title>
+<thumbnail>http://assets.fontsinuse.com/static/use-media-items/20/19778/upto-700xauto/56703349/id_show_1_0.jpeg?resolution=0</thumbnail>
+<sportsdevil>http://www.ibrod.tv/showtime-tv-online.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+
+
+<item>
+<thumbnail>https://upload.wikimedia.org/wikipedia/it/6/60/TNT_logo_2003-1-.svg</thumbnail>
+<title>TNT</title>
+<sportsdevil>http://www.ibrod.tv/tnt-tv-online.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+
+
+
+<item>
+<thumbnail>https://pbs.twimg.com/profile_images/620444154498121728/cbW5iHUJ.jpg</thumbnail>
+<title>PREMIER</title>
+<sportsdevil>http://www.ibrod.tv/premier.html</sportsdevil>
+<referer>http://www.ibrod.tv/</referer>
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]CANAL+ SERIES XTRA[/I][/B][/COLOR]</title>
+ <sportsdevil>http://hispaniatv.tv/canal-plus-series-xtra-en-vivo-online/</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<fanart>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</fanart>
+ <thumbnail>http://www.vertele.com/files/2013/10/canal-plus-series-logo-530.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I]SYFY[/I][/B][/COLOR]</title>
+ <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/syfy.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+---------------------------------------------------------
+
+<item>
+<title>[COLOR turquoise][B][I]SYFY[/I][/B][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/syfy.php</sportsdevil>
+<sportsdevil>http://www.telefivegb.com/ver-canal-sysf-online-yen-directo-las-24-por-internet-y-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</thumbnail>
+<fanart>http://i.ytimg.com/vi/XyeLVkZCYBc/maxresdefault.jpg</fanart>
+</item>
+
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]PARAMOUNT CHANNEL[/I][/B][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/p-channel.php</sportsdevil>
+  <sportsdevil>http://www.telefivegb.com/ver-paramount-channel-en-directo-y-gratis-online-las-24h-en-vivo/</sportsdevil>
+<refererhttp://cinestrenostv.tv</referer>
+<fanart>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</fanart>
+ <thumbnail>http://www.atelevisao.com/wp-content/uploads/2013/02/Canal-Hollywood.jpg</thumbnail>
+</item>
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]TCM[/I][/B][/COLOR]</title>
+<link>rtmp://31.220.2.53/privatestream/ playpath=teceeme?keys=8EQhkChPe1yYFxGkB7XH7Q&keyt=1454352990 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=teceeme&width=800&height=600</link>
+<fanart>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</fanart>
+ <thumbnail>http://www.ocio.net/wp-content/uploads/2009/04/tcm-gangster-icon-769595.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]FOX[/I][/B][/COLOR]</title>
+ <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision/fox.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://behruzmelikov.files.wordpress.com/2013/03/fox-tv-logo.jpg</thumbnail>
+<fanart>http://behruzmelikov.files.wordpress.com/2013/03/fox-tv-logo.jpg</fanart> 
+</item>
+
+
+
+
+
+
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]FOX LIFE[/I][/B][/COLOR]</title>
+<linktmp://play2.tvope.com/tvope playpath=stream_foxlif swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com/emb/player.php?c=stream_foxlif=750&h=490 token=Fo5_n0w?U.rA6l3-70w47ch</link>
+<thumbnail>http://www.ilsitodelledonne.it/wp-content/uploads/2010/05/Fox-Life.png</thumbnail>
+<fanart>http://www.ilsitodelledonne.it/wp-content/uploads/2010/05/Fox-Life.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+--------------------------------------------------
+<item>
+ <title>[COLOR turquoise][B][I]FOX LIFE[/I][/B][/COLOR]</title>
+ <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/foxlife.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://www.ilsitodelledonne.it/wp-content/uploads/2010/05/Fox-Life.png</thumbnail>
+<fanart>http://www.ilsitodelledonne.it/wp-content/uploads/2010/05/Fox-Life.png</fanart>
+</item>
+
+
+
+
+
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]TNT[/I][/B][/COLOR]</title>
+<link>rtmp://89.248.169.55/iguide playpath=nh4259fy0kikqbk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGDvcx7</link>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+
+<item>
+ <title>[COLOR turquoise][B][I]TNT[/I][/B][/COLOR]</title>
+ <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision/tnt.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6H9miQ4EiovH9Q3vuNMcsHMwwmwgf2r3hzEyB16Q4C_EVkmn7</fanart>
+</item>
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]AMC[/I][/B][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/nacionales/amc.php</sportsdevil>
+<sportsdevil>http://www.telefivegb.com/ver-amc-espana-online-gratis-en-vivo-por-internet/</sportsdevil>
+<sportsdevil>http://television-directa.mex.tl/canal-amc.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://blog.ono.es/wp-content/uploads/2014/11/amclogo4__140305172543.png</thumbnail>
+<fanart>http://blog.ono.es/wp-content/uploads/2014/11/amclogo4__140305172543.png</fanart>
+</item>
+
+
+<item>
+<title>[COLOR turquoise][B][I]CLUB TERROR / [COLOR yellow][B][I]LATINO[/B][/I][/COLOR]</title>
+<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_club_terror live=1 timeout=20</link>
+<regex>
+<name>clearCode</name>
+<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+<page/>
+</regex>
+<regex>
+<name>getencoded</name>
+<expres>:mvnkey-(.*)</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getserver</name>
+<expres>(.*?);</expres>
+<page>$doregex[getUrl]</page>
+</regex>
+<regex>
+<name>getUrl</name>
+<expres>(.*)</expres>
+<page>http://mvn.vaughnsoft.net/video/edge/live_club_terror$doregex[gettime]-$doregex[gettime].33434
+</page>
+</regex>
+<regex>
+<name>gettime</name>
+<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+<page/>
+</regex>
+<thumbnail>https://socialscenedicate.files.wordpress.com/2013/02/logo.jpg</thumbnail>
+<fanart>https://socialscenedicate.files.wordpress.com/2013/02/logo.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]A&E[/I][/B][/COLOR]</title>
+<linkrtmp://31.220.0.194/privatestream/ playpath=aande25?keys=CiRpolNhJee3TggArAeZMA&keyt=1448132337 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf</link>
+<thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLf4bwzRgKZ-oACcaR1JSNODtlQvuXaSnDx_YmUnRBonRA1rcQwQ</thumbnail>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLf4bwzRgKZ-oACcaR1JSNODtlQvuXaSnDx_YmUnRBonRA1rcQwQ</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR turquoise][B][I]MTV[/I][/B][/COLOR]</title>
+<linkrtmp://31.220.40.39/privatestream/ playpath=mtv96?keys=ocV18feJ8E6jqqe_oIqX6g&keyt=1448409951 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=mtv96&width=640&height=430</link> 
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png</fanart>
+</item>
+
+--------------------------------------------------
+<item>
+<title>[COLOR turquoise][B][I]MTV[/I][/B][/COLOR]</title>
+ <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision/mtv.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/9/98/MTV.png</fanart>
+</item>
+
+
+
+---------------------------------------------------------
+
+
+<item>
+<title>[COLOR turquoise][B][I]TELENOVELA[/I][/B][/COLOR]</title>
+ <link>http://200.76.77.237/LIVE/H01/CANAL275/PROFILE02-90/1823-20160201T094318.ts</link>
+<thumbnail>http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png</thumbnail>
+<fanart>http://blancolorenz.com/wp-content/uploads/2012/06/TLNovelas.png</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]HISTORIA[/I][/B][/COLOR]</title>
+<link>rtmp://cdn.pushpublish.tv/mylive playpath=historieta swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com</link>
+<thumbnail>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</thumbnail>
+<fanart>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+--------------------------------------------------
+<item>
+ <title>[COLOR turquoise][B][I]HISTORIA[/I][/B][/COLOR]</title>
+ <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/documentales/historia.php</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</thumbnail>
+<fanart>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</fanart>
+</item>
+
+
+---------------------------------------------------------
+
+<item>
+ <title>[COLOR turquoise][B][I]HISTORIA[/I][/B][/COLOR]</title>
+<sportsdevil>http://cinestrenostv.tv/canales/documentales/historia.php</sportsdevil> 
+<sportsdevil>http://www.telefivegb.com/ver-canal-historia-en-directo-y-gratis-en-vivo/</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<thumbnail>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</thumbnail>
+<fanart>http://graffica.info/wp-content/uploads/Canal-Historia-01.jpg</fanart>
+</item>
+
+<item>
+ <title>[COLOR turquoise][B][I]NATIONAL GEOGRAPHIP[/I][/B][/COLOR]</title>
+<linkrtmp://play1.tvope.com/tvope playpath=stream_natgeh swfUrl=http://i.tvope.com/swf/player5.4.swf live=1 pageUrl=http://tvope.com</link>
+<thumbnail>http://www.nationalgeographic.com.es/skins/ng/logo-fb.png</thumbnail>
+<fanart>http://www.nationalgeographic.com.es/skins/ng/logo-fb.png</fanart>
+ <thumbnail></thumbnail> 
+</item>
+
+--------------------------------------------------
+<item>
+ <title>[COLOR turquoise][B][I]NATIONAL GEOGRAPHIP[/I][/B][/COLOR]</title>
+ <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/national.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<thumbnail>http://www.nationalgeographic.com.es/skins/ng/logo-fb.png</thumbnail>
+<fanart>http://www.nationalgeographic.com.es/skins/ng/logo-fb.png</fanart>
+</item>
+
+
+
+<item>
+ <title>[COLOR turquoise][B][I]NAT GEO[/I][/B][/COLOR]</title>
+ <link>$doregex[get-m3u8-decoded]|Referer=$doregex[get-embed4]</link>
+<regex>
+<name>get-m3u8-decoded</name>
+<expres>$pyFunction:base64.b64decode("$doregex[get-m3u8-encoded]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-m3u8-encoded</name>
+<expres>input type="hidden.*?\n.*?\n.*?input type="hidden".*?value="(.*?)"</expres>
+<page>$doregex[get-embed4]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed4</name>
+<expres>iframe src="(.*?)"</expres>
+<page>$doregex[get-embed3]</page>
+<referer>http://cinestrenostv.tv</referer>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+
+<regex>
+<name>get-embed3</name>
+<expres>script type="text\/javascript" src="(.*?)"</expres>
+<page>http://cinestrenostv.tv/canales/emision1/natgeowill.html</page>
+<agent>Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0</agent>
+</regex>
+<fanart>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX6-0r7EGxrDqptzdbvizmZjTvIzIfdq81i7sDKzCKYYg7yYFb</fanart>
+ <thumbnail>https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTX6-0r7EGxrDqptzdbvizmZjTvIzIfdq81i7sDKzCKYYg7yYFb</thumbnail>
+</item>
+
+
+

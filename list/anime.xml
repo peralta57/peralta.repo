@@ -1,0 +1,1370 @@
+<?xmlversion="1.0"encoding="utf-8"standalone="yes"?>
+
+<!--DragonBallZhttp://pastebin.com/raw/GWPsF1Q4-->
+<channels>
+<channel>
+<name>[B][COLOR orangered]los Pitufos[/B][/COLOR]</name>
+<fanart>http://2.bp.blogspot.com/-yrRuViRdLUQ/Tl_bd_ceLWI/AAAAAAAAFXA/3nFsRYKAxLk/s1600/Los+Pitufos+comunistas+o+socialistas-.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]Los Pitifos[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/mirai-nikki/images/8/88/Mirai-nikki-01.jpg/revision/latest?cb=20111113024835</thumbnail>
+<fanar></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL9DD101ECD41A3D5B</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.publimetro.cl/_internal/gxml!0/2qijkhn0ctpwx8acoz5fxkpvtmr4nbh$fznwgkbp8cfo8kctdta1e7aem3k0xbh/pitufos1.jpeg</thumbnail>
+<fanar>http://2.bp.blogspot.com/-yrRuViRdLUQ/Tl_bd_ceLWI/AAAAAAAAFXA/3nFsRYKAxLk/s1600/Los+Pitufos+comunistas+o+socialistas-.jpg</fanart>
+</item>
+</channel>
+<channel>
+     <name>[COLORorangered] [B]Absolute Duo[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/4/68839l.jpg<thumbnail>
+     <fanart></fanart>
+	 <info>Los Blazes (Llamaradas) son una manifestación del alma humana, que toman forma de arma. Nuestro protagonista, Touru Kokonoe tiene la habilidad para usar un Blaze, pero resulta que el suyo no es un arma, sino un escudo. Además, debido al sistema de enseñanza de su escuela, el Sistema de Parejas (Duo Partner System), acabará compartiendo habitación con una atractiva chica de pelo plateado, Yurie Sigtuna, una estudiante de intercambio de Gimlé</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZNXdVblUtTmpQWWs</externallink>
+      </items>	
+    </channel>
+	
+
+
+
+
+
+
+
+metal<channel>
+<name>[B][COLOR orangered] ANIMES MOVIES[/COLOR][/B]</name>
+<thumbnail>http://i.imgur.com/3CY4W9e.jpg?1</thumbnail>
+<fanart>https://s3-eu-west-1.amazonaws.com/3tags-prod/article/54a5eac9ef470/54a5eaca025e6/original.jpg</fanart>
+<externallink>http://peraltarepo.netai.net/Peralta-List/newxml/peliculasanimes.m3u</externallink>
+</channel>
+<channel>
+     <name>[COLOR red] [B]One Piece[/B][/COLOR]</name>
+	 <thumbnail>http://1.bp.blogspot.com/-lbaRnMGJcFI/UajwHzlqE3I/AAAAAAAAABU/vjC4mEXieG0/s400/836.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Una historia épica de piratas, donde narra la historia de Monkey D. Luffy quien cuado tenia 7 años, comió accidentalmente una Fruta del diablo la cual le dio poderes de goma. Por otra parte Gol D. Roger conocido como El rey de los Piratas quien fuera ejecutado por la Marine, habló antes de morir, acerca de su famoso tesoro One Piece escondido en el Grand line. Esta noticia desato la gran era de la piratas lanzando a incontables piratas a ese lugar, en busca de One Piece el tesoro perdido. Diez años después, Luffy inspirado en Gol D. Roger y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo Rey de los Piratas y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el One Piece</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZckliaHhINXBjTU0</externallink>
+      </items>	
+    </channel>
+<channel>
+     <name>[COLOR orangered] [B]Afro Samurai[/B][/COLOR]</name>
+	 <thumbnail>http://download.gamezone.com/uploads/image/data/1195254/AfroSamurai.jpg<thumbnail>
+     <fanart></fanart>
+	 <info>En un mundo post-apocalíptico donde el mas fuerte sobrevive, existen 2 cintas legendarias para los mejores guerreros, la cinta numero 1 es para el mejor. El padre de Afro tenia la cinta numero 1 pero un día es derrotado por “Justicia” un pistolero que tenia la cinta numero 2 por lo tanto era el segundo mas fuerte, Afro muchos años después tiene la cinta numero 2 y busca venganza por su padre en compañía de Ninja Ninja. Aunque hay un tercero, un grupo de monjes muy misteriosos que al parecer buscan tener ambas cintas.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZMWhyWTNBdGRhTUE</externallink>
+      </items>	
+    </channel>
+<channel>
+     <name>[COLOR red] [B]Koutetsujou No Kabaneri[/B][/COLOR]</name>
+	 <thumbnail>http://images.gogoanime.tv/cover/koutetsujou-no-kabaneri.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La historia de “acción y supervivencia steampunk” se desarrollará en un país isla llamado Hinomoto. Allí los humanos se ocultan en fortalezas llamadas “estaciones” de unos seres similares a los zombis pero con corazón de hierro, los “Kabane”. Solo unas locomotoras blindadas especiales llamadas “Hayajiro” viajan entre las estaciones.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZTWZRbWgtM0xmQzA</externallink>
+      </items>	
+    </channel>
+	
+	
+	
+	<channel>
+     <name>[COLOR red] [B]My Hero Academia[/B][/COLOR]</name>
+	 <thumbnail>https://upload.wikimedia.org/wikipedia/en/5/5a/Boku_no_Hero_Academia_Volume_1.png</thumbnail>
+     <fanart></fanart>
+	 <info>El protagonista de esta historia es uno de esos casos raros que nacen sin superpoderes, pero esto no le impedirá perseguir su sueño: ser un gran héroe como el legendario All-Might. Para convertirse en el héroe que quiere ser, se apuntará a una de las academias de héroes más prestigiosas del país</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZUVo5ZFozbVY5Zms</externallink>
+      </items>	
+    </channel>
+
+
+<channel>
+     <name>[COLOR red] [B]Naruto Shippudden[/B][/COLOR]</name>
+	 <thumbnail>http://orig03.deviantart.net/cf87/f/2014/151/6/7/naruto_shippuuden___10___mini_saga_rendezvous__by_ryuichi93-d7kihg0.png</thumbnail>
+     <fanart></fanart>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZVHlReW51TW5wQ2s</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR red] [B]Twin Star Exorcists[/B][/COLOR]</name>
+	 <thumbnail>http://img1.ak.crunchyroll.com/i/spire2/0d9b4b1ea1fa85abd0472c0d1314c2601458583811_full.png</thumbnail>
+     <fanart></fanart>
+	 <info>Rokuro es un chaval que sueña en convertirse en cualquier cosa menos en exorcista. Un día aparece la misteriosa Benio y descubren que están destinados a casarse, por lo que empiezan a ser conocidos como los “Exorcistas de las Estrellas Gemelas”. ¿Podrá escapar Rokuro de ambas cosas? Pues la cosa se complica más cuando su amigo Ryogo desaparece y se ve obligado a pedirle ayuda a Benio para entrar en Magano, el tenebroso reino de Kegare, para rescatarle.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZQmZ0ME5zaXBXdVU</externallink>
+      </items>	
+    </channel>
+
+
+
+
+
+
+
+
+<channel>
+     <name>[COLOR red] [B]Ansatsu Kyoushitsu[/B][/COLOR]</name>
+	 <thumbnail>http://1.bp.blogspot.com/-TQhqQutpckQ/VK_qg2lYRHI/AAAAAAAAG-A/bLFMGQ4_aOE/s1600/69857l.jpg<thumbnail>
+     <fanart></fanart>
+	 <info>Una historia llena de acción sobre una clase de inadaptados sociales (alumnos de la clase 3-E) que intentan asesinar a su nuevo profesor: un alienígena-pulpo, con poderes extraños y fuerza sobrehumana. Este “profesor” ha destruido la luna y amenaza con hacer lo mismo con la Tierra, a no ser que sus alumnos consigan matarlo a él primero. El gobierno da como recompensa 10 billones de yenes a quien consiga matarlo. Lo peor es que, es el mejor profesor que estos alumnos han tenido.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZdGVndG1mTjcyR0U</externallink>
+      </items>	
+    </channel>
+<channel>
+     <name>[COLOR red] [B]Dragon Ball Serie[/B][/COLOR]</name>
+	 <thumbnail>http://images.designntrend.com/data/images/full/86532/dragon-ball-super-promotional-poster.jpg?w=780</thumbnail>
+     <fanart></fanart>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZTjdGSFVibU56bzA</externallink>
+      </items>	
+    </channel>
+
+<channel>
+     <name>[COLOR orangered] [B]Caballeros del Zodiaco[/B][/COLOR]</name>
+	 <thumbnail>http://3.bp.blogspot.com/-JNYSAlL6WIs/UYrUKS9pDsI/AAAAAAAA8qA/KS9imFHYVQk/s1600/De+ASGARD+Cover.jpg</thumbnail>
+     <fanart></fanart>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZdmo3LVdEMXBZSXM</externallink>
+      </items>	
+    </channel>
+
+<channel>
+     <name>[COLOR orangered] [B]Arcana Famiglia[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/9/39495l.jpg<thumbnail>
+     <fanart></fanart>
+	 <info>Arcana Famiglia es una organización que protege Regalo, una preciosa isla. La familia se encarga desde hace mucho tiempo de proteger los negocios, la seguridad y hasta la salud de la gente de la isla. Ahora el líder de la familia “Papa Mondo” está planeando retirarse, así que para escoger a su sucesor lanzará un torneo llamado “Arcada Duello”. El ganador no solo se convertirá en el líder de Arcana Famiglia, sino que también podrá pedir el deseo que quiera a Papa Mondo y obtendrá la mano de su hija, Felicita, en matrimonio. La Arcana Famiglia utiliza el poder de Tarocco para proteger la isla, y solo aquellos con el poder de los Arcanos Mayores tienen derecho a participar en el torneo, incluyendo a la misma Felicita, la cual quiera participar porque una vez se case no podrá salir de su mansión. Solo el vencedor del torneo sabrá el porqué. Felicita ostenta el poder de “Los Enamorados”, el cual le permite saber qué esconde la gente en sus corazones.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZQTVkS2oxRkJfam8</externallink>
+      </items>	
+    </channel>
+		<channel>
+     <name>[COLOR orangered] [B]Btoom[/B][/COLOR]</name>
+	 <thumbnail>http://www.mvm-films.com/images/covers/btoom-cover.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Ryota Sakamoto es un joven desempleado de 22 años de edad que vive con su madre y su padrastro. En el mundo real, puede no haber nada realmente especial acerca de él, pero en línea, es uno de los mejores jugadores del mundo del juego de combate llamado Btooom, Un día, se despierta en lo que parece ser una isla tropical, aunque él no recuerda nada de cómo o por qué ha llegado a estar allí. Mientras inspecciona el lugar, Ry&#333;ta ve a alguien y pide ayuda. El extraño responde lanzándole bombas e intentando asesinarlo, en ese momento se da cuenta que su vida está en peligro y que de alguna manera ha quedado atrapado en una versión real de su juego favorito, donde deberá escoger entre matar a sus oponentes o buscar una forma de salir de allí y salvar a quienes pueda.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZN3gyOU1zblRmV1k</externallink>
+      </items>	
+    </channel>
+	
+	
+	
+	
+	
+	<channel>
+     <name>[COLOR orangered] [B]Another[/B][/COLOR]</name>
+	 <thumbnail>http://www.ilbazardimari.net/wp-content/uploads/another.jpg<thumbnail>
+     <fanart></fanart>
+	 <info>La historia se centra en una clase maldita y en los hilos del destino que llevan a todos los alumnos y alumnas de la misma hasta a la muerte. Hacía 26 años iba a esa clase una chica llamada Misaki</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZSzBNWnhwU0JweUE</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR orangered] [B]Ajin[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/13/77968.jpg<thumbnail>
+     <fanart></fanart>
+	 <info>Los subhumanos no pueden morir. Aparecieron por primera vez en Africa durante un conflicto bélico, hace diecisete años. A partir de entonces, más especímenes han ido apareciendo en la sociedad humana y, para fines experimentales, el gobierno recompensará generosamente a cualquiera que capture uno. Ajeno a ello, un estudiante de bachillerato se dispone a comenzar sus vacaciones de verano, incapaz de pensar que su vida está a punto de tomar un giro inesperado.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZSXBHZzB1WGVncGc</externallink>
+      </items>	
+    </channel>
+<channel>
+     <name>[B][COLOR orangered]Aio Bungaku[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/10/17471.jpg<thumbnail>
+     <fanart></fanart>
+	 <info>La serie consiste en la adaptación de seis clásicos de la literatura japonesa moderna</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZbmJ5ZHdhTUpWNWc</externallink>
+      </items>	
+    </channel>
+<channel>
+<name>[B][COLOR orangered]Future Diary (Mirai Nikki)[/B][/COLOR]</name>
+<fanart>http://media.animevice.com/uploads/3/33623/589797-mirai_nikki_00061_thumb.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]Future Diary (Mirai Nikki)[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://vignette2.wikia.nocookie.net/mirai-nikki/images/8/88/Mirai-nikki-01.jpg/revision/latest?cb=20111113024835</thumbnail>
+<fanar></fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLIEbITAtGBeZn8UxCwwAns6jYXe8AHQYg</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://vignette2.wikia.nocookie.net/mirai-nikki/images/8/88/Mirai-nikki-01.jpg/revision/latest?cb=20111113024835</thumbnail>
+<fanar>http://media.animevice.com/uploads/3/33623/589797-mirai_nikki_00061_thumb.jpg</fanart>
+</item>
+</channel>
+
+
+<channel>
+<name>[B][COLOR orangered]Samurai Champloo[/B][/COLOR]</name>
+<fanarthttp://www.monkeymods.com/wp-content/uploads/2015/12/Samurai-Champloo-Radio-1.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]Samurai Champloo[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/71kYiwYmRfL._SL1069_.jpg</thumbnail>
+<fanart>http://www.monkeymods.com/wp-content/uploads/2015/12/Samurai-Champloo-Radio-1.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL6fJmjt84zZg50ilkQs58N3y6EaWRXW_9</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://ecx.images-amazon.com/images/I/71kYiwYmRfL._SL1069_.jpg</thumbnail>
+</item>
+</channel>
+
+
+
+
+
+<channel>
+<name>[B][COLOR orangered]GOLDEN BOY[/B][/COLOR]</name>
+<fanart>http://media.tumblr.com/dfed82bfea20b8a7599d1576b4de12d2/tumblr_inline_mhjurjRA3Y1qz4rgp.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]GOLDEN BOY[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51EICAGHZGL.jpg</thumbnail>
+<fanart>http://media.tumblr.com/dfed82bfea20b8a7599d1576b4de12d2/tumblr_inline_mhjurjRA3Y1qz4rgp.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL_z_kaeyFatf5ERdksOVgQ-IdrTass4n7</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://ecx.images-amazon.com/images/I/51EICAGHZGL.jpg</thumbnail>
+</item>
+</channel>
+
+<channel>
+<name>[B][COLOR orangered]Ichigo 100% [/B][/COLOR]</name>
+<item>
+<title>[B][COLOR orangered]Ichigo 100% [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://static6.comicvine.com/uploads/scale_large/6/67663/2938400-10.jpg</thumbnail>
+<fanart>http://static.zerochan.net/Ichigo.100%25.full.186536.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL73DEPQ7RWArb6448MU_4Dfz4XGsl_u1r</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static6.comicvine.com/uploads/scale_large/6/67663/2938400-10.jpg</thumbnail>
+</item>
+</channel>
+
+<channel>
+<name>[B][COLOR orangered]Midori no Hibi [/B][/COLOR]</name>
+<item>
+<title>[B][COLOR orangered]Midori no Hibi [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://static.zerochan.net/Midori.no.Hibi.full.174251.jpg</thumbnail>
+<fanart>http://images1.fanpop.com/images/image_uploads/Midori-no-Hibi-anime-1182963_1024_768.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLGTlIyj9isjxck0Ta9YGsdLniNOPmbvhd</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://static.zerochan.net/Midori.no.Hibi.full.174251.jpg</thumbnail>
+</item>
+</channel>
+
+<channel>
+<name>[B][COLOR orangered]Ninja Scroll: La Serie[/B][/COLOR]</name>
+<fanart>http://www.ipicstorage.com/images/ninja-scroll/ninja_scroll_05.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]Ninja Scroll: La Serie[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/61CDK8QP4SL.jpg</thumbnail>
+<fanart>http://www.ipicstorage.com/images/ninja-scroll/ninja_scroll_05.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLDFE63D7FF56F8172</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://ecx.images-amazon.com/images/I/61CDK8QP4SL.jpg</thumbnail>
+</item>
+</channel>
+
+<channel>
+<name>[B][COLOR orangered]super agente espacial cobra[/B][/COLOR]</name>
+<fanart>http://carretes.cl/images/700xauto/v-postedin-image-6282.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]super agente espacial cobra[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://farm3.static.flickr.com/2464/3678583356_7f5138e83a_o.gif</thumbnail>
+<fanart>http://carretes.cl/images/700xauto/v-postedin-image-6282.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PL346BB42B2EE60621</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://farm3.static.flickr.com/2464/3678583356_7f5138e83a_o.gif</thumbnail>
+</item>
+</channel>
+
+<channel>
+<name>[B][COLOR orangered]La Ranita Demetan[/B][/COLOR]</name>
+<fanart>http://www.dianamartin.net/wp-content/uploads/2011/11/demetanadelina.jpg</fanart>
+<item>
+<title>[B][COLOR orangered]La Ranita Demetan[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/73/Demetan_Croaker,_The_Boy_Frog.jpg</thumbnail>
+<fanart>http://www.dianamartin.net/wp-content/uploads/2011/11/demetanadelina.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=UUXj9yfvwsikI5CVpLiSmkhQ</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/7/73/Demetan_Croaker,_The_Boy_Frog.jpg</thumbnail>
+</item>
+</channel>
+
+
+<channel>
+  <name>[COLOR white][B]Capitan futuro [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Capit_n_Futuro_Serie_de_TV-256731141-large.jpg</thumbnail>
+  <fanart>http://vignette2.wikia.nocookie.net/doblaje/images/d/df/Capita2.JPG/revision/latest?cb=20100404004231&path-prefix=es</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/xd8srb1skm4twzo/CAPITANFUTURO1978.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Daniel el travieso [/B][/COLOR]</name>
+  <thumbnail>http://www.elfarandi.com/wp-content/uploads/2015/10/DanielElTraviero.png?10ec1a</thumbnail>
+  <fanart>http://www.elfarandi.com/wp-content/uploads/2015/10/DanielElTraviero.png?10ec1a</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/ucbpqfk1wlk503r/DANIELELTRAVIESO.xml</externallink>
+</channel>
+
+
+<channel>
+  <name>[COLOR white][B]Dragones y mazmorras [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Dragones_y_mazmorras_Serie_de_TV-732463360-large.jpg</thumbnail>
+  <fanart>http://www.cookingideas.es/imagenes/2013/05/dungeons-dragons_L39-515x395.jpg?4eafe4</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/uqfue1p4pjcprkg/DRAGONESYMAZMORRAS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]El Autobus Magico [/B][/COLOR]</name>
+  <thumbnail>http://ecx.images-amazon.com/images/I/617G6MEYPDL.jpg</thumbnail>
+  <fanart></fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/6y1qimtt0b5bzx5/El-AutoBus-Magico.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]El lagarto Juancho [/B][/COLOR]</name>
+  <thumbnail>http://2.bp.blogspot.com/-F0kBtm0MMiY/Tl0O6Vl0x8I/AAAAAAAAKLg/j3cYdkP7WDk/s1600/el+lagarto+juancho+personajes.jpg</thumbnail>
+  <fanart>http://2.bp.blogspot.com/-F0kBtm0MMiY/Tl0O6Vl0x8I/AAAAAAAAKLg/j3cYdkP7WDk/s1600/el+lagarto+juancho+personajes.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/tc194q37529aten/ELLAGARTOJUANCHO.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]El reto de los superamigos [/B][/COLOR]</name>
+  <thumbnail>http://2.bp.blogspot.com/-TsrmehK6bM4/ULavcGtzJtI/AAAAAAAAHUQ/ZJ2SOxDpbKg/s640/superfriends.jpg</thumbnail>
+  <fanart>http://2.bp.blogspot.com/-TsrmehK6bM4/ULavcGtzJtI/AAAAAAAAHUQ/ZJ2SOxDpbKg/s640/superfriends.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/61rm5oa9c6ozatn/ELRETODELOSSUPERAMIGOS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Flash Gordon (1970) [/B][/COLOR]</name>
+  <thumbnail>http://3.bp.blogspot.com/_5MBsMEq6KwU/TOyOVj9O93I/AAAAAAAAANQ/moDRlpf3KOI/s1600/flashgordon.jpg</thumbnail>
+  <fanart>http://crazy-frankenstein.com/free-wallpapers-files/cartoons-wallpapers/flash-gordon-wallpapers/flash-gordon-cartoon-wallpapers-1024x768.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/ebrkial54gq5lxk/FLASHDIBUJOS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Garfield Y sus amigos 7seasons [/B][/COLOR]</name>
+  <thumbnail>http://2baliv3.files.wordpress.com/2013/01/garfield-y-sus-amigos1.jpg</thumbnail>
+  <fanart>http://es.web.img2.acsta.net/r_640_600/b_1_d6d6d6/pictures/14/07/04/09/29/271743.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/gdg89te1t4kp6hw/GARFIELDYSUSAMIGOS.xml</externallink>
+</channel>
+
+
+
+<channel>
+  <name>[COLOR white][B]La pantera rosa 124 episodios [/B][/COLOR]</name>
+  <thumbnail>http://www.blogodisea.com/wp-content/uploads/2009/12/dibujos-pantera-rosa-cartoon.jpg</thumbnail>
+  <fanart>http://quienes.info/wp-content/uploads/2015/08/d6086de322f98f66cc694f32ea284557_XL.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/ecvdkwajeufaxiu/LAPANTERAROSA.xml</externallink>
+</channel>
+
+
+<channel>
+  <name>[COLOR white][B]Los simpsons 27 temporadas [/B][/COLOR]</name>
+  <thumbnail>http://cdn.foxplay.com/sites/foxplay-la/files/img/440x660/440x660-series-los_simpson.jpg?ver=acfce390-3d13-42f6-9911-792a6e7bfa28</thumbnail>
+  <fanart>http://nexo-cdn.nexofin.com/archivos/2015/09/los-simpson.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/8sadhe04f17avrq/LOS%20SIMPSONS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Robotech (1985) [/B][/COLOR]</name>
+  <thumbnail>http://vignette1.wikia.nocookie.net/robotech/images/d/d1/Robotech_image.jpg/revision/latest?cb=20100605034507</thumbnail>
+  <fanart>http://g.cdn.ecn.cl/anime/files/2012/04/rick-hunter.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/ls7fywshd4h62fj/ROBOTECH85EPIS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Thundercats 130 epis (1985-1989) [/B][/COLOR]</name>
+  <thumbnail>http://vignette4.wikia.nocookie.net/thundercats/images/4/4f/ThunderCats_poster.jpg/revision/latest?cb=20130901054456</thumbnail>
+  <fanart>http://news.thundercats.ws/wp-content/uploads/sites/6/2013/12/Thundercats.ws-Site-Relaunch.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/qxpcjwnywzdcc2h/THUNDERCARTS130EPIS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Tom and Jerry 161 epis (1985-1989) [/B][/COLOR]</name>
+  <thumbnail>http://files.vividscreen.info/soft/573fac2164563d0d69a84a39c2137e5d/Tom-And-Jerry-tall-l.jpg</thumbnail>
+  <fanart>https://i.ytimg.com/vi/gSK5curwV_o/maxresdefault.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/ty81i76fv8jb36f/TOMANDJERRY161EPIS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Alf 4 temporadas [/B][/COLOR]</name>
+  <thumbnail>https://c1.staticflickr.com/3/2486/4182554718_308d551891_z.jpg?zz=1</thumbnail>
+  <fanart>http://noiselesschatter.com/wp-content/uploads/2013/10/alfep3a.png</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/jc13fcx13hlf5wr/ALF4SEASON.xml</externallink>
+</channel>
+  
+
+<channel>
+  <name>[COLOR white][B]Comando G (1979) [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Comando_G_La_batalla_de_los_planetas_Serie_de_TV-246234790-large.jpg</thumbnail>
+  <fanart>http://1.bp.blogspot.com/-gzN6i-XEEJI/VD1IsaGM61I/AAAAAAAAEOA/gdgCRU6zi9U/s1600/Personajes%2BComando%2BG.jpg</fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/wscaneuawrt3trm/COMANDO%20G%201979.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Ninja Turtles (1987) [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Las_Tortugas_Ninja_Serie_de_TV-302909290-large.jpg</thumbnail>
+  <fanart>http://4.bp.blogspot.com/-y4mvCROvd3Y/U_2TK80llkI/AAAAAAAAAOk/cvzkoexK-aY/s1600/tortugas-ninja-3.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/gchog4pe2xvb4cc/TORTUGASNINJAS1987.xml</externallink>
+</channel>
+
+
+<channel>
+  <name>[COLOR white][B]Los Autos Locos (1968) [/B][/COLOR]</name>
+  <thumbnail>http://ayertv.z2cero.com/wp-content/uploads/2015/06/autolocos.jpg</thumbnail>
+  <fanart>http://vignette1.wikia.nocookie.net/warnerbros/images/d/df/Personajes_01.png/revision/latest?cb=20120904133323&path-prefix=es<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/qkq93fnkddlcxnk/LOSAUTOSLOCOS1968.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Los Cazafantasmas (1986) [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Los_aut_nticos_cazafantasmas_Serie_de_TV-274824594-large.jpg</thumbnail>
+  <fanart>http://i1239.photobucket.com/albums/ff511/AriadnaWolfe/real%20cazafantasmas/1059195-rgbgroup-1.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/z1aqljxlsbb4vtl/LOS%20CAZAFANTASMAS%201986.xml</externallink>
+</channel>
+
+
+<channel>
+  <name>[COLOR white][B]Los Pitufos (1981) [/B][/COLOR]</name>
+  <thumbnail>http://www.comicalia.com/12003-thickbox/los-pitufos-14-los-pitufos-y-los-pitufitos.jpg</thumbnail>
+  <fanart>http://www.metro.pr/_internal/gxml!0/2qijkhn0ctpwx8acoz5fxkpvtmr4nbh$lwmpa8fncl704pxbobu6aeq1q0nooph/pitufos1.jpeg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/bl7kaf270p2yngi/LOSPITUFOS1981.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Los Supersonicos (1962-1988) [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Los_supers_nicos_Serie_de_TV-828287794-large.jpg</thumbnail>
+  <fanart>http://elcine.mx/archivos/dynimagecache/49-0-494-280-600-340/jet002.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/lfdnkgtkafcx2mz/LOSSUPERSONICOS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Megaman (2006) [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/MegaMan_Star_Force_Serie_de_TV-523544087-large.jpg</thumbnail>
+  <fanart>https://upload.wikimedia.org/wikipedia/en/3/3d/Ryusei-cast.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/dgcd3g3vfm94usk/MEGAMAN2006.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Pixie Dixie y el Gato (1958) [/B][/COLOR]</name>
+  <thumbnail>http://multimedia.fnac.com/multimedia/ES/images_produits/ES/ZoomPE/2/2/8/5051893027822.jpg</thumbnail>
+  <fanart>https://i.ytimg.com/vi/C8QQw4pzO-c/hqdefault.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/5hobrizsbwngqoa/PIXIEDIXIEYELGATO%281958%29.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Beware Batman (2013) [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Beware_the_Batman_Cuidado_con_Batman_Serie_de_TV-835763765-large.jpg</thumbnail>
+  <fanart>http://media.dcentertainment.com/sites/default/files/GalleryTV_1900x900_BewareTheBatman_v2_52aea791727889.80028499.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/uyxteq04vbxf48k/BEWAREBATMAN2013.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Birdman (1967) [/B][/COLOR]</name>
+  <thumbnail>http://2.bp.blogspot.com/-1tzVH_rBvTA/UiUwooY-c9I/AAAAAAAAfnI/1JAK04c5Kr4/s1600/birdman.jpg</thumbnail>
+  <fanart>http://www.cuandoerachamo.com/wp-content/uploads/birdman.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/q8kdpfosjrpm0ka/BIRDMAN1967.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Bugs Bunny (1960-1975) [/B][/COLOR]</name>
+  <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTcyOTYwODE5NF5BMl5BanBnXkFtZTgwODM4Mjg1NjE@._V1_UY268_CR87,0,182,268_AL_.jpg</thumbnail>
+  <fanart>https://4.bp.blogspot.com/-lMogdhfHOkw/Vu7qxHYzqTI/AAAAAAAABvE/NQr_aWRXaAYIIeHGHdsWIaTRCK86XB9bw/s640/looney_tunes_all_star.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/o0q65t5ryz0kytz/BUGSBUNNY1960-1975.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Los animaniacs (1993) [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Animaniacs_Serie_de_TV-832495331-large.jpg</thumbnail>
+  <fanart>http://2.bp.blogspot.com/-38RGj37m-yU/VpBat-Tx5mI/AAAAAAAAGJI/awC-8jakIhY/s1600/animaniacs.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/us1894iufmshgti/LOSANIMANIACS1993.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Los autenticos cazafantasmas (1986) [/B][/COLOR]</name>
+  <thumbnail>http://3.bp.blogspot.com/-dpd81BSZLD0/UlrM_xfSAAI/AAAAAAAAGzE/b5nuUFN-wH0/s1600/Ghostbusters+Cover.jpg</thumbnail>
+  <fanart>https://2.bp.blogspot.com/-ajf-U1O89sE/Vtil2QpFlwI/AAAAAAAAIoI/PasXeA8-MbU/s1600/ghostbusters.jpg.400x0_q100_upscale.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/6mjbs9ormpyzqzo/LOSAUTENTICOSCAZAFANTASMAS.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Patoaventuras (1987) [/B][/COLOR]</name>
+  <thumbnail>http://img-youpeliculas.com/images/2015/01/16/pato.jpg</thumbnail>
+  <fanart>http://www.actualizable.com/wp-content/uploads/2015/02/patoaventuras-de-regreso.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/d1xyfgw9ul5p5mx/PATOAVENTURAS1987.xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Scooby Doo Misterios Incorporados (2010) [/B][/COLOR]</name>
+  <thumbnail>http://g02.a.alicdn.com/kf/HTB1l6zuHVXXXXbSXpXXq6xXFXXXl/Tv-Show-Scooby-Doo-font-b-Mystery-b-font-Incorporated-Poster-Measures-20-x-30-Inches.jpg</thumbnail>
+  <fanart>http://g04.a.alicdn.com/kf/HTB1J3nxHVXXXXXsXpXXq6xXFXXXR/Encargo-Tv-Show-scooby-doo-misterio-incorporado-incre&iacute;ble-cremallera-Pillow-Cases-20-x-30-pulgadas-dos.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/niflaqw8x2alqpy/SCOOBYDOO%20MISTERIOS%20INCOR..xml</externallink>
+</channel>
+
+<channel>
+  <name>[COLOR white][B]Spiderman (1994) [/B][/COLOR]</name>
+  <thumbnail>http://pics.filmaffinity.com/Spider_Man_La_serie_animada_Serie_de_TV-184854350-large.jpg</thumbnail>
+  <fanart>http://im.ziffdavisinternational.com/ign_za/screenshot/r/ranking-the-spider-man-animated-series/ranking-the-spider-man-animated-series_pyme.jpg<fanart>
+  <link>http;//none</link>
+  <externallink>https://dl.dropbox.com/s/1pmuachtop0zpy8/SPIDERMAN1994.xml</externallink>
+</channel>
+
+ </channel>
+ 
+   
+
+  
+
+
+
+
+ 
+
+
+ 
+        <channel>
+<name>[COLOR white][B] Gravity Falls [/B][/COLOR]</name>
+ <item>
+    <link>ignoreme</link>
+    <thumbnail>http://i.imgur.com/TOLNjtu.jpg</thumbnail>
+    <fanart>http://i.imgur.com/k6JxEPu.jpg</fanart>
+	<info>Durante las vacaciones de verano, los gemelos Dipper y Mabel Pines viajan desde su casa en Pidemont, California, hasta la ciudad ficticia de Gravity Falls en Oregón, para vivir durante dos meses con su tío abuelo Stan. A pesar de que el pueblo parece un lugar tranquilo, pronto se darán cuenta de que las cosas no son como parecen.</info>
+    <externallink>https://dl.dropbox.com/s/cv461eonmvt3m2c/Gravityfalls.xml?dl=0</externallink>
+    <date>2015</date>
+	<genre>Aventura | Comedia | Animación</genre>	
+ </item>
+ 
+ </channel>
+
+
+  <!-- Saint seya yul-->
+
+  <channel>
+   <name>[COLOR white][B] Saint Seya [/B][/COLOR]</name>
+   <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/ed/17/1f/ed171f63a216d57de2f3d38eea9c978a.jpg</thumbnail>
+   <fanart>http://blog.honeyfeed.fm/wp-content/uploads/2015/06/Saint-Seiya-wallpaper-01.jpg</fanart>
+   <items>
+   <externallink>https://dl.dropbox.com/s/l0c2vz3w9q6i9ds/SAINTSEYA.xml</externallink>
+   </items>
+   <info>SERIES infantiles</info>	  	 
+</channel>	
+
+<!-- Mazinger Z yul-->
+<channel>
+   <name>[COLOR white][B] Mazinger Z [/B][/COLOR]</name>
+   <thumbnail>http://img11.deviantart.net/aa17/i/2009/350/e/8/mazinger_z___mazinga_z_by_zer013.jpg</thumbnail>
+   <fanart>http://www.gunjap.net/site/wp-content/uploads/2013/01/590.jpg</fanart>
+   <items>
+   <externallink>https://dl.dropbox.com/s/smij0snncx2xd5l/mazingerz.xml</externallink>
+   </items>
+   <info>SERIES infantiles</info>	  	 
+</channel>	
+
+<channel>
+   <name>[COLOR white][B] Looney Tunes [/B][/COLOR]</name>
+   <thumbnail>http://www.gennybiancheria.it/images/20150530154855-looneytunes.jpg</thumbnail>
+   <fanart>http://img2.wikia.nocookie.net/__cb20130613154220/looneytunes/images/7/70/Looney_tunes_crowd_by_matthewhunter-d4id44c.jpg</fanart>
+   <items>
+   <externallink>https://dl.dropboxusercontent.com/u/354505602/looneytoon.m3u</externallink>
+   </items>
+   <info>SERIES infantiles</info>	  	 
+</channel>	
+
+
+<channel>
+<name>[B][COLOR orangered]Great Teacher Onizuka [/B][/COLOR]</name>
+<item>
+<title>[B][COLOR orangered]Great Teacher Onizuka [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://img1.ak.crunchyroll.com/i/spire4/b722d843d4e50ef88573c5ba38af2ea51374055143_full.jpg</thumbnail>
+<fanart>http://i1181.photobucket.com/albums/x433/laxgirl18/OnizukaEikichifull291265_zpsdba55e95.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLDoa9YpIR-_CvxDgtz0YnMzFBNWy-Gkli</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://img1.ak.crunchyroll.com/i/spire4/b722d843d4e50ef88573c5ba38af2ea51374055143_full.jpg</thumbnail>
+</item>
+</channel>
+<channel>
+<name>[B][COLOR orangered]Sora no otoshimono capitulo [/B][/COLOR]</name>
+<item>
+<title>[B][COLOR orangered]Sora no otoshimono capitulo [/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://submanga.org/resources/uploads/manga/sora-no-otoshimono/caratula/sora-no-otoshimono.jpg</thumbnail>
+<fanart>https://jitboy2.files.wordpress.com/2015/01/20087-sora2bno2botoshimono2bforte.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLqBJD7KANFFKfsyNP0vXKOAA21GoY5Nqj</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://submanga.org/resources/uploads/manga/sora-no-otoshimono/caratula/sora-no-otoshimono.jpg</thumbnail>
+</item>
+</channel>
+
+
+
+
+
+
+	<channel>
+     <name>[COLOR orangered] [B]Anti Magic Academy 35[/B][/COLOR]</name>
+	 <thumbnail>http://static.tvtropes.org/pmwiki/pub/images/476545.png</thumbnail>
+     <fanart></fanart>
+	 <info>Academia Antimagia, son uno de los escuadrones de matriculados en la academia especializada en la crianza de los cazadores de brujas, cuyo trabajo consiste en encontrar, neutralizar cualquier amenaza magica.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZV3JUMGdpVVFtYzg</externallink>
+      </items>	
+    </channel>
+
+<channel>
+<name>[B][COLOR orangered] Toradora[/COLOR][/B]</name>
+<thumbnail>http://img1.ak.crunchyroll.com/i/spire2/0c40842ee6753a33e292ab258eb901171406587958_full.jpg</thumbnail>
+<fanart>http://img1.ak.crunchyroll.com/i/spire2/0c40842ee6753a33e292ab258eb901171406587958_full.jpg</fanart>
+<externallink>http://deadpool.hostingvm.com/deadpool/anime/series/toradora/toradora.m3u</externallink>
+</channel>
+
+<channel>
+     <name>[COLOR orangered] [B]Blood C[/B][/COLOR]</name>
+	 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e8/Blood-C_dvd_cover.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La historia sigue a Saya Kisaragi como alumna de segundo curso del Instituto Privado Sanabara, donde lleva una vida normal y disfruta de su diario vivir.Sin embargo,su padre le encomienda la misión como heredera del templo</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZUV9SYU9GNnlHM2c</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR orangered] [B]Bubuki Buranki[/B][/COLOR]</name>
+	 <thumbnail>http://animekun.ru/thumbs/users/31715/1436106685/Postery/Bubuki-Buranki-900.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Azuma Akira regresa a Japón tras haber estado fuera diez años solo para que un grupo de extraños armados le ataquen y lo capturen</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZRFFYY3FoNTVvOHM</externallink>
+      </items>	
+    </channel>
+<channel>
+     <name>[COLOR orangered] [B]Code Geass[/B][/COLOR]</name>
+	 <thumbnail>https://c1.staticflickr.com/5/4130/4836091185_a1fdb10585.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>En el futuro el imperio de Britania ha conquistado medio mundo, incluido japón, ahora llamado área 11. Los elevens (japoneses) ahora son tratados como humanos inferiores en contraposición a los colonos que son nobles</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZemRxWExiY285dmc</externallink>
+      </items>	
+    </channel>
+<channel>
+     <name>[COLOR orangered] [B]Comet Lucifer[/B][/COLOR]</name>
+	 <thumbnail>https://upload.wikimedia.org/wikipedia/en/e/e7/Comet_Lucifer_promo.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Gift es un mundo cubierto de cristales brillantes azules llamados gifdium. Sougo Amagi es un chico que vive en la ciudad de Jardín Indigo, que ha prosperado con la extracción de estos cristales</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZTnFqNndmSHIwYVE</externallink>
+      </items>	
+    </channel>
+		
+	 <channel>
+     <name>[COLOR orangered] [B]D Gray Man[/B][/COLOR]</name>
+	 <thumbnail>https://i.ytimg.com/sh/q4RO7Ka2i1o/showposter.jpg?v=4fd92713<thumbnail>
+     <fanart></fanart>
+	 <info>La historia se centra en el joven Allen Walker, un exorcista, durante un imaginario siglo XIX en Europa. Allen se convierte en miembro de la Orden Negra, una organización religiosa integrada por exorcistas de todo el mundo, la cual está vinculada al Vaticano. La misión de dicha organización es detener al Conde del Milenio, una malvada entidad demoníaca que pretende limpiar el mundo destruyendo a la humanidad, haciendo uso de sus armas llamadas Akuma. Los exorcistas son personas compatibles con la Inocencia, una sustancia divina creada en el pasado. Se dice que hay 109 trozos de Inocencia esparcidos por todo el mundo, una vez que la Inocencia encuentra a su persona compatible, evoluciona en un arma anti-Akuma. Esto se convierte en una carrera entre la Orden Negra y el Conde del milenio y sus aliados por conseguir la Inocencia.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZV2lSV3QzVkw5Nms</externallink>
+      </items>	
+    </channel>
+	
+	
+
+	<channel>
+     <name>[COLOR orangered] [B]Dimension W[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/6/77478.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>En el año 2071, los problemas energéticos parecen haberse resuelto gracias a una red interdimensional de inductores -las “bobinas”- que extraen energía de una fuente aparentemente infinita. Esta fuente es la Dimension W, un cuarto plano que existe más allá </info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZdXV5OUpUQjhET2s</externallink>
+      </items>	
+    </channel>
+			
+	
+	
+	
+		
+	
+	<channel>
+     <name>[COLOR orangered] [B]Devil Survivor[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/11/47191l.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Basado en el juego de Atlus, la historia nos sitúa en Japón, que está siendo invadido por extrañas criaturas conocidas como Septentriones, que acabarán con el mundo en 7 días. Mientras tanto, 13 humanos elegidos deberán formar contratos con demonios para poder salvar a la Tierra de estos invasores del espacio antes de que el vació se trague al mundo.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZeE9udnlNX2laMkk</externallink>
+      </items>	
+    </channel>
+	
+	
+<channel>
+     <name>[COLOR orangered] [B]Charlotte[/B][/COLOR]</name>
+	 <thumbnail>https://upload.wikimedia.org/wikipedia/en/3/32/Charlotte_key.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Muy pocos chicos y chicas adolescentes desarrollan habilidades especiales. Yu Otosaka es un joven que usa su habilidad sin que otros lo sepan con el fin de llevar una vida escolar satisfactoria</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZNklRZW9TWnkwWGM</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR orangered] [B]Dance in the Vampire Bund[/B][/COLOR]</name>
+	 <thumbnail>https://thesolitarybookworm.files.wordpress.com/2012/06/dsc00719-e1340469031553.jpg?w=225&amp;h=300</thumbnail>
+     <fanart></fanart>
+	 <info>Después de miles de años escondiéndose, Mina Tepes, la Princesa y gobernadora de todos los vampiros, quiere un cambio. Usando la amplia fortuna del linaje Tepes, ella ha pagado todo la deuda nacional de Japón y al hacerlo, ha ganado</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZTHNvYUtKQllIc2s</externallink>
+      </items>	
+    </channel>
+<channel>
+     <name>[COLOR orangered] [B]Date A Live[/B][/COLOR]</name>
+	 <thumbnail>http://st-listas.20minutos.es/images/2014-09/387036/4530045_249px.jpg?1410642575</thumbnail>
+     <fanart></fanart>
+	 <info>tsuka Shidou es un estudiante de instituto que, durante las vacaciones, vive en primera persona un suceso sin igual. Ante él aparece una chica con armadura, que destruye la ciudad que tiene delante</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZYmJiYU1ERHNXTmc</externallink>
+      </items>	
+    </channel>
+
+
+<channel>
+     <name>[COLOR orangered] [B]Devil May Cry[/B][/COLOR]</name>
+	 <thumbnail>http://orig09.deviantart.net/3317/f/2014/363/b/9/__ico__devil_may_cry_by_sotuma-d8bnxvr.png</thumbnail>
+     <fanart></fanart>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZR0d6MnZWSjQwbFk</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR orangered] [B]Element Hunters[/B][/COLOR]</name>
+	 <thumbnail>http://s.emuparadise.org/fup/up/50399-Element_Hunters_(JP)-1.png</thumbnail>
+     <fanart></fanart>
+	 <info>En el año 2029, una gran porción de tierra se hundió en el mar Mediterráneo. Los elementos químicos como el oxígeno, el carbono, el oro, el molibdeno, o el cobalto desaparecieron de la superficie de la Tierra de repente</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZcjZOSno1RGFwU0k</externallink>
+      </items>	
+    </channel>
+	
+	
+	
+
+	
+	<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]FULLMETALALCHEMISTBROTHERHOOD[/COLOR][/B]</name>
+<info></info>
+	<thumbnail>http://vignette2.wikia.nocookie.net/fma/images/e/e9/Fmab-poster.png/revision/latest?cb=20131124145205</thumbnail><fanart>http://www.ultrahighdefinitionwallpapers.com/wp-content/uploads/2015/04/fullmetal-alchemist-uhd-wallpapers-1280x720.jpg</fanart>
+	<link>http://nofunciona</link>
+	<externallink>http://projectv.pw/V32tech/d0saArYX/Asia/anime/full%20metal%20alchemist%20btotherhood.xml</externallink>
+	</channel>
+	
+
+		
+	<channel>
+<name>[COLOR orangered][B]DRAGON[/COLOR][/B][B][COLORorangered] BALL[/COLOR][/B]</name>
+<info></info>
+<thumbnail>http://addon.projectv.pw/projectv/anime/dragonballz10.jpg</thumbnail>
+<fanart>http://addon.projectv.pw/projectv/anime/dragonballf.jpg</fanart>
+	<link>http://nofunciona</link>
+	<externallink>http://peraltarepo.netai.net/Peralta-List/dragonball2.xml</externallink>
+	</channel>
+	
+
+	
+	
+	<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]SlamDunk[/COLOR][/B]</name>
+<info></info>
+	<thumbnail>http://g03.a.alicdn.com/kf/HTB1qyAxHVXXXXbnXVXXq6xXFXXXB/Good-Quality-8-pcs-set-Different-Designs-Anime-A3-Posters-Slam-Dunk-Hanamichi-Sakuragi-Kaede-Rukawa.jpg</thumbnail><fanart>http://i.ytimg.com/vi/GaeqjVJqH_U/maxresdefault.jpg</fanart>
+	<link>http://nofunciona</link>
+	<externallink>http://projectv.pw/V32tech/d0saArYX/Asia/anime/slam%20dunk.xml</externallink>
+	</channel>
+	<channel>
+<name>[B][COLOR orangered]RANMA[/B][/COLOR]</name>
+<item>
+<title>[B][COLOR orangered]RANMA[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/236x/a7/d0/da/a7d0daa7a0d88c38c2abd1db9e226ffa.jpg</thumbnail>
+<fanart>http://pa1.narvii.com/5778/b784f6ff97fc3ca5ae2ae404ff80f1af0d5d9174_hq.gif</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLId42vjME5v9vdxP-noHMA3oe8iiSdQ8U</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://i8.mangareader.net/ranma-12/2/ranma-12-2312217.jpg</thumbnail>
+</item>
+</channel>
+
+<channel>
+<name>[B][COLOR orangered]Okusama ga Seito Kaich[/B][/COLOR]</name>
+<item>
+<title>[B][COLOR orangered]Okusama ga Seito Kaich[/B][/COLOR]</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[B][COLOR orangered][makelist.param2][/B][/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?video_id=[makelist.param1]</link>
+<thumbnail>http://www.animeyt.tv/files/img/series/s_1175_poster.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-tAF93JMtXwU/VbwSC-8xhEI/AAAAAAAAFy8/s1Psn3feIZU/s640/Okusama-ga-Se.jpg</fanart>
+]]></listrepeat>
+<expres>\s?.data-video-id="(.*?)".*data-title="(.*?)"</expres>
+<page>https://www.youtube.com/playlist?list=PLId42vjME5v8FRk4fz8qPXam2sHxrEqYY</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.animeyt.tv/files/img/series/s_1175_poster.jpg</thumbnail>
+</item>
+</channel>
+
+  
+
+
+
+<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]Gantz[/COLOR][/B]</name>
+<info></info>
+<thumbnail>http://pics.filmaffinity.com/Gantz_Serie_de_TV-977943677-large.jpg</thumbnail>
+<fanart>http://2.bp.blogspot.com/-pkB0X8ML7vA/Tc2ntr1gTII/AAAAAAAAACk/96L6j3U5OC4/s1600/gantz_1024_5.jpg</fanart>	
+<link>http://nofunciona</link>
+	<externallink>http://peraltarepo.netai.net/Peralta-List/Gantz.xml</externallink>
+	</channel>
+
+
+	<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]CandyCandy[/COLOR][/B]</name>
+<info></info>
+	<thumbnail>http://addon.projectv.pw/projectv/anime/candy.jpg</thumbnail>
+<fanart>http://addon.projectv.pw/projectv/anime/candyf.jpg</fanart>
+	<link>http://nofunciona</link>
+	<externallink>http://peraltarepo.netai.net/Peralta-List/newxml/candy.xml</externallink>
+	</channel>
+	
+	<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]SuperCampeonesSerieOriginal[/COLOR][/B]</name>
+<info></info>
+	<thumbnail>http://i.imgur.com/K59Sol7.jpg</thumbnail><fanart>http://k31.kn3.net/taringa/2/0/0/5/9/1/52/alkanvlogswe/F0B.jpg?6146</fanart>
+	<link>http://nofunciona</link>
+	<externallink>http://projectv.pw/V32tech/d0saArYX/Asia/anime/Super%20Campeones%20Original.xml</externallink>
+	</channel>
+	
+	
+	<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]ElfenLied[/COLOR][/B]</name>
+<info></info>
+	<thumbnail>http://addon.projectv.pw/projectv/anime/elfen.jpg</thumbnail>
+<fanart>http://addon.projectv.pw/projectv/anime/elfenf.jpg</fanart>
+	<link>http://nofunciona</link>
+	<externallink>https://googledrive.com/host/0BxL3_RxjXiMZNkdybTdYNDdlM2M</externallink>
+	</channel>
+	
+	<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]InouBattlewaNichijou-keinoNaka[/COLOR][/B]</name>
+<info>Enlahistoria,ungrupodechicosychicasderepenteadquierenpoderessupernaturales.ListosparalucharenbatallasgalÃ¡cticasparadefenderlacausahumana...sedancuentadequenohayguerras,conspiraciones,nohayimperiosmalignos,nadaensuvidaescolar.Entoncesdecidendivertirsemalgastandosuspoderes.</info>
+<thumbnail>https://13andxiv.files.wordpress.com/2014/10/inou-battle-wa-nichijou-kei-no-naka-de.jpeg</thumbnail><fanart>https://littlecloudcuriosity.files.wordpress.com/2014/10/inou-battle-wa-nichijou-kei-no-naka-de-episode-1-21.jpg</fanart>
+	<link>http://nofunciona</link>
+	<externallink>http://projectv.pw/V32tech/d0saArYX/Asia/anime/Inou%20Battle%20wa%20Nichijou-kei%20no%20Naka.xml</externallink>
+	</channel>
+	
+<item>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered][B]AkagamegaKill[/COLOR][/B]</name>
+<link>ignoreme</link>
+<thumbnail>http://g02.a.alicdn.com/kf/HTB1oj3gHVXXXXX.XXXXq6xXFXXXt/Top-Selling-73-Akame-Ga-Kill-Girl-Katana-50x75cm-Poster-Best-Decal-Wall-Paper.jpg</thumbnail>
+	<fanart>http://images5.alphacoders.com/605/605794.jpg</fanart>
+	<info>SeriedeTV(2013).25episodios.'AtaquealosTitanes'esunaseriebasadaenelmangadelmismonombredirigidaporTetsuroAraki(DeathNote,GuiltyCrown...)protagonizadaporungrupoderesidentesdeunaciudadrodeadademurallas,paraprotegeralapoblacióndelosataquesdegigantescaníbales,quienesdevezencuandoconsiguenentrarenellugar.</info>
+<externallink>https://dl.dropbox.com/s/vr9ax25dkstd82s/temporada1.xml</externallink>
+<date>201</date>
+	<genre>ANIME</genre>	
+</item>
+</channel>
+
+
+
+<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]DateaLive[/COLOR][/B]</name>
+
+<item>
+<link>ignoreme</link>
+<thumbnail>https://supr.com/data/29352/files/date-a-live-japanese-anime-wall-scroll-poster-and-banner-8.jpeg</thumbnail>
+	<fanart>https://vangakuz.files.wordpress.com/2013/05/date-a-live.jpg</fanart>
+	<info></info>
+<externallink>https://dl.dropbox.com/s/cagwfronvcdaslm/datemain.xml</externallink>
+<date></date>
+	<genre>ItsukaShidouesunestudiantedeinstitutoque,durantelasvacaciones,viveenprimerapersonaunsucesosinigual.Anteélapareceunachicaconarmadura,quedestruyelaciudadquetienedelante.LachicarespondeanteelnombredeTooka,ysegúnlahermanadeShidou,esunespíritu,loscualescausaronunterremotoespacio-temporal30añosatrás.LahermanadeShidourevelaquesuverdaderaidentidadesladelalíderdelaorganizaciónRatatoskylecuentaaShidouquelaúnicamaneraquetienendesalvarelmundoeshacerqueTookaseacabeenamorandodeélytenganunacita</genre>	
+</item>
+</channel>
+
+<channel>
+     <name>[COLOR orangered] [B]Gakusen Toshi Asterisk[/B][/COLOR]</name>
+	 <thumbnail>http://vignette4.wikia.nocookie.net/gakusen-toshi-asterisk/images/c/cd/Anime_characters.png/revision/latest?cb=20151009024828</thumbnail>
+     <fanart></fanart>
+	 <info>En el siglo pasado, la humanidad fue atacada por un desastre sin precedentes… el impacto “Invertia”. El mundo fue completamente destruido. Sin embargo, los humanos adquirieron un nuevo poder</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZWVpBSXIzMUpWMk0</externallink>
+      </items>	
+    </channel>
+
+	
+		
+
+	
+	<channel>
+     <name>[COLOR red] [B]Heavy Object[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/13/75940l.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La serie de ciencia ficción y acción está protagonizada por Objects, armas muy poderosas que son capaces de cambiar el curso de las guerras, y los pilotos Elite Object</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZYnNKNGxSLU1kTms</externallink>
+      </items>	
+    </channel>
+	
+	
+	
+	
+	<channel>
+     <name>[COLOR orangered] [B]Ghost in the Shell[/B][/COLOR]</name>
+	 <thumbnail>http://www.gamekeys.cc/gamespic/2702459-rsz_ghost-in-the-shell-online-4.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La serie tiene lugar en el Japón del año 2029, tras el alza de este país como imperio económico debido al “milagro japonés” (reciclaje de residuos nucleares). La historia gira en torno a la organización de fuerzas especiales Sección 9, y en particular en torno a su segunda de abordo tras Daisuke Aramaki, la Mayor Motoko Kusanagi.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZQ1NKd3JYNzdMWUE</externallink>
+      </items>	
+    </channel>
+	
+	
+	
+	<channel>
+     <name>[COLOR orangered] [B]Grimgar[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/13/77976l.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La historia está protagonizada por Haruhiro, que cuando se despierta, está en un sitio oscuro. No sabe dónde está, ni por qué está ahí, y ni siquiera desde dónde ha llegado</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZblg2aXVWTEhBZm8</externallink>
+      </items>	
+    </channel>
+	
+<!--Gate!-->
+
+
+	<channel>
+     <name>[COLOR red] [B]Heavy Object[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/13/75940l.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La serie de ciencia ficción y acción está protagonizada por Objects, armas muy poderosas que son capaces de cambiar el curso de las guerras, y los pilotos Elite Object</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZYnNKNGxSLU1kTms</externallink>
+      </items>	
+    </channel>
+
+<!--Grimgar!-->
+
+<channel>
+     <name>[COLOR red] [B]Hundred[/B][/COLOR]</name>
+	 <thumbnail>http://orig15.deviantart.net/a572/f/2016/070/a/e/hundred_anime_icon_by_wasir525-d9uooaq.png</thumbnail>
+     <fanart></fanart>
+	 <info>Savage es una misteriosa forma de vida que ha llegado a la tierra en un plan hostil, y la única arma que puede hacerle frente es la Hundred</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZLVdZR2xCcVVrd00</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR orangered] [B]Is this a Zombie[/B][/COLOR]</name>
+	 <thumbnail>https://musicimage.xboxlive.com/catalog/video.tvseason.8D6KGWZL68G8/image?locale=en-us&w=280&h=280&purposes=BoxArt</thumbnail>
+     <fanart></fanart>
+	 <info>Un perezoso chico de preparatoria llamado Ayumu Aikawa es asesinado por un homicida en serie, mas una chica llamada “Y&#363;” (Eucliwood Hellscythe) lo resucita como un zombie</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZLWFtVXdtWkJNdjA</externallink>
+      </items>	
+    </channel>
+	
+	
+			
+	
+	
+	<channel>
+     <name>[COLOR orangered] [B]Kekkai Sensen[/B][/COLOR]</name>
+	 <thumbnail>http://2.bp.blogspot.com/-Ffwo9eZVNHw/VWtCvUFlbxI/AAAAAAABazE/Q5lgCC6puaU/s1600/Kekkai%2BSensen.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La historia se desarrolla en Nueva York, donde se ha abierto una brecha entre la Tierra y el inframundo, y de la que surgen criaturas de otras dimensiones</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZOXZvWkdCTTRrT1E</externallink>
+      </items>	
+    </channel>
+		
+	<channel>
+     <name>[COLOR orangered] [B]Kiba[/B][/COLOR]</name>
+	 <thumbnail>http://p1.i.ntere.st/964ecadc52a4d541218557ac616e8e8f_480.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Un día, araido por un viento misterioso, Zed se zambulle en una hendidura del espacio-tiempo (portal), buscando las respuestas que pudieran estar allí. Llevado por el viento, él consigue transportarse a un mundo en guerra, en el cual libran batallas los “Shard Caster”, usuarios mágicos que usan seres que invocan mediante esferas llamadas “Shiftings”, con las cuales también usan spirits</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZTnhQWFlIRmt0Tkk</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR red] [B]Koutetsujou No Kabaneri[/B][/COLOR]</name>
+	 <thumbnail>http://images.gogoanime.tv/cover/koutetsujou-no-kabaneri.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La historia de “acción y supervivencia steampunk” se desarrollará en un país isla llamado Hinomoto. Allí los humanos se ocultan en fortalezas llamadas “estaciones” de unos seres similares a los zombis pero con corazón de hierro, los “Kabane”. Solo unas locomotoras blindadas especiales llamadas “Hayajiro” viajan entre las estaciones.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZTWZRbWgtM0xmQzA</externallink>
+      </items>	
+    </channel>
+	\	
+	<channel>
+     <name>[COLOR orangered] [B]Luck and Logic [/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/5/77134l.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La historia se desarrolla en un mundo en el que un concepto llamado “Lógica” gobierna todos los aspectos de la vida, incluyendo las emociones, el talento, los recuerdos e incluso los dioses</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZaDk3cjFhY0ctSU0</externallink>
+      </items>	
+    </channel>
+	
+	
+		
+	<channel>
+     <name>[COLOR orangered] [B]Noragami[/B][/COLOR]</name>
+	 <thumbnail>http://static.zerochan.net/Noragami.full.1612847.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Yato es un dios menor cuyo sueño es tener una gran cantidad de seguidores que lo adoren y recen plegarias por él. Desafortunadamente, su sueño está lejos de hacerse realidad, ya que no tiene ni siquiera un solo santuario dedicado</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZV0F4M3lIcFN2RDA</externallink>
+      </items>	
+    </channel>
+		<channel>
+     <name>[COLOR orangered] [B]Sacred Seven[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/12/34505l.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Tandoji Alma, 17 años de edad. Despues de ciertos eventos del pasado en los cuales se ve involucrado en la matanza de muchas personas trata de mantenerse alejado de todas las personas debido a sus crisis, pero esto no durara</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZUzlZb3hBN1hfYTQ</externallink>
+      </items>	
+    </channel>
+	
+	<channel>
+     <name>[COLOR orangered] [B]Saijaku Muhai no Bahamut[/B][/COLOR]</name>
+	 <thumbnail>http://4.bp.blogspot.com/-hxLKoJDMsPI/VpQs2ka3IWI/AAAAAAAALN0/MPFi5ibTwrg/s1600/76664l.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Lux fue príncipe de un imperio llamado Arcadia que fue derrocado por una rebelión hace cinco años. Accidentalmente, Lux se mete en la zona de baños de un dormitorio femenino, ve a la nueva princesa del imperio desnuda, y desata su ira. La muchacha, llamada Lisesharte, reta a Lux a un duelo con Drag-Ride, unas antiguas armas mecánicas blindadas que se han rescatado de ruinas de lugares de todo el mundo.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZcFpyMG10bndYTUE</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR orangered] [B]Soukyuu No Fafner[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/5/68565.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La Tierra ha sido devastada por unos seres llamados Festum. En una remota isla japonesa llamada Isla Tatsumiya, la gente ha logrado sobrevivir escondiéndose de los Festums usando la más avanzada tecnología</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZTDZjM08wNUZWNHc</externallink>
+      </items>	
+    </channel>
+			<channel>
+     <name>[COLOR orangered] [B]Shinrei Tantei Yakumo[/B][/COLOR]</name>
+	 <thumbnail>http://img.bato.to/forums/uploads/dd3b906c71550965235b3b0b98b14e81.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>La historia se centra en un chico de secundaria , Yakumo Saitou que nació con ojos de distintos colores. Su ojo izquierdo rojo tiene la habilidad de ver espíritus y fantasmas</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZUnRLbjg0NUt6aTg</externallink>
+      </items>	
+    </channel>
+		<channel>
+     <name>[COLOR orangered] [B]Shiki[/B][/COLOR]</name>
+	 <thumbnail>http://i58.tinypic.com/son912.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>En un pequeño pueblo llamado Sotoba, en un particular caluroso verano, extrañas y numerosas muertes comienzan a suceder en cadena. El pueblo va camino a su desaparición y depende de los aldeanos su salvación. Al mismo tiempo una gran familia de alta clase se muda al lugar, levantando sospechas sobre su repentina llegada y sus particulares costumbres.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZS08xZEpTT2dyY3M</externallink>
+      </items>	
+    </channel>
+	
+	
+
+	
+	<channel>
+     <name>[COLOR orangered] [B]Towa no Quon[/B][/COLOR]</name>
+	 <thumbnail>https://upload.wikimedia.org/wikipedia/en/b/b4/Towa_no_Quon.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Towa no Quon es una serie de películas animadas de tema sobrenatural dirigidas por Umanosuke Lida que se desarrolla en el Tokio del futuro, seres humanos que han adquirido poderes únicos son perseguidos por una organización secreta denominada Custos. Estas …</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZeDRSSG1PUlc4QU0</externallink>
+      </items>	
+    </channel>
+	<channel>
+     <name>[COLOR red] [B]Twin Star Exorcists[/B][/COLOR]</name>
+	 <thumbnail>http://img1.ak.crunchyroll.com/i/spire2/0d9b4b1ea1fa85abd0472c0d1314c2601458583811_full.png</thumbnail>
+     <fanart></fanart>
+	 <info>Rokuro es un chaval que sueña en convertirse en cualquier cosa menos en exorcista. Un día aparece la misteriosa Benio y descubren que están destinados a casarse, por lo que empiezan a ser conocidos como los “Exorcistas de las Estrellas Gemelas”. ¿Podrá escapar Rokuro de ambas cosas? Pues la cosa se complica más cuando su amigo Ryogo desaparece y se ve obligado a pedirle ayuda a Benio para entrar en Magano, el tenebroso reino de Kegare, para rescatarle.</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZQmZ0ME5zaXBXdVU</externallink>
+      </items>	
+    </channel>
+	
+<channel>
+     <name>[COLOR orangered] [B]Owari No Seraph[/B][/COLOR]</name>
+	 <thumbnail>http://vignette4.wikia.nocookie.net/owarinoseraph/images/6/65/Owari_no_Seraph_Cover_6.png/revision/latest?cb=20131114192140</thumbnail>
+     <fanart></fanart>
+	 <info>Un día un misterioso Virus apareció sobre la Tierra, el cual mata a cualquier ser Humano infectado que tenga más de 13 años. Mientras tanto, los Vampiros emergieron de sus cuevas, y esclavizaron a la Humanidad</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZTWZZRVAxbnZ2a2s</externallink>
+      </items>	
+    </channel>
+	
+	
+	
+	<channel>
+     <name>[COLOR orangered] [B]Manyu Hiken Cho[/B][/COLOR]</name>
+	 <thumbnail>http://4.bp.blogspot.com/-jGdEwVcGdJE/TpNWE7czI_I/AAAAAAAABA8/_6XLUSq1xvs/s1600/Manyu%2BHiken%2BChou.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>En esta era actual, los senos significan todo. Si tiene los senos, se le garantiza la riqueza y la popularidad. y Si les falta, que rara vez se considera “humano”. Los miembros del Clan Manyuu ayudaran a aumentar los pechos grandes en el futuro</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZUW50ckF5YW0tZ1U</externallink>
+      </items>	
+    </channel>
+	
+
+
+
+
+
+<channel>
+     <name>[COLOR orangered] [B]Samurai X[/B][/COLOR]</name>
+	 <thumbnail>https://s-media-cache-ak0.pinimg.com/236x/7e/34/a5/7e34a5085b0887e21f2c5e931697823e.jpg</thumbnail>
+     <fanart></fanart>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZaTk3Ui1XWV8tX00</externallink>
+      </items>	
+    </channel>
+
+
+	
+	
+	<channel>
+     <name>[COLOR orangered] [B]Parasyte[/B][/COLOR]</name>
+	 <thumbnail>https://sociorocketnewsen.files.wordpress.com/2014/10/fa-31.png</thumbnail>
+     <fanart></fanart>
+	 <info>historia de la obra se sitúa en un mundo en el que unos alienígenas llamados Parásitos llegan a la Tierra. Poco a poco comienzan a poseer a los humanos a base de entrar por sus orejas y fosas nasales, adhiriendo a sus cerebros</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZdmJxMlg0X2plaGc</externallink>
+      </items>	
+    </channel>
+	
+<channel>
+     <name>[COLOR orangered] [B]Rakudai Kishi No Cavalry[/B][/COLOR]</name>
+	 <thumbnail>http://blog.honeyfeed.fm/wp-content/uploads/2015/08/A-tale-of-worst-one-500x747.png</thumbnail>
+     <fanart></fanart>
+	 <info>La historia gira en torno a los Caballeros Mágicos, usuarios modernos de la magia que luchan con sus propias almas convertidas en armas. Ikki Kurogane asiste al colegio de estos caballeros</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZLUlXSGxpaFlJVkk</externallink>
+      </items>	
+    </channel>
+	
+	
+	<channel>
+     <name>[COLOR red] [B]ReZero Kara Hajimeru[/B][/COLOR]</name>
+	 <thumbnail>http://i.imgur.com/ZuCp7Bd.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZUDVPWXdsTXVZTkU</externallink>
+      </items>	
+    </channel>
+	
+
+	<channel>
+     <name>[COLOR orangered] [B]World Trigger[/B][/COLOR]</name>
+	 <thumbnail>http://www.gogoanime.com/images/world-trigger-toubousha-hen.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Un día, en la Ciudad Mikado, una puerta de entrada a un universo paralelo se había abierto. Salidos de ella, una especie de alienígenas conocidos como Neighbors hicieron estragos en toda la ciudad, con su sofisticada tecnología</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZeUxHWDI2aTFWTGs</externallink>
+      </items>	
+    </channel>
+	
+	
+
+<channel>
+<name>[COLORdodgerblue][B][/COLOR][/B][B][COLORorangered]TokyoMagnitude[/COLOR][/B]</name>
+
+<item>
+<link>ignoreme</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/71EY7gJFb6L._SL1280_.jpg</thumbnail>
+<fanart>http://ib3.huluim.com/show_key_art/16127?size=1600x600&region=US</fanart>
+	<info></info>
+<externallink>https://dl.dropbox.com/s/fhgsx25ak8gt3ou/Tokyo%20Magnitude.xml</externallink>
+<date>2016</date>
+	<genre>Cienciaficcion</genre>	
+</item>
+</channel>
+<channel>
+<name>[B][COLOR white]Vampire Knight[/COLOR][/B]</name>
+   
+ <item>
+    <link>ignoreme</link>
+    <link>https://dl.dropbox.com/s/9oi0a5ll4hrwej6/VK%2002%20%5Bwww.animemf.net%5D%20Seba_767.mp4</link>
+	<thumbnail>http://s.sidereel.com/tv_shows/14677/giant_2x/81816-7.jpg</thumbnail>
+	<info> episodios. Lo primero que Yuuki recuerda de su vida es estar perdida en mitad del invierno y ser atacada por un vampiro fuera de control. Otro vampiro, Kuran Kaname, la salva, y la lleva con el que se convierte en su padre adoptivo: el director de la Academia Cross. Esta academia de élite oculta un secreto. Los alumnos de la Clase de Noche son en realidad vampiros, ya que el director y Kuran Kaname creen que es posible una convivencia pacífica de humanos y vampiros. Yuuki y Zero, un chico procedente de una familia de cazadores de vampiros cuyos padres fueron asesinados por un vampiro varios años atrás, son los únicos de la Clase de Dia que conocen el secreto, y se ocupan de mantener el orden en la Academia. Zero odia a los vampiros más que a nada en el mundo, pero a su vez también oculta un gran secreto<info>
+    <externallink>https://dl.dropbox.com/s/w1tt3pf8wo4kjee/vampirekmain.xml</externallink>
+    <date>2008</date>
+	<genre>Anime</genre>	
+ </item>
+  </channel>
+<channel>
+     <name>[COLOR red] [B]ReZero Kara Hajimeru[/B][/COLOR]</name>
+	 <thumbnail>http://i.imgur.com/ZuCp7Bd.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>En la historia, Subaru Natsuki es un estudiante corriente de instituto que se pierde en un mundo alternativo, donde una preciosa chica de pelo plateado lo rescata. Para devolverle el favor decide quedarse con ella, pero el destino con el que carga la muchacha es mucho más pesado de lo que Subaru puede imaginar</info>
+      <items> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZUDVPWXdsTXVZTkU</externallink>
+      </items>	
+    </channel>
+	
+    <channel>
+     <name>[COLOR red] [B]Yaoguai Mingdan[/B][/COLOR]</name>
+	 <thumbnail>http://cdn.myanimelist.net/images/anime/3/69999l.jpg</thumbnail>
+     <fanart></fanart>
+	 <info>Esta es la historia de Feng un chico que extrañamente se ve involucrado en un sexual guerra de un extraño demonio árbol muy sexual, que roba la vida de los hombres acostándose con ellos para mantenerse con vida y Una...</info>
+      <item> 
+         <externallink>https://googledrive.com/host/0BxL3_RxjXiMZN3N2aUIwNjhPSm8</externallink>
+      </item>	
+    </channel>
+
+
+
+
+
+	
+<channel>
+<name>[B][COLOR orangered]X-MEN[/B][/COLOR]</name>
+<thumbnail>https://latimesherocomplex.files.wordpress.com/2013/08/29-1992-xmenanimatedseries.jpg</thumbnail>
+        <fanart>http://4.bp.blogspot.com/-tpDhNa7-9eI/VOkvDBXVQlI/AAAAAAAAAlY/qYLcOeVjyow/s1600/x_men_animated_series.jpg</fanart>>
+<item>
+ <externallink>http://peraltarepo.netai.net/Peralta-List/newxml/X-Men.xml</externallink>
+</channel>
+
+
+
+	</channels>

@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<item>
+ 	<title>1x01 - Spring of the DEAD</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+01,69964656.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+01,69964656.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x02 - Escape from the DEAD</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+02,69962403.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+02,69962403.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x03 - Democracy under the DEAD</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+03,69960197.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+03,69960197.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x04 - Running in the DEAD</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+04,69966157.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+04,69966157.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x05 - Streets of DEAD</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+05,69952631.mp4(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+05,69952631.mp4(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x06 - In the DEAD of the night</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+06,69962726.mp4(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+06,69962726.mp4(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x07 - DEAD night and the DEAD ruck</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+07,69932188.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+07,69932188.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x08 - The DEAD way home</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+08,69929921.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+08,69929921.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x09 - The sword and DEAD</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+09,69927644.mp4(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+09,69927644.mp4(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x10 - The DEAD´s house rules</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+10,69923408.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+10,69923408.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x11 - DEAD storm rising</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+11,69917838.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High+School+of+the+Dead+11,69917838.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
+<item>
+ 	<title>1x12 - All DEAD´s attacks</title>
+ 	<thumbnail>https://image.tmdb.org/t/p/w500/2tPbvu0RuEP98pCg6wCiC3ok59Z.jpg</thumbnail>
+	<fanart>http://vignette1.wikia.nocookie.net/beelzebub/images/3/38/High-school-of-the-dead-takashi-komuro.jpg/revision/latest?cb=20130418042159&path-prefix=es</fanart>
+	<link>$doregex[url]</link>
+	<regex>
+	<name>url</name>
+	<expres>$pyFunction:'$doregex[get-url]'.replace('\u0026','&')</expres>
+	<page></page>
+	</regex>
+	<regex>
+	<name>get-url</name>
+	<expres>Url":"(.*?)"</expres>
+	<page>http://lolabits.es/action/License/Download</page>
+	<referer>http://lolabits.es</referer>
+	<rawpost>fileId=$doregex[id]&amp;__RequestVerificationToken=$doregex[tok]</rawpost>
+	<cookiejar></cookiejar>
+	</regex>
+	<regex>
+	<name>id</name>
+	<expres>Id" value="(.*?)"</expres>
+ 	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High_School_of_the_Dead_12,69916099.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+	<regex>
+	<name>tok</name>
+	<expres>Token.*?value="(.*?)"</expres>
+	<page>http://lolabits.es/monarcas_15215/highscool+of+the+dead/High_School_of_the_Dead_12,69916099.avi(video)</page>
+	<referer>http://lolabits.es/</referer>
+	</regex>
+</item>
