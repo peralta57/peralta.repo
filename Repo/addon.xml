@@ -2,8 +2,8 @@
 <addon id="repository.PeraltaRepo" name="[COLOR blue]Per[/COLOR]alta[COLOR red]Repo[/COLOR]" version="1.5 provider-name="Eperalta">
 	<extension point="xbmc.addon.repository" name="peralta Addon Repository">
 		<info compressed="false">https://raw.githubusercontent.com/peralta57/peralta.repo/master/Addons/addons.xml</info>
-		<checksum>http://peraltarepo.netai.net/Addons/addons.xml.md5</checksum>
-		<datadir zip="true">http://peraltarepo.netai.net/Addons/</datadir>
+		<checksum>https://raw.githubusercontent.com/peralta57/peralta.repo/master/Addons/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/peralta57/peralta.repo/tree/master/Addons</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install My Addons</summary>
