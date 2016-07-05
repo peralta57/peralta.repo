@@ -1,0 +1,10 @@
+[B]Version 1.5[/B]
+- added 2 new addons for movies and tv shows
+[B]Version 1.5[/B]
+- bug fix 
+
+[B]Version 1.2[/B]
+- Bug fix
+
+[B]Version 1.0[/B]
+- Initial version
