@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.DR" name="[COLOR blue]Domini[/COLOR]can[COLOR red]Theater[/COLOR]" version="1.5.0" provider-name="Eperalta">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.pyxbmct" version="1.1.4" />
+		<import addon="script.module.requests" version="1.1.0" />
+		<import addon="script.module.metahandler" version="2.3.1" />
+		<import addon="plugin.video.youtube" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[COLOR blue]Domini[/COLOR]can[COLOR red]Theater[/COLOR] </summary>
+		<description lang="en">video plugin for The Dominican comunity. Un Addon creado para la comunidad Dominicana y la tina de kodi una baina bien .</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+	</extension>
+</addon>

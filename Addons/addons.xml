@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.hdstream" name="[COLOR blue][B]HD[/COLOR][COLOR white]STR[/COLOR][COLOR red]EAM[/B][/COLOR]" version="1.0.6" provider-name="PERALTASTREAM">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.metahandler" version="2.5.1"/>
+	<import addon="script.module.requests" />
+	<import addon="repository.mdrepo" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Stream content From  PERALTASTREAM Library</summary>
+    <description lang="en">Stream Content From PERALTASTREAM Library</description>
+	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.EPHD++" name="[B][COLOR blue]EP[/COLOR]HD[COLOR red]++[/COLOR][/B]" version="3.0.3" provider-name="PERALTASTREAM">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.pyxbmct" version="1.1.4" />
+		<import addon="script.module.urlresolver" version="3.0.0"/>
+		<import addon="script.module.liveresolver" version="0.1.24"/>
+		<import addon="plugin.video.youtube" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Phoenix</summary>
+		<description lang="en">DISCOVER GREAT HD CONTENT FROM PERALTASTREAM</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+	</extension>
+</addon>
+
+<addon id="plugin.video.Cinemahd" name="[B][COLOR blue]CINE[/COLOR]MA[COLOR red]HD[/COLOR][/B]" version="1.0.0" provider-name="PERALTASTREAM">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.metahandler" version="2.5.1"/>
+	<import addon="script.module.requests" />
+	<import addon="repository.mdrepo" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Stream content</summary>
+    <description lang="en">Stream Content FROM PERALTASTREAM [B][COLOR blue]CINE[/COLOR]MA[COLOR red]HD[/COLOR][/B]</description>
+	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+5ver Great HD movies and tv shows content</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+	</extension>
+</addon>
+<addon id="plugin.video.EPMOVIES" name="[B][COLOR blue]EP[/COLOR]MOV[COLOR red]IES[/COLOR][/B]" version="1.1.3" provider-name="EPERALTA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.requests" />
+	<import addon="repository.mdrepo" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Stream Movies From EPESTRAM</summary>
+    <description lang="en"></description>
+	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.video.EPStream"
+       name="[B][COLOR blue]Peral[/COLOR]ta[COLOR red]Stream[/COLOR][/B]"
+       version="1.0.1"
+       provider-name="Eperalta">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary></summary>
+    <description>Lista de canales de EPStream.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.video.JustMovies"
+       name="[B][COLOR blue]Ju[/COLOR]st[COLOR red]Movies[/COLOR][/B]"
+       version="1.0.1"
+       provider-name="Eperalta">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary></summary>
+    <description>Lista de canales de EPStream.</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.video.Nightatthemovies" name="[B][COLOR blue]Night[/COLOR] At [COLOR red]The Movies[/COLOR][/B]" version="1.0.1" provider-name="EPERALTA">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.metahandler" version="2.5.1"/>
+	<import addon="script.module.requests" />
+	<import addon="repository.mdrepo" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Stream content From Night at The Movies</summary>
+    <description lang="en">Stream Content </description>
+	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.video.DR" name="[B][COLOR blue]Domini[/COLOR]can[COLOR red]Theater[/COLOR][/B]" version="1.5.0" provider-name="Eperalta">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0" />
+		<import addon="script.module.pyxbmct" version="1.1.4" />
+		<import addon="script.module.requests" version="1.1.0" />
+		<import addon="script.module.metahandler" version="2.3.1" />
+		<import addon="plugin.video.youtube" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">[COLOR blue]Domini[/COLOR]can[COLOR red]Theater[/COLOR] </summary>
+		<description lang="en">video plugin for The Dominican comunity. Un Addon creado para la comunidad Dominicana y la tina de kodi una baina bien .</description>
+		<platform>all</platform>
+		<forum></forum>
+		<website></website>
+	</extension>
+</addon>
+
+<addon id="plugin.video.hdstream" name="[COLOR blue][B]HD[/COLOR][COLOR white]STR[/COLOR][COLOR red]EAM[/B][/COLOR]" version="1.0.6" provider-name="PERALTASTREAM">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.metahandler" version="2.5.1"/>
+	<import addon="script.module.requests" />
+	<import addon="repository.mdrepo" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Stream content From  PERALTASTREAM Library</summary>
+    <description lang="en">Stream Content From PERALTASTREAM Library</description>
+	<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon or have any affiliation with the website owners</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+<addon id="plugin.video.click"
+       name="[B][COLOR blue]CL[/COLOR]I[COLOR red]CK[/COLOR][/B]"
+       version="1.1"
+       provider-name="PeraltaStream">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.t0mm0.common" version="2.0.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" /> 
+    <import addon="script.common.plugin.cache" version="2.5.2"/>
+    <import addon="script.module.metahandler" version="2.5.1"/>
+
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Streams videos from many difference sources</summary>
+    <description lang="en">Click is a third party add-on that is not affiliated with Kodi.</description>
+    <disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.
+    </disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+</addons>

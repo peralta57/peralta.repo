@@ -1,0 +1,7 @@
+v1.0.2
+Fixed search
+v1.0.1
+Fixed next page
+v1.0.0
+Initial Release
+
